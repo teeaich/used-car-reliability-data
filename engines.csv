@@ -1,0 +1,2112 @@
+brand,engine_code,displacement,fuel_type,rating,weakness_count,models,year_min,year_max
+Alfa Romeo,199B6000,0.9L TwinAir,Benzin,avoid,6,MiTo 955,2013,2018
+Alfa Romeo,312A2000,0.9L TwinAir 85,Benzin,avoid,6,MiTo 955,2011,2013
+Alfa Romeo,940A3000,1.6L JTDm,Diesel,avoid,6,MiTo 955; Giulietta 940,2009,2020
+Alfa Romeo,192A5.000,1.9L JTD 16V,Diesel,neutral,5,147 937; 156 932,1997,2006
+Alfa Romeo,198A4000,1.4L T-Jet LPG,LPG,neutral,6,MiTo 955,2013,2016
+Alfa Romeo,199A3000,1.3L JTDm 16V,Diesel,neutral,6,MiTo 955,2009,2010
+Alfa Romeo,199A8000,1.4L Turbo,Benzin,neutral,6,MiTo 955,2009,2013
+Alfa Romeo,199B4000,1.3L JTDm Eco,Diesel,neutral,6,MiTo 955,2011,2016
+Alfa Romeo,330A1000,1.3L JTDm 95,Diesel,neutral,6,MiTo 955,2016,2018
+Alfa Romeo,350A1000,1.4L 8V FIRE,Benzin,neutral,6,MiTo 955,2013,2018
+Alfa Romeo,46346020,1.6L Diesel,Diesel,neutral,6,Tonale 965,2022,2024
+Alfa Romeo,46347696,1.5L MHEV,Benzin,neutral,6,Tonale 965,2022,2024
+Alfa Romeo,55268597,2.2L MultiJet II,Diesel,neutral,6,Giulia 952; Stelvio 949,2016,2024
+Alfa Romeo,55273835,2.0L Turbo,Benzin,neutral,8,Giulia 952; Stelvio 949,2016,2024
+Alfa Romeo,670053796,2.9L V6 BiTurbo GTA,Benzin,neutral,6,Giulia 952,2020,2021
+Alfa Romeo,841C000,2.4L JTD,Diesel,neutral,6,156 932,2002,2006
+Alfa Romeo,841G.000,2.4L JTDM,Diesel,neutral,6,156 932,2003,2006
+Alfa Romeo,932A.000,3.2L V6 Busso,Benzin,neutral,10,147 937; 156 932,2002,2006
+Alfa Romeo,936A0000,3.2L V6 JTS,Benzin,neutral,7,GT 937C; GTV 916; Spider 916,2003,2010
+Alfa Romeo,937A1.000,2.0L JTS,Benzin,neutral,7,156 932; GT 937C; GTV 916; Spider 916,2001,2010
+Alfa Romeo,937A2.000,1.9L JTD,Diesel,neutral,6,147 937; 156 932,1997,2010
+Alfa Romeo,937A4.000,1.9L JTDM,Diesel,neutral,6,147 937,2004,2010
+Alfa Romeo,937A5.000,1.9L JTDM 16V,Diesel,neutral,6,147 937; GT 937C,2003,2010
+Alfa Romeo,939A.000,3.2L V6 JTS,Benzin,neutral,5,159 939; Brera 939; Spider 939,2005,2011
+Alfa Romeo,939A000,4.7L V8,Benzin,neutral,8,8C 920,2007,2012
+Alfa Romeo,939A1.000,1.9L JTDM,Diesel,neutral,6,159 939,2005,2011
+Alfa Romeo,939A2.000,1.9L JTDM 16V,Diesel,neutral,6,159 939,2005,2011
+Alfa Romeo,939A5.000,2.2L JTS,Benzin,neutral,6,159 939; Brera 939; Spider 939,2005,2011
+Alfa Romeo,939A6.000,1.9L JTS,Benzin,neutral,6,159 939,2005,2011
+Alfa Romeo,939A9.000,2.4L JTDM,Diesel,neutral,6,159 939; Brera 939; Spider 939,2005,2011
+Alfa Romeo,939B1.000,1.75L TBi,Benzin,neutral,6,159 939; Brera 939; Spider 939,2009,2011
+Alfa Romeo,939B3.000,2.0L JTDM,Diesel,neutral,6,159 939; Brera 939; Spider 939,2005,2011
+Alfa Romeo,940A1000,1.75L TBi,Benzin,neutral,8,Giulietta 940,2010,2020
+Alfa Romeo,940A2000,1.4L MultiAir Turbo,Benzin,neutral,8,MiTo 955; Giulietta 940,2010,2020
+Alfa Romeo,940A4000,2.0L JTDM,Diesel,neutral,6,Giulietta 940,2010,2020
+Alfa Romeo,940B7000,1.4L T-Jet,Benzin,neutral,6,MiTo 955; Giulietta 940,2008,2020
+Alfa Romeo,940C2000,1.4L MultiAir Turbo 150,Benzin,neutral,7,Giulietta 940,2015,2018
+Alfa Romeo,955A1000,1.4L 8V FIRE,Benzin,neutral,6,MiTo 955,2008,2013
+Alfa Romeo,955A6000,1.4L MultiAir 105,Benzin,neutral,6,MiTo 955,2009,2018
+Alfa Romeo,955A9000,1.4L 8V FIRE 70,Benzin,neutral,6,MiTo 955,2012,2016
+Alfa Romeo,955B1000,1.4L MultiAir Turbo 140,Benzin,neutral,7,MiTo 955,2013,2018
+Alfa Romeo,960A1.000,1.7L TBi,Benzin,neutral,9,4C 960,2013,2020
+Alfa Romeo,AR16101,3.0L V6,Benzin,neutral,6,Spider 916,1995,2001
+Alfa Romeo,AR16102,3.0L V6,Benzin,neutral,6,GTV 916; Spider 916,1995,2006
+Alfa Romeo,AR16202,2.0L V6 Turbo,Benzin,neutral,7,GTV 916; Spider 916,1995,2006
+Alfa Romeo,AR32104,1.6L Twin Spark,Benzin,neutral,8,147 937; 156 932,1997,2010
+Alfa Romeo,AR32201,1.8L Twin Spark,Benzin,neutral,8,156 932; GTV 916; Spider 916; GT 937C,1995,2010
+Alfa Romeo,AR32301,2.0L Twin Spark,Benzin,neutral,8,156 932,1997,2006
+Alfa Romeo,AR32310,2.0L Twin Spark,Benzin,neutral,8,147 937; 156 932; GTV 916; Spider 916,1995,2010
+Alfa Romeo,AR32401,2.5L V6,Benzin,neutral,6,156 932,1997,2003
+Alfa Romeo,AR32501,2.4L JTD,Diesel,neutral,7,156 932,1997,2002
+Alfa Romeo,AR37203,1.6L Twin Spark,Benzin,neutral,8,147 937; 156 932,1997,2010
+Alfa Romeo,PHEV-1332,1.3L PHEV,Benzin,neutral,6,Tonale 965,2022,2024
+Alfa Romeo,670052695,2.9L V6 BiTurbo,Benzin,recommended,8,Giulia 952; Stelvio 949,2016,2024
+Alfa Romeo,939A4.000,1.8L MPI,Benzin,recommended,6,159 939,2005,2011
+Audi,AAH,2.6L V6,Benzin,avoid,7,A4 B5,1994,1998
+Audi,AEB,1.8L Turbo,Benzin,avoid,8,A4 B5,1994,2001
+Audi,AKN,2.5L TDI V6,Diesel,avoid,5,A4 B5,1997,2001
+Audi,ASE,4.0L TDI V8,Diesel,avoid,6,A8 D3,2002,2010
+Audi,AUK,3.2L FSI V6,Benzin,avoid,6,A4 B7; A6 C6,2004,2008
+Audi,AXX,2.0L TFSI,Benzin,avoid,7,A3 8P; A4 B7; TT 8J,2004,2010
+Audi,BAM,1.8L Turbo,Benzin,avoid,5,TT 8N,1999,2006
+Audi,BAM-180,1.8L Turbo,Benzin,avoid,5,TT 8N,1998,2006
+Audi,BAR,4.2L FSI V8,Benzin,avoid,8,Q7 4L,2006,2015
+Audi,BAT,4.2L FSI V8,Benzin,avoid,8,A6 C6,2006,2011
+Audi,BBK,4.2L V8 FSI,Benzin,avoid,8,A4 B6; A4 B7,2003,2008
+Audi,BCY,4.2L V8 BiTurbo,Benzin,avoid,7,A6 C5,2002,2004
+Audi,BDG,2.5L TDI V6,Diesel,avoid,5,A6 C5,1997,2004
+Audi,BDX,2.8L FSI V6,Benzin,avoid,6,A6 C6,2008,2011
+Audi,BEX,1.8L Turbo,Benzin,avoid,7,A4 B6,2002,2004
+Audi,BFC,2.5L TDI V6,Diesel,avoid,6,A4 B6; A4 B7,2000,2009
+Audi,BFM,4.2L FSI V8,Benzin,avoid,8,A8 D3,2002,2010
+Audi,BHK,3.6L FSI V6,Benzin,avoid,6,Q7 4L,2006,2010
+Audi,BHZ,2.0L TFSI,Benzin,avoid,6,A3 8P,2006,2012
+Audi,BKD,2.0L TDI,Diesel,avoid,5,A3 8P,2003,2008
+Audi,BKN,3.0L TDI V6,Diesel,avoid,6,A4 B7,2004,2008
+Audi,BLS,1.9L TDI,Diesel,avoid,9,A3 8P,2005,2010
+Audi,BMK,3.0L TDI V6,Diesel,avoid,5,A6 C6,2004,2009
+Audi,BNS,4.2L FSI V8,Benzin,avoid,8,A4 B7,2005,2009
+Audi,BPJ,2.0L TDI,Diesel,avoid,5,A6 C6,2004,2008
+Audi,BPK,3.2L FSI V6,Benzin,avoid,6,A8 D3,2005,2010
+Audi,BRD,2.0L TDI,Diesel,avoid,5,A6 C6,2008,2011
+Audi,BUB,2.0L TDI,Diesel,avoid,5,TT 8J,2008,2014
+Audi,BUJ,5.2L V10 FSI,Benzin,avoid,11,R8 42; A6 C6; A8 D3; S8 D3,2006,2015
+Audi,BVE,2.0L TDI,Diesel,avoid,6,A4 B7,2004,2008
+Audi,BWE,2.0L TFSI,Benzin,avoid,5,A4 B7,2005,2008
+Audi,BYK,2.0L TFSI,Benzin,avoid,5,A6 C6,2005,2011
+Audi,CAEB,2.0L TFSI,Benzin,avoid,6,A4 B8; A5 8T; Q5 8R,2007,2017
+Audi,CAHA,2.0L TDI,Diesel,avoid,7,A4 B8; A5 8T; Q3 8U; Q5 8R,2008,2017
+Audi,CASB,3.0L TDI V6,Diesel,avoid,6,Q7 4L; A8 D4,2010,2018
+Audi,CAVE,1.4L TSI,Benzin,avoid,8,A1 8X,2010,2014
+Audi,CAXA,1.4L TSI,Benzin,avoid,7,A1 8X; A3 8P,2007,2018
+Audi,CBBB,1.8L TFSI,Benzin,avoid,5,TT 8J,2008,2014
+Audi,CBZA,1.2L TSI,Benzin,avoid,7,A1 8X; A3 8P,2010,2014
+Audi,CBZB,1.2L TSI,Benzin,avoid,6,A1 8X; A3 8P,2010,2014
+Audi,CCWA,3.0L TDI V6,Diesel,avoid,7,Q5 8R; A6 C6; A4 B8; A5 8T,2004,2017
+Audi,CCZA,2.0L TFSI,Benzin,avoid,7,A3 8P; TT 8J,2008,2014
+Audi,CCZB,2.0L TFSI,Benzin,avoid,5,TT 8J,2008,2014
+Audi,CDAA,1.8L TFSI,Benzin,avoid,5,TT 8J,2008,2014
+Audi,CDHA,1.8L TFSI,Benzin,avoid,5,A4 B8,2007,2012
+Audi,CDHB-106,1.8L TFSI,Benzin,avoid,6,A5 8T,2007,2016
+Audi,CDNC,2.0L TFSI,Benzin,avoid,7,A4 B8; A5 8T; Q3 8U,2008,2016
+Audi,CFSA,4.2L FSI V8,Benzin,avoid,9,A4 B8; A5 8T,2010,2017
+Audi,CGGA,1.2L TFSI,Benzin,avoid,5,A3 8P,2010,2013
+Audi,CGKD,4.2L FSI V8,Benzin,avoid,12,A5 8T; S5 8T,2006,2012
+Audi,CGLC,2.0L TDI,Diesel,avoid,6,A6 C7; A4 B8; A5 8T,2011,2015
+Audi,CGQB,3.0L TDI V6 BiTurbo,Diesel,avoid,6,A6 C7; A7 4G; Q5 8R,2010,2017
+Audi,CHZD,1.0L TFSI,Benzin,avoid,6,A1 8X; A1 GB,2015,2024
+Audi,CKNB,3.0L TDI V6,Diesel,avoid,5,A6 C7; A7 4G,2010,2018
+Audi,CRDB,4.0L TFSI V8 BiTurbo,Benzin,avoid,10,A6 C7; A7 4G,2015,2018
+Audi,CREC,3.0L TDI V6,Diesel,avoid,5,Q7 4M,2015,2019
+Audi,CTHG,1.4L TSI,Benzin,avoid,8,A1 8X,2012,2014
+Audi,CTPA,5.2L V10 FSI,Benzin,avoid,11,R8 42,2012,2015
+Audi,CVMD,3.0L TDI V6,Diesel,avoid,5,Q7 4M; Q8 4M,2015,2024
+Audi,CZVC,3.0L TDI V6,Diesel,avoid,6,A6 C8; A7 4K,2018,2024
+Audi,CZZA,3.0L TDI V6,Diesel,avoid,6,Q7 4M,2015,2018
+Audi,DAUB,3.0L TDI V6,Diesel,avoid,5,A6 C8; A7 4K,2019,2024
+Audi,ABT,2.0L Mono-Motronic,Benzin,neutral,7,80 B4,1991,1995
+Audi,ADP,1.6L MPI,Benzin,neutral,5,A4 B5,1994,2001
+Audi,AFN,1.9L TDI,Diesel,neutral,5,A3 8L; A4 B5,1994,2003
+Audi,AGA,2.4L V6,Benzin,neutral,5,A4 B5; A4 B6; A4 B7,1997,2009
+Audi,AGA-120,2.4L V6,Benzin,neutral,6,A4 B6,2002,2006
+Audi,AGR,1.9L TDI,Diesel,neutral,7,A3 8L; A4 B5,1995,2003
+Audi,AGU,1.8L Turbo,Benzin,neutral,5,A3 8L,1996,2003
+Audi,AKF,3.7L V8,Benzin,neutral,6,A8 D3,2002,2010
+Audi,ALT,2.0L MPI,Benzin,neutral,7,A4 B6,2000,2004
+Audi,AMF,1.4L TDI,Diesel,neutral,6,A2 8Z,2000,2003
+Audi,ANY,1.2L TDI,Diesel,neutral,6,A2 8Z,2000,2005
+Audi,APR,2.8L V6,Benzin,neutral,5,A4 B5,1996,2001
+Audi,APS,2.4L V6,Benzin,neutral,5,A4 B6,2000,2004
+Audi,ARL,1.9L TDI,Diesel,neutral,9,A3 8L,2000,2003
+Audi,ASB,3.0L TDI V6,Diesel,neutral,7,A4 B7,2004,2008
+Audi,ASN,3.0L V6 30V,Benzin,neutral,7,A6 C6,2004,2008
+Audi,AUA,1.4L MPI,Benzin,neutral,6,A2 8Z,2000,2005
+Audi,Audi-A6ET-185,Elektromotor Rear,Elektro,neutral,5,A6 C9,2024,2026
+Audi,Audi-A6ET-270,Elektromotor Dual,Elektro,neutral,5,A6 C9,2024,2026
+Audi,Audi-EM-230,Elektromotor Dual,Elektro,neutral,5,e-tron GE,2019,2023
+Audi,Audi-EM-300,Elektromotor Dual,Elektro,neutral,6,e-tron GE,2018,2023
+Audi,Audi-EM-370,Elektromotor Triple,Elektro,neutral,6,e-tron GE,2020,2023
+Audi,Audi-ETGT-142,Elektromotor Rear,Elektro,neutral,6,e-tron GT J1,2021,2026
+Audi,Audi-ETGT-390,Elektromotor Dual,Elektro,neutral,5,e-tron GT J1,2021,2024
+Audi,Audi-ETGT-475,Elektromotor Dual,Elektro,neutral,5,e-tron GT J1,2021,2024
+Audi,Audi-Q4ET-125,Elektromotor Rear,Elektro,neutral,5,Q4 FZ,2021,2026
+Audi,Audi-Q4ET-150,Elektromotor Rear,Elektro,neutral,5,Q4 FZ,2021,2026
+Audi,Audi-Q4ET-195,Elektromotor Dual,Elektro,neutral,5,Q4 FZ,2021,2026
+Audi,Audi-Q4ET-89,Elektromotor Rear,Elektro,neutral,5,Q4 FZ,2021,2026
+Audi,Audi-Q6ET-150,Elektromotor Rear,Elektro,neutral,5,Q6 J3,2024,2026
+Audi,Audi-Q6ET-285,Elektromotor Dual,Elektro,neutral,5,Q6 J3,2024,2026
+Audi,AUM,1.8L Turbo,Benzin,neutral,5,TT 8N,2001,2006
+Audi,AUQ,1.8L Turbo,Benzin,neutral,5,TT 8N,1998,2006
+Audi,AVJ,1.8L Turbo,Benzin,neutral,6,A4 B6,2000,2004
+Audi,AWA,1.8L Turbo,Benzin,neutral,6,A4 B6,2002,2004
+Audi,AWX,1.9L TDI,Diesel,neutral,8,A4 B6,2000,2004
+Audi,AWX-176,1.8L Turbo,Benzin,neutral,5,TT 8N,1998,2006
+Audi,AXR,1.9L TDI,Diesel,neutral,9,A3 8L,2000,2003
+Audi,AYP,1.8L Turbo,Benzin,neutral,5,A3 8L,1999,2003
+Audi,BAD,1.6L FSI,Benzin,neutral,5,A2 8Z,2002,2005
+Audi,BAG,1.6L FSI,Benzin,neutral,6,A3 8P,2003,2007
+Audi,BBJ,2.0L FSI,Benzin,neutral,7,A4 B6,2002,2004
+Audi,BDV,2.4L V6,Benzin,neutral,5,A4 B6; A4 B7,2001,2008
+Audi,BFB,1.8L Turbo,Benzin,neutral,6,A4 B7; A4 B6,2002,2008
+Audi,BFC-121,2.5L TDI V6,Diesel,neutral,5,A4 B6,2002,2006
+Audi,BFV,1.8L Turbo,Benzin,neutral,6,TT 8N,2005,2006
+Audi,BHC,1.4L TDI,Diesel,neutral,6,A2 8Z,2003,2005
+Audi,BHE,3.2L V6,Benzin,neutral,5,TT 8N; A3 8P,2003,2012
+Audi,BHT,6.0L W12,Benzin,neutral,5,A8 D3; A8 D4,2003,2017
+Audi,BKC,1.9L TDI,Diesel,neutral,8,A3 8P; A4 B7,2003,2008
+Audi,BLX,2.0L FSI,Benzin,neutral,5,A3 8P,2003,2008
+Audi,BMP,2.0L TDI,Diesel,neutral,6,A4 B7,2004,2008
+Audi,BRE,2.0L TDI,Diesel,neutral,6,A4 B7,2004,2008
+Audi,BSG,2.7L TDI V6,Diesel,neutral,5,A4 B7; A6 C6,2004,2008
+Audi,BSM,5.0L V10 BiTurbo,Benzin,neutral,6,A6 C6,2008,2010
+Audi,BTR,4.2L TDI V8,Diesel,neutral,5,Q7 4L,2007,2009
+Audi,BTR-235,4.2L TDI V8,Diesel,neutral,6,A8 D3,2002,2010
+Audi,BUG,3.0L TDI V6,Diesel,neutral,5,Q7 4L,2006,2010
+Audi,BYH,4.2L FSI V8,Benzin,neutral,8,R8 42,2006,2015
+Audi,BYT,2.8L FSI V6,Benzin,neutral,5,A6 C6,2006,2011
+Audi,CAGA,2.0L TDI,Diesel,neutral,5,A4 B8; A5 8T,2007,2016
+Audi,CAKA,3.0L TFSI V6,Benzin,neutral,15,A4 B8; A5 8T; S4 B8; S5 8T,2009,2016
+Audi,CALA,3.2L FSI V6,Benzin,neutral,6,A4 B8; A5 8T,2007,2012
+Audi,CALB,3.2L FSI V6,Benzin,neutral,5,Q5 8R,2008,2012
+Audi,CANA,2.7L TDI V6,Diesel,neutral,5,A4 B8; A5 8T; A6 C6,2004,2012
+Audi,CASA,3.0L TDI V6,Diesel,neutral,5,Q7 4L,2010,2015
+Audi,CASA-ETR,3.0L TDI V6 Hybrid,Diesel,neutral,5,Q7 4L,2007,2015
+Audi,CAUA,4.2L V8 FSI,Benzin,neutral,8,R8 42,2006,2012
+Audi,CAYB,1.6L TDI,Diesel,neutral,5,A1 8X; A3 8P; A3 8V,2009,2015
+Audi,CAYC,1.6L TDI,Diesel,neutral,5,A1 8X; A3 8P,2009,2015
+Audi,CBAB,2.0L TDI,Diesel,neutral,5,A3 8P,2008,2013
+Audi,CCFA,4.2L TDI V8,Diesel,neutral,5,Q7 4L,2012,2015
+Audi,CCGA,6.0L TDI V12,Diesel,neutral,6,Q7 4L,2007,2014
+Audi,CDHB,1.8L TFSI,Benzin,neutral,5,A4 B8; A5 8T,2007,2012
+Audi,CDLA,4.2L TDI V8,Diesel,neutral,6,A8 D4,2010,2018
+Audi,CDLF,2.0L TFSI,Benzin,neutral,5,TT 8J,2008,2014
+Audi,CDMD,3.0L TFSI V6,Benzin,neutral,7,A5 8T,2010,2017
+Audi,CDNB,2.0L TFSI,Benzin,neutral,5,A6 C7,2011,2018
+Audi,CDRA,4.2L FSI V8,Benzin,neutral,8,A8 D4,2010,2018
+Audi,CDTA,3.0L TDI V6,Diesel,neutral,5,A8 D4,2010,2013
+Audi,CDUC,3.0L TDI V6,Diesel,neutral,5,A6 C7; A7 4G,2010,2014
+Audi,CDUC-184,3.0L TDI V6,Diesel,neutral,6,Q5 8R,2008,2017
+Audi,CEPA,2.5L TFSI I5,Benzin,neutral,16,A3 8P; TT 8J,2009,2012
+Audi,CEPB,2.5L TFSI I5,Benzin,neutral,16,TT 8J,2011,2014
+Audi,CEUA,4.0L TFSI V8,Benzin,neutral,5,A8 D4,2013,2017
+Audi,CEUB,4.0L TFSI V8,Benzin,neutral,5,A8 D4,2012,2018
+Audi,CEUC,3.0L TFSI V6,Benzin,neutral,7,A6 C7,2011,2014
+Audi,CFFA,2.0L TDI,Diesel,neutral,5,Q3 8U,2011,2018
+Audi,CFFB,2.0L TDI,Diesel,neutral,6,Q3 8U,2011,2015
+Audi,CGWA,3.0L TFSI V6,Benzin,neutral,8,A8 D4,2010,2017
+Audi,CGWB,3.0L TFSI V6,Benzin,neutral,8,A6 C7; A7 4G,2010,2014
+Audi,CGXB,3.0L TFSI V6,Benzin,neutral,7,A8 D4,2013,2017
+Audi,CHVA,2.8L FSI V6,Benzin,neutral,5,A6 C7,2011,2018
+Audi,CHVA-140,2.8L FSI V6,Benzin,neutral,6,A6 C6,2004,2011
+Audi,CJCA,2.0L TDI,Diesel,neutral,5,A3 8P,2009,2013
+Audi,CJEB,1.8L TFSI,Benzin,neutral,5,A4 B8; A5 8T,2011,2016
+Audi,CJEK,1.8L TFSI,Benzin,neutral,5,A3 8V,2013,2020
+Audi,CJSA,2.0L TFSI,Benzin,neutral,9,A3 8V; TT 8S,2012,2018
+Audi,CJXB,2.0L TFSI,Benzin,neutral,7,A3 8V,2012,2016
+Audi,CJXC,2.0L TFSI,Benzin,neutral,8,A3 8V,2013,2016
+Audi,CJXF,2.0L TFSI,Benzin,neutral,6,TT 8S,2014,2023
+Audi,CJXG,2.0L TFSI,Benzin,neutral,8,A3 8V; TT 8S,2013,2023
+Audi,CLAA,3.0L TDI V6,Diesel,neutral,6,A6 C7; A7 4G,2010,2014
+Audi,CLZB,3.0L TDI V6,Diesel,neutral,5,A4 B8; A4 B9,2007,2023
+Audi,CMFA,2.0L TDI,Diesel,neutral,6,A4 B8,2013,2015
+Audi,CMGB,2.0L TDI,Diesel,neutral,6,A6 C7,2014,2018
+Audi,CMSA-449,5.2L V10 FSI,Benzin,neutral,7,R8 4S,2015,2019
+Audi,CNCD,2.0L TFSI,Benzin,neutral,6,A4 B8; A5 8T; A6 C7,2012,2018
+Audi,CNDA,4.2L V8 FSI,Benzin,neutral,8,R8 42,2012,2015
+Audi,CNHA,3.0L TDI V6,Diesel,neutral,5,A4 B9; A5 F5,2015,2019
+Audi,CRBC,2.0L TDI,Diesel,neutral,5,A3 8V,2012,2016
+Audi,CREA,3.0L TFSI V6,Benzin,neutral,7,Q7 4M; Q8 4M,2015,2024
+Audi,CRLB,2.0L TDI,Diesel,neutral,5,A3 8V; Q2 GA; TT 8S,2012,2020
+Audi,CRTE,3.0L TDI V6,Diesel,neutral,5,A6 C7; A7 4G; Q5 8R,2008,2018
+Audi,CRTE-190,3.0L TDI V6,Diesel,neutral,5,Q5 8R,2008,2017
+Audi,CSPB,5.2L V10 FSI,Benzin,neutral,7,R8 4S,2015,2019
+Audi,CSUB,2.0L TDI,Diesel,neutral,5,A6 C7,2014,2018
+Audi,CTEC,4.2L TDI V8,Diesel,neutral,5,A8 D4,2013,2017
+Audi,CTGA,4.0L TFSI V8 BiTurbo,Benzin,neutral,10,A6 C7; A7 4G; A8 D4; S8 D4,2012,2018
+Audi,CTGA-W12,6.3L W12,Benzin,neutral,5,A8 D4,2010,2018
+Audi,CTGB,4.0L TFSI V8 BiTurbo,Benzin,neutral,5,A6 C7,2012,2018
+Audi,CTSA,2.5L TFSI I5,Benzin,neutral,11,Q3 8U,2013,2018
+Audi,CTUA,3.0L TFSI V6,Benzin,neutral,7,A6 C7; A7 4G,2014,2018
+Audi,CUNA,2.0L TDI,Diesel,neutral,5,Q3 8U; A3 8V,2013,2020
+Audi,CUSB,1.4L TDI,Diesel,neutral,5,A1 8X,2014,2018
+Audi,CVUB,3.0L TDI V6 BiTurbo,Diesel,neutral,6,Q5 8R,2014,2017
+Audi,CWGD,3.0L TFSI V6,Benzin,neutral,8,A4 B9; A5 F5; Q5 FY; S4 B9; S5 F5,2016,2023
+Audi,CWUB,4.0L TFSI V8 BiTurbo,Benzin,neutral,10,A6 C7; A7 4G,2013,2018
+Audi,CWZA,2.0L TFSI,Benzin,neutral,5,A1 8X,2014,2018
+Audi,CXMA,1.6L TDI,Diesel,neutral,6,A3 8V,2013,2020
+Audi,CYRB,2.0L TFSI,Benzin,neutral,8,A4 B9; A5 F5; A6 C7; TT 8S,2014,2023
+Audi,CYVB,1.2L TFSI,Benzin,neutral,6,A3 8V,2014,2020
+Audi,CZAC,4.0L TDI V8 BiTurbo,Diesel,neutral,5,Q7 4M; Q8 4M,2016,2024
+Audi,CZCA,1.4L TFSI,Benzin,neutral,7,A1 8X; A3 8V; Q3 8U,2012,2018
+Audi,CZGB,2.5L TFSI I5,Benzin,neutral,11,A3 8V; Q3 8U,2015,2018
+Audi,CZSE,3.0L TFSI e V6,Benzin,neutral,9,A8 D5,2019,2025
+Audi,CZVA,3.0L TDI V6,Diesel,neutral,5,A6 C7; A7 4G,2014,2018
+Audi,DADA,1.5L TFSI,Benzin,neutral,5,A4 B9,2019,2023
+Audi,DAXB,2.0L TFSI,Benzin,neutral,5,Q5 FY,2017,2024
+Audi,DAZA,2.5L TFSI I5,Benzin,neutral,14,A3 8V; TT 8S,2016,2020
+Audi,DBCA,2.0L TDI,Diesel,neutral,6,Q2 GA,2019,2026
+Audi,DBPA,2.0L TFSI,Benzin,neutral,6,Q2 GA; Q3 F3,2016,2024
+Audi,DCBE,3.0L TFSI e V6,Benzin,neutral,9,Q7 4M; Q8 4M,2019,2026
+Audi,DCSA,4.0L TFSI V8 BiTurbo,Benzin,neutral,10,A6 C8; A7 4K; Q8 4M,2019,2024
+Audi,DCTB,2.9L TFSI V6 BiTurbo,Benzin,neutral,5,A6 C8; A7 4K,2019,2024
+Audi,DCU,4.0L TFSI V8 BiTurbo,Benzin,neutral,10,Q7 4M; Q8 4M,2020,2024
+Audi,DDTA,4.0L TFSI V8,Benzin,neutral,5,A8 D5,2017,2024
+Audi,DECA,2.9L TFSI V6 BiTurbo,Benzin,neutral,5,A4 B9; A5 F5,2017,2024
+Audi,DEJA,2.0L TDI,Diesel,neutral,5,A3 8Y,2020,2024
+Audi,DEMA,2.0L TFSI,Benzin,neutral,5,A6 C8,2018,2024
+Audi,DETA,2.0L TDI,Diesel,neutral,5,A4 B9; A5 F5; Q3 F3; A6 C8; Q5 FY,2015,2024
+Audi,DEUA,2.0L TDI,Diesel,neutral,6,A4 B9,2015,2019
+Audi,DEZE,2.0L TDI,Diesel,neutral,5,Q2 GA; A6 C8,2016,2024
+Audi,DEZF,2.0L TDI MHEV,Diesel,neutral,6,A6 C8,2019,2024
+Audi,DFGA,2.0L TDI,Diesel,neutral,5,A4 B9; A5 F5,2015,2019
+Audi,DFYA,2.0L TDI,Diesel,neutral,5,A3 8Y,2020,2024
+Audi,DGTE,1.6L TDI,Diesel,neutral,5,A1 8X; A3 8V; A3 8Y,2013,2022
+Audi,DHRA,4.0L TFSI V8 BiTurbo,Benzin,neutral,9,A8 D5,2019,2024
+Audi,DHXA,3.0L TDI V6,Diesel,neutral,5,Q7 4M,2018,2019
+Audi,DJHA,2.0L TFSI,Benzin,neutral,8,A3 8V,2016,2020
+Audi,DJHB,2.0L TFSI,Benzin,neutral,9,A3 8V,2016,2020
+Audi,DJTB,4.0L TFSI V8 BiTurbo,Benzin,neutral,10,A6 C8; A7 4K; Q8 4M,2023,2026
+Audi,DKGE,2.0L TDI,Diesel,neutral,5,A4 B9; A5 F5,2019,2024
+Audi,DKWB,2.0L TFSI,Benzin,neutral,7,A4 B9; A5 F5,2019,2023
+Audi,DKYA,2.0L TFSI,Benzin,neutral,6,A4 B9; A5 F5,2020,2023
+Audi,DKZA,2.0L TFSI,Benzin,neutral,7,A4 B9; A5 F5,2019,2023
+Audi,DKZA-152,2.0L TFSI,Benzin,neutral,5,A1 GB,2018,2026
+Audi,DKZF,2.0L TFSI e,Benzin,neutral,5,A3 8Y,2021,2024
+Audi,DKZF-150,1.5L TFSI e,Benzin,neutral,6,A3 8Y,2020,2026
+Audi,DLAA,1.0L TFSI,Benzin,neutral,7,A1 GB; Q2 GA; A3 8Y,2018,2024
+Audi,DLGA,2.0L TFSI e,Benzin,neutral,10,Q5 FY; A6 C8,2019,2023
+Audi,DLZA,3.0L TFSI V6,Benzin,neutral,7,A6 C8; A7 4K; A8 D5,2017,2024
+Audi,DMSA,3.2L V6,Benzin,neutral,5,A3 8P; TT 8J,2003,2010
+Audi,DNVA,3.0L TFSI V6,Benzin,neutral,7,A5 F5; Q5 FY; S5 F5; SQ5 FY,2024,2026
+Audi,DNWA,2.5L TFSI I5,Benzin,neutral,12,A3 8V; TT 8S,2019,2022
+Audi,DNWA-RSQ3,2.5L TFSI I5,Benzin,neutral,12,Q3 F3,2019,2024
+Audi,DNWC,2.5L TFSI I5,Benzin,neutral,14,A3 8Y,2021,2025
+Audi,DNXB,2.9L TFSI V6 BiTurbo,Benzin,neutral,6,A4 B9; A5 F5,2024,2026
+Audi,DRYA,2.0L TFSI e,Benzin,neutral,9,Q5 FY; A6 C8; A7 4K,2021,2025
+Audi,DTHA,3.0L TDI V6,Diesel,neutral,5,A6 C8; A7 4K; A8 D5; Q5 FY; Q7 4M,2017,2024
+Audi,DTHA-220,3.0L TDI V6,Diesel,neutral,5,A6 C8,2023,2026
+Audi,DTNA,2.0L TDI,Diesel,neutral,6,A6 C8; Q5 FY,2017,2024
+Audi,DTNS,3.0L TDI V6,Diesel,neutral,6,A4 B9; S4 B9; Q5 FY; SQ5 FY,2019,2024
+Audi,DTPA,3.0L TDI V6,Diesel,neutral,5,A4 B9; A5 F5; Q5 FY; A6 C8; S4 B9,2018,2026
+Audi,DTPA-257,3.0L TDI V6,Diesel,neutral,6,A6 C8,2018,2021
+Audi,DTUA,2.0L TDI,Diesel,neutral,5,A4 B9; A5 F5; A3 8Y; Q3 F3,2018,2026
+Audi,DTUA-142,2.0L TDI,Diesel,neutral,6,Q3 F3,2018,2026
+Audi,AGN,1.8L 20V,Benzin,recommended,6,A3 8L; A4 B5,1994,2003
+Audi,BAU,1.6L MPI,Benzin,recommended,5,A4 B6,2000,2004
+Audi,BBJ-V6,3.0L V6,Benzin,recommended,6,A4 B6,2000,2004
+Audi,BDW,2.4L V6,Benzin,recommended,6,A6 C6,2004,2008
+Audi,BGU,1.6L MPI,Benzin,recommended,8,A3 8P; A3 8L,2000,2007
+Audi,BPP,2.7L TDI V6,Diesel,recommended,5,A4 B7,2004,2008
+Audi,BSE,1.6L MPI,Benzin,recommended,7,A3 8L; A4 B7,2000,2008
+Audi,CHZE,1.0L TFSI,Benzin,recommended,5,A1 8X,2014,2018
+Audi,CHZJ,1.0L TFSI,Benzin,recommended,5,A1 8X; Q2 GA,2015,2020
+Audi,CJSA-130,1.8L TFSI,Benzin,recommended,5,A5 8T,2007,2016
+Audi,CMSA,5.2L V10 FSI,Benzin,recommended,6,R8 4S,2019,2023
+Audi,CPWA,1.4L TFSI g-tron,CNG,recommended,6,A3 8V,2013,2018
+Audi,CSWB,3.0L TDI V6,Diesel,recommended,5,A4 B9,2015,2019
+Audi,CULB,2.0L TFSI,Benzin,recommended,5,Q3 8U,2013,2018
+Audi,CXZA,2.0L TFSI,Benzin,recommended,5,A1 8X,2014,2018
+Audi,CYJA,1.8L TFSI,Benzin,recommended,6,A6 C7; A1 8X,2014,2018
+Audi,CZCA-85,1.4L TFSI,Benzin,recommended,6,A3 8V,2013,2020
+Audi,CZDA,1.4L TFSI,Benzin,recommended,6,A4 B9; A5 F5,2015,2019
+Audi,CZEA,1.4L TFSI,Benzin,recommended,6,A3 8V; Q2 GA,2012,2020
+Audi,DHNF,1.5L CNG,CNG,recommended,5,A3 8Y,2020,2024
+Audi,DKAB,5.2L V10 FSI,Benzin,recommended,5,R8 4S,2020,2023
+Audi,DKWA,1.5L TFSI,Benzin,recommended,5,A3 8Y,2020,2026
+Audi,DKZC,2.0L TFSI,Benzin,recommended,8,A1 GB; A3 8Y,2019,2024
+Audi,DMTA,2.0L TFSI,Benzin,recommended,7,Q3 F3; A6 C8; A7 4K; Q5 FY,2018,2026
+Audi,DMWA,5.2L V10 FSI,Benzin,recommended,5,R8 4S,2019,2023
+Audi,DNUE,2.0L TFSI,Benzin,recommended,7,A3 8Y,2020,2025
+Audi,DPCA,1.5L TFSI,Benzin,recommended,6,A1 GB; A3 8Y; Q2 GA,2018,2024
+BMW,B47D20,2.0L Diesel,Diesel,avoid,7,1er F20; 1er F40; 2er F22; 2er F45; 2er G42,2012,2026
+BMW,M41D17,1.7L TDS,Diesel,avoid,7,3er E36,1995,1998
+BMW,M47D20,2.0L Diesel,Diesel,avoid,7,3er E46; 5er E39,1998,2006
+BMW,M47TUD20,2.0L Diesel,Diesel,avoid,5,3er E46; 5er E60; X3 E83; 1er E87,2001,2007
+BMW,M52TUB25,2.5L 24V,Benzin,avoid,5,3er E46,1998,2000
+BMW,M54B22,2.2L 24V,Benzin,avoid,5,3er E46; Z3 E36/7; Z4 E85; 5er E39,2000,2006
+BMW,M57D30,3.0L Diesel,Diesel,avoid,6,3er E46; 5er E39; 7er E38; X5 E53; X3 E83,1998,2007
+BMW,M57TUD30,3.0L Diesel Biturbo,Diesel,avoid,7,3er E90; 5er E60; X3 E83; X5 E70; 7er E65,2004,2011
+BMW,M62B35,3.5L V8,Benzin,avoid,7,5er E39; 7er E38,1996,2003
+BMW,N20B20,2.0L Turbo,Benzin,avoid,7,3er F30; Z4 E89; X1 E84; X3 F25; 5er F10,2007,2017
+BMW,N43B16,1.6L DI,Benzin,avoid,7,1er E87,2007,2011
+BMW,N43B20,2.0L DI,Benzin,avoid,5,1er E87; 3er E90,2007,2012
+BMW,N47D20,2.0L Diesel,Diesel,avoid,6,1er E87; 1er F20; 2er F22; 3er E90; 3er F30,2007,2016
+BMW,N53B25,2.5L DI,Benzin,avoid,7,3er E90; 5er E60,2007,2012
+BMW,N53B30,3.0L DI,Benzin,avoid,7,3er E90; 5er E60,2007,2012
+BMW,N54B30,3.0L Biturbo,Benzin,avoid,6,1er E82; 3er E90; 5er E60; Z4 E89,2006,2011
+BMW,N62B36,3.6L V8,Benzin,avoid,9,7er E65,2001,2005
+BMW,N62B40,4.0L V8,Benzin,avoid,9,5er E60,2005,2010
+BMW,N62B44,4.4L V8,Benzin,avoid,9,6er E63; 6er E64; X5 E53; 7er E65,2001,2010
+BMW,N62B48,4.8L V8,Benzin,avoid,9,6er E63; 6er E64; X5 E70; X5 E53,2004,2010
+BMW,N63B44,4.4L V8 Biturbo,Benzin,avoid,7,5er F10; 7er F01; X5 E70; X6 E71; 6er F13,2008,2014
+BMW,S50B32,3.2L 6-Zyl,Benzin,avoid,9,M3 E36,1995,1999
+BMW,S54B32,3.2L 6-Zyl,Benzin,avoid,9,M3 E46; Z4 M E85; Z3 M E36/7,2000,2008
+BMW,S62B50,5.0L V8,Benzin,avoid,10,M5 E39,1998,2003
+BMW,S65B40,4.0L V8,Benzin,avoid,10,M3 E90; M3 E92; M3 E93; 3er E90,2007,2013
+BMW,S85B50,5.0L V10,Benzin,avoid,9,M5 E60; M6 E63; M6 E64; 5er E61,2005,2010
+BMW,B37D15,1.5L 3-Zyl Diesel,Diesel,neutral,7,1er F20; 2er F45; X2 F39,2014,2023
+BMW,B38B15,1.5L 3-Zyl Turbo,Benzin,neutral,7,1er F20; 1er F40; 2er F45; 2er U06; X1 F48,2014,2026
+BMW,B48B20,2.0L Turbo,Benzin,neutral,6,1er F20; 1er F40; 2er F44; 2er G42; 2er U06,2015,2026
+BMW,B57D30,3.0L Diesel,Diesel,neutral,5,3er G20; 4er G22; 5er G30; 6er G32; 7er G11,2010,2026
+BMW,B58B30,3.0L Turbo,Benzin,neutral,5,1er F20; 2er F22; 2er G42; 3er G20; 4er G22,2015,2026
+BMW,B58B30S,3.0L Twin Turbo,Benzin,neutral,5,5er G60; 5er G61,2023,2026
+BMW,BMW-Gen5-Single,Elektromotor Gen5,Elektro,neutral,6,iX3 G08; i4 G26; iX I20; i7 G70; iX1 U11,2020,2026
+BMW,BMW-i3-eDrive,Elektromotor,Elektro,neutral,5,i3 I01,2013,2022
+BMW,M40B18,1.8L 8V,Benzin,neutral,7,3er E36,1990,1993
+BMW,M43B16,1.6L 8V,Benzin,neutral,5,3er E36; 3er E46,1993,2002
+BMW,M43B18,1.8L 8V,Benzin,neutral,5,3er E36; Z3 E36/7,1993,1999
+BMW,M43B19,1.9L 8V,Benzin,neutral,5,3er E36; 3er E46; Z3 E36/7,1998,2002
+BMW,M44B19,1.9L 16V,Benzin,neutral,7,Z3 E36/7,1996,1999
+BMW,M52B20,2.0L 24V,Benzin,neutral,5,3er E36; Z3 E36/7; 5er E39,1994,2000
+BMW,M52B25,2.5L 24V,Benzin,neutral,7,3er E36; 5er E39; Z3 E36/7; 3er E46,1995,2000
+BMW,M52B28,2.8L 24V,Benzin,neutral,5,3er E36; 5er E39; Z3 E36/7; 7er E38,1995,2001
+BMW,M54B25,2.5L 24V,Benzin,neutral,6,3er E46; Z3 E36/7; Z4 E85; 5er E39; X3 E83,2000,2006
+BMW,M54B30,3.0L 24V,Benzin,neutral,6,3er E46; Z3 E36/7; Z4 E85; 5er E39; X3 E83,2000,2006
+BMW,M62B44,4.4L V8,Benzin,neutral,7,5er E39; 7er E38; X5 E53,1996,2003
+BMW,M67D39,3.9L V8 Diesel,Diesel,neutral,7,7er E38,1999,2001
+BMW,M67D44,4.4L V8 Diesel,Diesel,neutral,7,7er E65,2005,2008
+BMW,N13B16,1.6L Turbo,Benzin,neutral,7,1er F20; 3er F30; X1 E84,2011,2019
+BMW,N45B16,1.6L,Benzin,neutral,7,1er E87,2004,2007
+BMW,N46B20,2.0L,Benzin,neutral,5,1er E87; 3er E90; Z4 E85; X1 E84,2004,2012
+BMW,N47D16,1.6L Diesel,Diesel,neutral,6,1er F20,2012,2015
+BMW,N52B25,2.5L Magnesium,Benzin,neutral,7,3er E90; 5er E60; Z4 E85,2005,2012
+BMW,N52B30,3.0L Magnesium,Benzin,neutral,5,3er E90; 1er E87; 5er E60; 6er E63; X1 E84,2005,2015
+BMW,N55B30,3.0L Turbo,Benzin,neutral,5,1er F20; 2er F22; 3er F30; 4er F32; 5er F10,2008,2019
+BMW,N57D30,3.0L Diesel,Diesel,neutral,6,3er E90; 3er F30; 4er F32; 5er F10; 6er F13,2006,2020
+BMW,N57D30S1,3.0L Quad-Turbo,Diesel,neutral,7,5er F10; X5 F15; X6 F16; 5er G30,2012,2023
+BMW,N63B44TU,4.4L V8 Biturbo,Benzin,neutral,5,5er F10; 7er F01; X5 F15; X6 F16; 6er F13,2012,2020
+BMW,N74B60,6.0L V12 Biturbo,Benzin,neutral,11,7er F01; 7er E65,2003,2015
+BMW,N74B66,6.6L V12 Biturbo,Benzin,neutral,11,7er G11,2016,2022
+BMW,S55B30,3.0L Biturbo,Benzin,neutral,10,M2 F87; M3 F80; M4 F82; M4 F83; 3er F80,2014,2021
+BMW,S58B30,3.0L Biturbo,Benzin,neutral,9,M2 G87; M3 G80; M4 G82; M4 G83; X3 M F97,2019,2026
+BMW,S63B44,4.4L V8 Biturbo,Benzin,neutral,6,X5 M E70; X6 M E71; M5 F10; M6 F06; M6 F13,2009,2019
+BMW,S63B44T4,4.4L V8 Biturbo,Benzin,neutral,8,M5 F90; M8 G15; M8 G16; X5 M F95; X6 M F96,2017,2026
+BMW,BMW-Gen5-Dual,Elektromotor Gen5 Dual,Elektro,recommended,5,i4 G26; iX I20; i7 G70; i5 G60; iX1 U11,2021,2026
+BMW,N63B44TU3,4.4L V8 Biturbo,Benzin,recommended,5,7er G11; 8er G15; 8er G14; 8er G16; X5 G05,2018,2026
+BMW,S68B44,4.4L V8 Biturbo Mild-Hybrid,Benzin,recommended,7,M5 G90; XM G09,2022,2026
+Citroën,4HN,2.2L HDi 160,Diesel,avoid,6,C-Crosser I,2007,2013
+Citroën,DV4,1.4L HDi,Diesel,avoid,6,C1 I; C2 I; C3 I; C3 Pluriel I; Xsara N1,2000,2014
+Citroën,DV5-100,1.5L BlueHDi 100,Diesel,avoid,6,C3 III; C3 Aircross I; Berlingo III; C4 III,2018,2026
+Citroën,DV5-130,1.5L BlueHDi 130,Diesel,avoid,6,C4 III; C5 Aircross I; Berlingo III; C4 X I,2018,2026
+Citroën,DV6-109,1.6L HDi 109,Diesel,avoid,6,C4 I; C4 II; C5 I; C4 Picasso I; DS3 I,2004,2018
+Citroën,DV6-75,1.6L HDi 75,Diesel,avoid,6,C3 II; Berlingo II; Nemo I,2008,2018
+Citroën,DV6-92,1.6L HDi 92,Diesel,avoid,6,C3 I; C3 II; C4 I; C4 Picasso I; Berlingo II,2000,2019
+Citroën,DV6-BlueHDi100,1.6L BlueHDi 100,Diesel,avoid,6,C3 III; C4 Cactus I; C3 Aircross I; C-Elysée I,2014,2020
+Citroën,DV6-BlueHDi120,1.6L BlueHDi 120,Diesel,avoid,6,C4 II; C4 Picasso II; DS3 I; DS4 I; DS5 I,2013,2024
+Citroën,DW10-109,2.0L HDi 109,Diesel,avoid,6,C4 I; C5 I; Xsara Picasso N1,2000,2012
+Citroën,DW10-136,2.0L HDi 136,Diesel,avoid,6,C4 I; C5 I; C5 II; C4 Picasso I; C4 II,2001,2022
+Citroën,DW10-150,2.0L HDi/BlueHDi 150,Diesel,avoid,6,C5 II; C4 Picasso II; DS4 I; DS5 I; SpaceTourer I,2008,2024
+Citroën,DW10-163,2.0L HDi 163,Diesel,avoid,6,C5 II; DS5 I; DS4 I,2009,2018
+Citroën,DW10-C8,2.0L HDi 120,Diesel,avoid,6,C8 I,2002,2014
+Citroën,EB0,1.0L PureTech,Benzin,avoid,6,C1 II,2014,2022
+Citroën,EB2-ADTX,1.2L PureTech 155,Benzin,avoid,6,C4 III; C4 X I,2020,2026
+Citroën,EB2-DT,1.2L PureTech Turbo,Benzin,avoid,7,C3 III; C3 Aircross I; C4 Cactus I; C4 III; C3 Picasso I,2014,2026
+Citroën,EB2-DT-MH,1.2L PureTech Turbo 48V,Benzin,avoid,6,C4 III; C4 X I; C5 Aircross I; C5 X I,2023,2026
+Citroën,EB2-DTS,1.2L PureTech 130,Benzin,avoid,6,C4 Cactus I; C4 III; C5 Aircross I; C5 X I; C4 Picasso II,2014,2026
+Citroën,EB2-NA,1.2L PureTech,Benzin,avoid,6,C3 II; C3 III; C4 Cactus I; C-Elysée I; C3 Picasso I,2012,2024
+Citroën,EM-100,Elektro 100kW,Elektro,avoid,6,C4 III; Berlingo III; C4 X I,2020,2026
+Citroën,EP6-PHEV,1.6L THP + E-Motor,Benzin,avoid,6,C5 Aircross I; C5 X I,2020,2026
+Citroën,EP6-THP,1.6L THP,Benzin,avoid,7,C4 I; C4 II; DS3 I; DS4 I; DS5 I,2008,2026
+Citroën,EP6-VTi,1.6L VTi,Benzin,avoid,6,C3 II; C4 I; C4 II; Berlingo II; DS3 I,2008,2018
+Citroën,UHN,2.7L HDi V6,Diesel,avoid,6,C5 II; C6 I,2005,2009
+Citroën,UHZ,3.0L HDi V6,Diesel,avoid,6,C5 II; C6 I,2009,2012
+Citroën,Y51,Elektromotor,Elektro,avoid,5,C-Zero I,2010,2020
+Citroën,1KR-FE,1.0L,Benzin,neutral,6,C1 I; C1 II,2005,2022
+Citroën,4B12,2.4L MIVEC,Benzin,neutral,5,C-Crosser I,2007,2013
+Citroën,4N13,1.8L DI-D,Diesel,neutral,6,C4 Aircross I,2012,2017
+Citroën,DW10-126,2.0L HDi 126,Diesel,neutral,6,C5 II,2008,2012
+Citroën,DW10-90,2.0L HDi 90,Diesel,neutral,6,Xsara N1; Xsara Picasso N1; Berlingo I,1999,2012
+Citroën,DW10-BlueHDi180,2.0L BlueHDi 180,Diesel,neutral,6,C5 Aircross I; DS5 I; C5 II; SpaceTourer I,2015,2026
+Citroën,DW12,2.2L HDi,Diesel,neutral,6,C5 II; C6 I; C8 I; C5 I,2002,2014
+Citroën,EM-115,Elektro 115kW,Elektro,neutral,6,C4 III; C4 X I,2024,2026
+Citroën,EM-157,Elektro 157kW,Elektro,neutral,6,C5 Aircross II,2025,2026
+Citroën,EM-170,Elektro 170kW,Elektro,neutral,6,C5 Aircross II,2025,2026
+Citroën,EM-83,Elektro 83kW,Elektro,neutral,6,ë-C3 I,2024,2026
+Citroën,EP3,1.4L VTi,Benzin,neutral,6,C3 II; DS3 I; C3 Picasso I,2009,2016
+Citroën,ES9,3.0L V6,Benzin,neutral,6,C5 I; C5 II; C6 I; C8 I,2001,2017
+Citroën,EW10,2.0L 16V,Benzin,neutral,6,C4 I; C5 I; Xsara N1,2000,2010
+Citroën,EW12,2.2L 16V,Benzin,neutral,6,C8 I,2002,2014
+Citroën,EW7,1.8L 16V,Benzin,neutral,6,C4 Picasso I; Xsara Picasso N1; C5 I,1999,2013
+Citroën,FHZ,1.3L MultiJet,Diesel,neutral,6,Nemo I,2008,2014
+Citroën,TU3,1.4L,Benzin,neutral,6,C2 I; C3 I; C3 Pluriel I; Xsara N1,1997,2010
+Citroën,TU5,1.6L 16V,Benzin,neutral,5,C2 I; C4 I; Xsara N1; Xsara Picasso N1; C3 II,1997,2016
+Cupra,DGEA,1.4L TSI eHybrid,Benzin,neutral,4,Leon KL; Formentor I,2020,2024
+Cupra,DNFB,2.0L TSI,Benzin,neutral,4,Leon KL; Formentor I; Leon KL-FL; Formentor I-FL,2020,2026
+Cupra,DNFC,2.0L TSI,Benzin,neutral,4,Leon KL; Leon KL-FL; Ateca I-FL,2020,2026
+Cupra,DNPA,2.0L TSI,Benzin,neutral,4,Formentor I; Formentor I-FL; Leon KL-FL; Terramar I,2021,2026
+Cupra,DNUE,2.0L TSI,Benzin,neutral,4,Ateca I,2018,2020
+Cupra,DNWB,2.5L TFSI,Benzin,neutral,4,Formentor I,2021,2023
+Cupra,DTT,2.0L TDI,Diesel,neutral,4,Leon KL-FL; Formentor I; Formentor I-FL,2021,2026
+Cupra,DXD,1.5L eTSI,Benzin,neutral,4,Leon KL-FL; Formentor I-FL; Terramar I,2024,2026
+Cupra,EBJ,Elektro,Elektro,neutral,3,Born I,2021,2024
+Cupra,EDC,Elektro,Elektro,neutral,3,Born I-FL,2024,2026
+Cupra,APP550,Elektro,Elektro,recommended,3,Tavascan I,2024,2026
+Cupra,DNNA,2.0L TSI,Benzin,recommended,4,Ateca I-FL; Formentor I,2021,2026
+Cupra,DPCA,1.5L TSI,Benzin,recommended,4,Leon KL; Leon KL-FL; Formentor I; Ateca I-FL,2020,2026
+Cupra,DUC,1.5L TSI eHybrid,Benzin,recommended,3,Leon KL-FL; Formentor I-FL; Terramar I,2024,2026
+Dacia,H5F-92kW,1.2L Turbo,Benzin,avoid,4,Duster I; Duster II,2014,2023
+Dacia,H5Ft-85kW,1.2L Turbo,Benzin,avoid,4,Lodgy I; Dokker I,2012,2022
+Dacia,HR18DDT,1.8L Hybrid,Benzin,avoid,4,Bigster I,2025,2026
+Dacia,D4F-54kW,1.2L 16V,Benzin,neutral,3,Logan II; Sandero II,2015,2021
+Dacia,D4F-55kW,1.2L 16V,Benzin,neutral,3,Logan I; Sandero I; Logan II; Sandero II,2009,2015
+Dacia,D4F-55kW-LPG,1.2L 16V,LPG,neutral,7,Logan II; Sandero II,2011,2015
+Dacia,H4B,0.9L Turbo,Benzin,neutral,4,Logan II; Sandero II,2012,2021
+Dacia,H4B-CNG,0.9L Turbo,CNG,neutral,4,Sandero II,2018,2021
+Dacia,H4B-LPG,0.9L Turbo,LPG,neutral,8,Logan II; Sandero II,2015,2021
+Dacia,H4D-49kW,1.0L NA,Benzin,neutral,3,Logan III; Sandero III,2021,2026
+Dacia,H4D-67kW,1.0L Turbo,Benzin,neutral,3,Logan III; Sandero III; Duster II,2020,2026
+Dacia,H4D-67kW-LPG,1.0L Turbo,LPG,neutral,7,Logan III; Sandero III; Duster II; Jogger I,2021,2026
+Dacia,H4D-74kW,1.0L Turbo,Benzin,neutral,3,Sandero III; Duster II,2019,2026
+Dacia,H4D-74kW-LPG,1.0L Turbo,LPG,neutral,7,Sandero III; Logan III; Duster II,2020,2026
+Dacia,H4Dt-81kW,1.0L Turbo,Benzin,neutral,3,Sandero III; Jogger I,2022,2026
+Dacia,H4M-Hybrid-Duster,1.6L Hybrid,Benzin,neutral,5,Duster III,2024,2026
+Dacia,H4M-Hybrid-Jogger,1.6L Hybrid,Benzin,neutral,5,Jogger I,2023,2026
+Dacia,K4M,1.6L 16V,Benzin,neutral,4,Logan I; Sandero I; Logan II; Sandero II; Duster I,2006,2021
+Dacia,K4M-LPG,1.6L 16V,LPG,neutral,8,Duster I,2011,2017
+Dacia,K7J-LPG,1.4L NA,LPG,neutral,8,Logan I; Sandero I,2009,2012
+Dacia,K7M-61kW-LPG,1.6L 8V,LPG,neutral,8,Lodgy I; Dokker I,2014,2015
+Dacia,K7M-62kW-LPG,1.6L 8V,LPG,neutral,8,Logan II; Sandero II,2011,2016
+Dacia,K7M-64kW-LPG,1.6L 8V,LPG,neutral,8,Logan I; Sandero I,2008,2012
+Dacia,K9K-50kW,1.5L dCi,Diesel,neutral,5,Logan I; Sandero I,2005,2012
+Dacia,K9K-55kW,1.5L dCi,Diesel,neutral,5,Logan II; Sandero II; Dokker I,2012,2021
+Dacia,K9K-63kW,1.5L dCi,Diesel,neutral,5,Logan I; Sandero I; Sandero II; Duster I,2006,2018
+Dacia,K9K-65kW,1.5L dCi,Diesel,neutral,5,Logan II; Sandero II,2012,2020
+Dacia,K9K-66kW,1.5L dCi,Diesel,neutral,5,Logan II; Sandero II; Duster I; Duster II; Lodgy I,2010,2023
+Dacia,K9K-70kW,1.5L Blue dCi,Diesel,neutral,5,Logan II; Sandero II; Duster II; Lodgy I,2018,2023
+Dacia,K9K-80kW,1.5L dCi,Diesel,neutral,5,Duster I; Duster II,2013,2023
+Dacia,K9K-84kW,1.5L Blue dCi,Diesel,neutral,5,Duster II,2021,2023
+Dacia,K9K-85kW,1.5L Blue dCi,Diesel,neutral,5,Duster II; Lodgy I,2018,2023
+Dacia,Spring_EM,Elektro,Elektro,neutral,4,Spring I,2021,2026
+Dacia,B4D,1.0L NA,Benzin,recommended,2,Logan II; Sandero II,2016,2021
+Dacia,H4M-75kW,1.6L 16V,Benzin,recommended,3,Lodgy I; Dokker I,2015,2022
+Dacia,H4M-75kW-LPG,1.6L 16V,LPG,recommended,7,Lodgy I; Dokker I,2015,2022
+Dacia,H4M-80kW-LPG,1.6L 16V,LPG,recommended,7,Lodgy I,2018,2022
+Dacia,H4M-84kW,1.6L 16V,Benzin,recommended,3,Duster I; Duster II,2015,2023
+Dacia,H4M-84kW-LPG,1.6L 16V,LPG,recommended,7,Duster I; Duster II,2015,2023
+Dacia,H5H-110kW,1.3L Turbo,Benzin,recommended,4,Duster II,2019,2023
+Dacia,H5H-75kW,1.3L Turbo,Benzin,recommended,4,Lodgy I; Dokker I,2019,2022
+Dacia,H5H-96kW,1.3L Turbo,Benzin,recommended,4,Duster II; Lodgy I,2019,2023
+Dacia,HR12-96kW,1.2L Turbo Mild Hybrid,Benzin,recommended,3,Duster III,2024,2026
+Dacia,HR12VDV-103kW,1.2L Turbo Mild Hybrid,Benzin,recommended,2,Bigster I,2025,2026
+Dacia,HR12VDV-103kW-LPG,1.2L Turbo Mild Hybrid,LPG,recommended,2,Bigster I,2025,2026
+Dacia,K7J,1.4L NA,Benzin,recommended,4,Logan I; Sandero I,2005,2012
+Dacia,K7M-61kW,1.6L 8V,Benzin,recommended,4,Lodgy I; Dokker I,2012,2015
+Dacia,K7M-62kW,1.6L 8V,Benzin,recommended,4,Logan II; Sandero II,2012,2016
+Dacia,K7M-64kW,1.6L 8V,Benzin,recommended,4,Logan I; Sandero I,2005,2012
+Fiat,182B4,1.9L JTD,Diesel,avoid,5,Multipla 186,1999,2000
+Fiat,182B9,1.9L JTD,Diesel,avoid,4,Doblo 223; Idea 350,2001,2012
+Fiat,186A6,1.9L JTD,Diesel,avoid,4,Multipla 186,2000,2004
+Fiat,186A9,1.9L MultiJet,Diesel,avoid,4,Multipla 186; Doblo 223,2005,2010
+Fiat,192A1,1.9L JTD,Diesel,avoid,5,Stilo 192,2001,2003
+Fiat,192A5,1.9L JTD 16V,Diesel,avoid,4,Stilo 192,2003,2008
+Fiat,199A8-Abarth,1.4L T-Jet Turbo,Benzin,avoid,4,Punto 199,2007,2018
+Fiat,312A2,0.9L TwinAir Turbo,Benzin,avoid,5,500 312; Panda 169; Panda 319; 500L 330,2010,2022
+Fiat,940B7,1.4L T-Jet Turbo,Benzin,avoid,5,500L 330,2014,2022
+Fiat,955A2,1.4L MultiAir Turbo,Benzin,avoid,4,500X 334; Tipo 356,2014,2020
+Fiat,EB2LTEDH2,1.2L Turbo Mild-Hybrid,Benzin,avoid,4,Grande Panda GP,2025,2026
+Fiat,ERB,3.6L V6 Pentastar,Benzin,avoid,4,Freemont JC,2012,2016
+Fiat,169A3,1.4L 16V,Benzin,neutral,3,500 312,2010,2013
+Fiat,169A4,1.2L 8V,Benzin,neutral,5,Punto 188; Punto 199; Panda 169; Panda 319; 500 312,2001,2023
+Fiat,176B2,1.1L 8V,Benzin,neutral,3,Seicento 187,1998,2010
+Fiat,182B6,1.6L 16V,Benzin,neutral,5,Stilo 192; Multipla 186; Doblo 223,2001,2010
+Fiat,183A1,1.8L 16V,Benzin,neutral,4,Punto 188,2003,2005
+Fiat,188A5,1.2L 16V,Benzin,neutral,5,Punto 188; Stilo 192; Idea 350,1999,2010
+Fiat,188A9,1.3L MultiJet I,Diesel,neutral,4,Punto 188; Punto 199; Panda 169; Panda 319; Idea 350,2003,2012
+Fiat,192A3,1.9L JTD,Diesel,neutral,4,Stilo 192,2002,2003
+Fiat,192A4,1.8L 16V,Benzin,neutral,4,Stilo 192,2001,2006
+Fiat,192A8,1.9L MultiJet,Diesel,neutral,5,Bravo 198,2007,2014
+Fiat,192B2,1.4L 16V,Benzin,neutral,3,Bravo 198,2007,2014
+Fiat,194A1,2.2L 16V,Benzin,neutral,4,Croma 194,2005,2011
+Fiat,198A2,1.6L MultiJet,Diesel,neutral,5,Bravo 198; Tipo 356; 500X 334,2007,2021
+Fiat,198A3,1.6L MultiJet II,Diesel,neutral,4,Doblo 263; Linea 323,2009,2022
+Fiat,198A4,1.4L T-Jet Turbo,Benzin,neutral,4,Bravo 198; Punto 199,2007,2014
+Fiat,198A8,2.0L MultiJet,Diesel,neutral,4,Bravo 198,2008,2014
+Fiat,199A2,1.3L MultiJet II,Diesel,neutral,4,Punto 199,2005,2018
+Fiat,199A3,1.3L MultiJet II,Diesel,neutral,4,Punto 199; Linea 323; Idea 350,2005,2018
+Fiat,199A5,1.9L MultiJet,Diesel,neutral,4,Punto 199,2005,2014
+Fiat,199B1,1.3L MultiJet II,Diesel,neutral,5,500 312; Punto 199; Panda 169; Panda 319; Doblo 263,2010,2022
+Fiat,199B4,1.3L MultiJet II,Diesel,neutral,3,Punto 199,2012,2018
+Fiat,199B5,1.6L MultiJet II,Diesel,neutral,3,500L 330,2013,2022
+Fiat,223A7,1.9L MultiJet,Diesel,neutral,4,Doblo 223,2003,2010
+Fiat,223A9,1.3L MultiJet,Diesel,neutral,4,Doblo 223,2005,2010
+Fiat,263A1,2.0L MultiJet,Diesel,neutral,3,Doblo 263,2009,2022
+Fiat,263A4,1.6L MultiJet II,Diesel,neutral,3,Doblo 263,2010,2022
+Fiat,312A1-Abarth,1.4L T-Jet Turbo,Benzin,neutral,8,500 312; 595 312; 695 312,2008,2024
+Fiat,312B4-Abarth,1.4L T-Jet Turbo,Benzin,neutral,5,595 312,2012,2024
+Fiat,46346020,1.6L MultiJet II,Diesel,neutral,4,Tipo 356,2020,2024
+Fiat,500e-EV,Elektromotor,Elektro,neutral,4,500e 332,2020,2026
+Fiat,55253268-Abarth,1.4L MultiAir Turbo,Benzin,neutral,4,124 Spider NF,2016,2019
+Fiat,55260384,1.6L MultiJet II,Diesel,neutral,5,500X 334; Tipo 356,2014,2020
+Fiat,55263088,2.0L MultiJet II,Diesel,neutral,3,500X 334,2014,2018
+Fiat,55266963,1.3L MultiJet II,Diesel,neutral,4,500X 334; Tipo 356,2017,2020
+Fiat,600e-EV,Elektromotor,Elektro,neutral,3,600e 600,2023,2026
+Fiat,843A1,1.4L 16V,Benzin,neutral,5,Punto 188; Doblo 263; 500L 330; Idea 350; Stilo 192,2003,2022
+Fiat,937A5,1.9L MultiJet 16V,Diesel,neutral,4,Bravo 198,2007,2008
+Fiat,939A1,1.9L MultiJet,Diesel,neutral,4,Croma 194,2005,2011
+Fiat,939A2,1.9L MultiJet 16V,Diesel,neutral,4,Croma 194,2005,2011
+Fiat,939A3,2.4L MultiJet,Diesel,neutral,5,Croma 194,2005,2011
+Fiat,939A4,1.8L 16V,Benzin,neutral,4,Croma 194,2005,2011
+Fiat,939B5,2.0L MultiJet,Diesel,neutral,4,Freemont JC,2011,2016
+Fiat,955A3,1.6L E-Torq,Benzin,neutral,4,Tipo 356; 500X 334,2015,2020
+Fiat,955A3-D,1.6L MultiJet II,Diesel,neutral,3,500L 330,2014,2022
+Fiat,955A6,1.4L MultiAir,Benzin,neutral,4,Punto 199,2010,2018
+Fiat,955A8-Abarth,1.4L MultiAir Turbo,Benzin,neutral,4,Punto 199,2010,2018
+Fiat,D19AA,1.9L MultiJet,Diesel,neutral,4,Sedici FY,2005,2014
+Fiat,D20AA,2.0L MultiJet,Diesel,neutral,3,Sedici FY,2009,2014
+Fiat,GSE-T3,1.0L FireFly Turbo,Benzin,neutral,4,500 312; Panda 319; Tipo 356,2020,2024
+Fiat,GSE-T3-MH,1.0L FireFly Mild-Hybrid,Benzin,neutral,4,500 312; Panda 319,2020,2024
+Fiat,GSE-T4-MH,1.5L FireFly Turbo Mild-Hybrid,Benzin,neutral,5,500X 334; Tipo 356,2022,2025
+Fiat,198A1,1.4L T-Jet Turbo,Benzin,recommended,3,Bravo 198,2007,2014
+Fiat,198A7,1.4L MultiAir Turbo,Benzin,recommended,3,Bravo 198,2010,2014
+Fiat,350A1,1.4L 8V,Benzin,recommended,5,Punto 188; Punto 199; Panda 169; Panda 319; 500 312,2005,2020
+Fiat,955A2-TJet,1.4L T-Jet Turbo,Benzin,recommended,2,Tipo 356,2015,2020
+Fiat,ED3,2.4L Tigershark,Benzin,recommended,4,Freemont JC,2014,2016
+Fiat,GSE-T4,1.3L Turbo,Benzin,recommended,4,500X 334,2018,2022
+Fiat,M16A,1.6L 16V,Benzin,recommended,4,Sedici FY,2005,2014
+Ford,1Z,1.9L TDI,Diesel,avoid,6,Galaxy WGR,1996,2006
+Ford,AFN,1.9L TDI,Diesel,avoid,7,Galaxy WGR,1997,2000
+Ford,ASZ,1.9L TDI,Diesel,avoid,7,Galaxy WGR,2003,2006
+Ford,AUY,1.9L TDI,Diesel,avoid,7,Galaxy WGR,2000,2006
+Ford,BCCC,2.0L EcoBlue,Diesel,avoid,7,S-Max II; Galaxy III,2018,2023
+Ford,BCCD,2.0L EcoBlue,Diesel,avoid,8,Mondeo CD391,2019,2022
+Ford,BGDA,2.5L Duratec Atkinson,Benzin,avoid,7,Kuga III,2019,2026
+Ford,BHPA,1.8L Duratorq TDCi,Diesel,avoid,6,C-Max DM2,2007,2010
+Ford,Duratorq-2.2-TDCi,2.2L TDCi,Diesel,avoid,6,Ranger III,2011,2019
+Ford,DV6,1.6L Duratorq TDCi,Diesel,avoid,6,Mondeo BA7,2011,2014
+Ford,EcoBlue-2.0-Focus-STH,2.0L EcoBlue,Diesel,avoid,7,Focus Mk4,2018,2026
+Ford,EcoBlue-2.0-Ranger,2.0L EcoBlue,Diesel,avoid,7,Ranger III,2019,2022
+Ford,EcoBoost-1.6-Kuga2,1.6L EcoBoost,Benzin,avoid,7,Kuga II,2012,2016
+Ford,EcoBoost-2.0-Edge,2.0L EcoBoost,Benzin,avoid,6,Edge II,2016,2019
+Ford,F9DA,1.8L TDCi,Diesel,avoid,6,Focus DAW; Focus DA3,2001,2015
+Ford,G8DA,1.6L TDCi,Diesel,avoid,6,Focus DA3; C-Max DM2,2003,2012
+Ford,G8DA-44kW,1.6L TDCi 60PS,Diesel,avoid,6,Focus FLH,2005,2011
+Ford,HHDA,1.6L TDCi,Diesel,avoid,6,Focus DA3,2005,2012
+Ford,HHJA,1.6L TDCi,Diesel,avoid,6,Fiesta JA8,2009,2012
+Ford,HJBA,1.8L TDCi,Diesel,avoid,6,Focus DA3,2005,2007
+Ford,JQDA,1.6L EcoBoost,Benzin,avoid,7,Focus DYB,2011,2014
+Ford,JQDB,1.6L EcoBoost,Benzin,avoid,7,C-Max DXA,2010,2015
+Ford,JTDB,1.6L EcoBoost,Benzin,avoid,7,C-Max DXA,2010,2015
+Ford,JTWA,1.6L EcoBoost,Benzin,avoid,7,S-Max WA6; Galaxy WA6,2010,2015
+Ford,KNWA,2.2L Duratorq TDCi,Diesel,avoid,7,S-Max WA6; Galaxy WA6,2010,2015
+Ford,M1CA,1.0L EcoBoost,Benzin,avoid,7,Mondeo CD391,2014,2018
+Ford,M1DA,1.0L EcoBoost,Benzin,avoid,6,Fiesta JA8; B-Max I; EcoSport I; C-Max DXA,2012,2017
+Ford,M2DA,1.0L EcoBoost,Benzin,avoid,6,Focus DYB; C-Max DXA,2011,2015
+Ford,M2NA,1.0L EcoBoost,Benzin,avoid,6,EcoSport I,2017,2022
+Ford,M8DB,1.5L EcoBoost,Benzin,avoid,7,C-Max DXA,2015,2019
+Ford,M9DA,1.5L EcoBoost,Benzin,avoid,6,Focus DEH,2018,2024
+Ford,M9DB,1.5L EcoBoost,Benzin,avoid,7,C-Max DXA,2015,2019
+Ford,P4JB,1.0L EcoBoost,Benzin,avoid,6,Puma II,2020,2021
+Ford,QJBA,2.2L Duratorq TDCi,Diesel,avoid,6,Mondeo B4Y,2003,2007
+Ford,QYBA,1.8L Duratorq TDCi,Diesel,avoid,6,Mondeo BA7,2007,2010
+Ford,QYWA,1.8L Duratorq TDCi,Diesel,avoid,7,S-Max WA6; Galaxy WA6,2006,2010
+Ford,R9CB,2.0L EcoBoost,Benzin,avoid,6,Mondeo CD391,2014,2022
+Ford,R9CD,2.0L EcoBoost,Benzin,avoid,6,S-Max II; Galaxy III,2015,2019
+Ford,R9DA,2.0L Ti-VCT,Benzin,avoid,6,Focus DYB,2011,2018
+Ford,R9MA,2.0L EcoBoost,Benzin,avoid,6,Kuga II; Kuga III,2017,2021
+Ford,SFDA,1.6L TDCi,Diesel,avoid,6,Fiesta JA8,2012,2017
+Ford,T1DA,1.6L TDCi,Diesel,avoid,6,Focus DYB,2011,2019
+Ford,T1DB,1.6L Duratorq TDCi,Diesel,avoid,6,C-Max DXA,2010,2015
+Ford,T1WA,1.6L Duratorq TDCi,Diesel,avoid,9,S-Max WA6; Galaxy WA6,2010,2015
+Ford,T3DB,1.6L Duratorq TDCi,Diesel,avoid,6,C-Max DXA,2010,2015
+Ford,T7CE,2.0L EcoBlue TDCi,Diesel,avoid,7,Mondeo CD391,2014,2022
+Ford,T7CI,2.0L EcoBlue TDCi,Diesel,avoid,9,S-Max II; Galaxy III,2015,2019
+Ford,T7DB,2.0L EcoBlue TDCi,Diesel,avoid,8,C-Max DXA,2015,2019
+Ford,T8CC,2.0L EcoBlue TDCi,Diesel,avoid,7,Mondeo CD391; Kuga II; Edge II,2014,2022
+Ford,T8CG,2.0L EcoBlue TDCi,Diesel,avoid,7,S-Max II; Galaxy III,2015,2019
+Ford,T9CA,2.0L EcoBlue TDCi,Diesel,avoid,7,Mondeo CD391,2015,2022
+Ford,T9CB,2.0L EcoBlue TDCi,Diesel,avoid,7,S-Max II; Galaxy III,2015,2019
+Ford,TNBA,2.0L EcoBoost,Benzin,avoid,6,Mondeo BA7,2010,2014
+Ford,TNCD,2.0L EcoBoost,Benzin,avoid,6,Mondeo BA7; Mondeo CD391,2010,2022
+Ford,TNWA,2.0L EcoBoost,Benzin,avoid,7,Galaxy WA6,2010,2015
+Ford,TPBA,2.0L EcoBoost,Benzin,avoid,6,Mondeo BA7; S-Max WA6,2010,2015
+Ford,TXDA,2.0L EcoBlue,Diesel,avoid,7,Focus DEH,2018,2024
+Ford,TXWA,2.0L Duratorq TDCi,Diesel,avoid,10,S-Max WA6; Galaxy WA6,2010,2015
+Ford,TZJA,1.5L TDCi,Diesel,avoid,6,Focus DYB,2012,2019
+Ford,UNCA,1.5L EcoBoost,Benzin,avoid,7,Mondeo CD391,2014,2022
+Ford,YLCB,2.0L EcoBlue Bi-Turbo,Diesel,avoid,7,S-Max II; Galaxy III; Edge II,2018,2024
+Ford,YMCB,2.0L EcoBlue,Diesel,avoid,7,S-Max II; Galaxy III,2018,2023
+Ford,YMCC,2.0L EcoBlue,Diesel,avoid,8,Mondeo CD391,2019,2022
+Ford,YMDA,2.0L EcoBlue,Diesel,avoid,8,Kuga III,2019,2024
+Ford,YNCA,2.0L EcoBlue,Diesel,avoid,7,S-Max II; Galaxy III,2018,2023
+Ford,YVDA,2.3L EcoBoost RS,Benzin,avoid,11,Focus DYB,2016,2018
+Ford,YYJE,1.0L EcoBoost,Benzin,avoid,6,Puma II,2019,2021
+Ford,YZDA,1.5L EcoBoost,Benzin,avoid,6,Focus DEH,2018,2024
+Ford,199A3000,1.3L Multijet,Diesel,neutral,6,Ka RU8,2009,2013
+Ford,AAA,2.8L VR6,Benzin,neutral,6,Galaxy WGR,1995,2000
+Ford,ALDA,2.0L Zetec-E,Benzin,neutral,6,Focus DAW,1998,2004
+Ford,ALDA,2.0L Turbo,Benzin,neutral,7,Focus DAW,2002,2003
+Ford,ALDB,2.0L Zetec-E ST170,Benzin,neutral,9,Focus DAW,2002,2004
+Ford,AOBA,2.0L Duratec-HE,Benzin,neutral,6,Mondeo BA7,2007,2010
+Ford,AODA,2.0L Duratec HE,Benzin,neutral,6,Focus DA3; C-Max DM2,2003,2011
+Ford,AOWA,2.0L Duratec-HE,Benzin,neutral,6,S-Max WA6; Galaxy WA6,2006,2010
+Ford,AYL,2.8L VR6,Benzin,neutral,6,Galaxy WGR,2000,2006
+Ford,AZBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7,2007,2010
+Ford,B7DA,1.0L EcoBoost,Benzin,neutral,6,Focus DEH,2018,2021
+Ford,B7JA,1.0L EcoBoost mHEV,Benzin,neutral,6,Puma II,2019,2024
+Ford,BGCA,2.5L Hybrid,Benzin,neutral,7,S-Max II; Galaxy III,2021,2023
+Ford,BHDA,1.8L Endura-DI Turbo,Diesel,neutral,6,Focus DAW,1999,2004
+Ford,BQWA,3.0L EcoBoost V6,Benzin,neutral,7,Explorer VI,2019,2024
+Ford,BZJA,1.0L EcoBoost mHEV,Benzin,neutral,6,Puma II,2019,2026
+Ford,C15HDTX,1.5L EcoBoost,Benzin,neutral,6,S-Max II; Galaxy III,2018,2023
+Ford,C9DA,1.8L Endura-DI,Diesel,neutral,6,Focus DAW,1999,2004
+Ford,Capri-RWD-89,Elektromotor Hinterachse,Elektro,neutral,6,Capri I,2024,2026
+Ford,CFBA,1.8L Duratec SCi,Benzin,neutral,6,Mondeo B4Y,2003,2007
+Ford,CGBA,1.8L Zetec-E,Benzin,neutral,6,Mondeo B4Y,2001,2007
+Ford,CHBA,1.8L Duratec-HE,Benzin,neutral,6,Mondeo B4Y,2001,2007
+Ford,CJBA,2.0L Duratec-HE,Benzin,neutral,6,Mondeo B4Y,2001,2007
+Ford,Coyote-Gen3,5.0L Ti-VCT V8,Benzin,neutral,7,Mustang S550; Mustang S650,2015,2026
+Ford,Coyote-S197,5.0L Ti-VCT V8,Benzin,neutral,6,Mustang S197,2010,2014
+Ford,Coyote-S197-Boss,5.0L Ti-VCT V8 Boss,Benzin,neutral,8,Mustang S197,2012,2013
+Ford,CSDA,1.8L Duratec-HE,Benzin,neutral,7,C-Max DM2,2003,2010
+Ford,D5BA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo B4Y,2001,2007
+Ford,D6BA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo B4Y,2001,2007
+Ford,Duratec-37,3.7L V6,Benzin,neutral,6,Mustang S550,2015,2017
+Ford,Duratec-ST-2.0,2.0L Duratec ST,Benzin,neutral,6,Fiesta Mk5,2004,2008
+Ford,Duratorq-3.2-TDCi,3.2L TDCi,Diesel,neutral,6,Ranger III,2011,2015
+Ford,Duratorq-TDCi-2.0-140,2.0L TDCi Duratorq Facelift,Diesel,neutral,7,Kuga I,2010,2012
+Ford,E5SA,2.3L Duratec-HE,Benzin,neutral,6,Galaxy WGR,1997,2006
+Ford,EcoBlue-1.5-EcoSport,1.5L EcoBlue TDCi,Diesel,neutral,6,EcoSport I,2017,2026
+Ford,EcoBlue-1.5-Kuga3,1.5L EcoBlue,Diesel,neutral,7,Kuga III,2019,2022
+Ford,EcoBoost-2.3-Mustang,2.3L EcoBoost,Benzin,neutral,6,Mustang S550,2015,2024
+Ford,EYDA,1.4L Zetec-SE,Benzin,neutral,6,Focus DAW,1999,2004
+Ford,EYDB,1.8L Zetec-E,Benzin,neutral,6,Focus DAW,1998,2004
+Ford,F6JA,1.4L TDCi,Diesel,neutral,6,Fiesta JH,2001,2008
+Ford,FMBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo B4Y,2002,2007
+Ford,FYDA,1.6L Zetec-SE,Benzin,neutral,6,Focus DAW,1998,2004
+Ford,G6DA,2.0L TDCi,Diesel,neutral,7,Focus DA3; C-Max DM2,2003,2012
+Ford,G6DG,2.0L TDCi Duratorq,Diesel,neutral,7,Kuga I,2008,2010
+Ford,HUBA,2.5L Turbo,Benzin,neutral,12,Focus DA3; Mondeo BA7,2005,2011
+Ford,HUWA,2.5L Duratec-ST,Benzin,neutral,7,S-Max WA6,2006,2010
+Ford,HXJA,1.6L Ti-VCT,Benzin,neutral,6,Fiesta JA8,2008,2012
+Ford,HXJB,1.6L Ti-VCT,Benzin,neutral,6,Fiesta JA8,2011,2012
+Ford,HYDB,2.5L Duratec,Benzin,neutral,6,Kuga I,2008,2010
+Ford,IQJC,1.6L Ti-VCT,Benzin,neutral,6,Fiesta JA8,2012,2017
+Ford,IVMA-CMax-Hybrid,2.0L Atkinson Hybrid,Benzin,neutral,6,C-Max DM2,2014,2020
+Ford,JAJA,1.3L Endura-E,Benzin,neutral,6,Ka RBT; Fiesta JH,1996,2008
+Ford,JTBB,1.6L EcoBoost,Benzin,neutral,6,Mondeo BA7,2010,2014
+Ford,JTJA,1.6L EcoBoost,Benzin,neutral,6,Fiesta JA8,2013,2017
+Ford,JTJC,1.6L EcoBoost,Benzin,neutral,6,Fiesta JA8,2013,2017
+Ford,KNBA,2.2L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7; S-Max WA6,2010,2015
+Ford,L1L,1.6L Zetec-E,Benzin,neutral,6,Mondeo BAP,1998,2000
+Ford,LCBD,2.5L Duratec-VE,Benzin,neutral,6,Mondeo B4Y,2001,2007
+Ford,M1JL,1.0L EcoBoost,Benzin,neutral,6,Fiesta JA8; B-Max JK8; Fiesta HJ,2012,2020
+Ford,M1JN,1.0L EcoBoost,Benzin,neutral,6,Fiesta HJ,2020,2023
+Ford,M8MA,1.5L EcoBoost,Benzin,neutral,7,Kuga II; Kuga III,2016,2026
+Ford,Mach-E-ER-AWD,Dual-Motor Extended Range AWD,Elektro,neutral,6,Mustang Mach-E I,2020,2026
+Ford,Mach-E-ER-RWD,Elektromotor Hinterachse Extended Range,Elektro,neutral,6,Mustang Mach-E I,2020,2026
+Ford,Mach-E-GT,Dual-Motor GT Extended Range,Elektro,neutral,6,Mustang Mach-E I,2020,2026
+Ford,Mach-E-SR-AWD,Dual-Motor Standard Range AWD,Elektro,neutral,6,Mustang Mach-E I,2020,2026
+Ford,Mach-E-SR-RWD,Elektromotor Hinterachse Standard Range,Elektro,neutral,6,Mustang Mach-E I,2020,2026
+Ford,MEBA,3.0L Duratec-ST,Benzin,neutral,6,Mondeo B4Y,2002,2007
+Ford,MUDA,1.6L Duratec Ti-VCT,Benzin,neutral,6,B-Max I,2012,2017
+Ford,Mustang-Shelby-GT500-S197,5.4L Supercharged V8,Benzin,neutral,7,Mustang S197,2010,2014
+Ford,Mustang-V6-S197,3.7L V6,Benzin,neutral,7,Mustang S197,2011,2014
+Ford,NGA,2.0L Zetec-E,Benzin,neutral,6,Mondeo BAP,1996,2000
+Ford,NSE,2.0L Zetec-E,Benzin,neutral,6,Galaxy WGR,1995,2006
+Ford,P4JA,1.0L EcoBoost,Benzin,neutral,6,Fiesta HJ,2019,2023
+Ford,PNBA,1.6L Duratec-Ti,Benzin,neutral,6,Mondeo BA7,2007,2015
+Ford,PNDA,1.6L Ti-VCT,Benzin,neutral,6,Focus DYB; C-Max DXA,2010,2015
+Ford,Puma-Gen-E,Elektromotor,Elektro,neutral,6,Puma II,2025,2026
+Ford,Q4BA,2.2L Duratorq TDCi,Diesel,neutral,6,Mondeo BA7,2007,2010
+Ford,Q4WA,2.2L Duratorq TDCi,Diesel,neutral,7,S-Max WA6; Galaxy WA6,2006,2010
+Ford,QQDA,1.8L Duratec HE,Benzin,neutral,6,Focus DA3,2005,2011
+Ford,QQDB,1.8L Duratec-HE,Benzin,neutral,7,C-Max DM2,2007,2010
+Ford,QXBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7,2007,2010
+Ford,QXWA,2.0L Duratorq TDCi,Diesel,neutral,7,S-Max WA6; Galaxy WA6,2006,2010
+Ford,R9DC,2.0L EcoBoost ST,Benzin,neutral,6,Focus DYB,2012,2014
+Ford,R9DC-ECOSPORT,2.0L Ti-VCT GDi,Benzin,neutral,6,EcoSport I,2017,2022
+Ford,REBA,3.0L Duratec-VE,Benzin,neutral,6,Mondeo B4Y,2003,2007
+Ford,RFN,1.8L Endura-TDE,Diesel,neutral,6,Mondeo BAP,1996,2000
+Ford,RKB,1.8L Zetec-E,Benzin,neutral,6,Mondeo BAP,1996,2000
+Ford,SEB,2.5L Duratec-VE,Benzin,neutral,6,Mondeo BAP,1996,2000
+Ford,SEWA,2.3L Duratec-HE,Benzin,neutral,6,S-Max WA6; Galaxy WA6,2006,2010
+Ford,SFJA,1.5L TDCi,Diesel,neutral,6,Ka+ 2016,2016,2019
+Ford,SFJA-ECOSPORT,1.5L TDCi,Diesel,neutral,6,B-Max I; EcoSport I,2012,2017
+Ford,SFJD,1.5L TDCi,Diesel,neutral,6,Fiesta JA8,2012,2017
+Ford,SFJH,1.5L TDCi,Diesel,neutral,6,Fiesta HJ,2017,2020
+Ford,SGA,2.5L Duratec-ST,Benzin,neutral,6,Mondeo BAP,1999,2000
+Ford,SHDB,1.6L Duratec Ti-VCT,Benzin,neutral,6,Focus DA3,2005,2011
+Ford,T7CJ,2.0L EcoBlue TDCi,Diesel,neutral,7,S-Max II; Galaxy III,2015,2019
+Ford,TDCi-2.0-Kuga2,2.0L TDCi,Diesel,neutral,7,Kuga II,2012,2016
+Ford,TXBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7,2010,2014
+Ford,TXDB,2.0L Duratorq TDCi,Diesel,neutral,7,C-Max DXA,2010,2015
+Ford,TYBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7,2010,2014
+Ford,TYDA,2.0L TDCi,Diesel,neutral,7,Focus DYB,2011,2018
+Ford,UACA,2.0L Atkinson,Benzin,neutral,6,Mondeo CD391,2014,2022
+Ford,UEJB,1.4L TDCi,Diesel,neutral,6,Fusion JU2; Fiesta JA8,2001,2013
+Ford,UFBA,2.0L Duratorq TDCi,Diesel,neutral,7,Mondeo BA7,2010,2014
+Ford,UFDB,2.0L Duratorq TDCi,Diesel,neutral,7,C-Max DXA,2010,2015
+Ford,UFWA,2.0L Duratorq TDCi,Diesel,neutral,7,S-Max WA6; Galaxy WA6,2010,2015
+Ford,UGCC,1.5L EcoBlue TDCi,Diesel,neutral,6,Mondeo CD391,2015,2022
+Ford,UNCI,1.5L EcoBoost,Benzin,neutral,6,S-Max II; Galaxy III,2015,2019
+Ford,Volvo-B5254-Focus-ST,2.5L Turbo,Benzin,neutral,6,Focus FLH,2005,2011
+Ford,XWDA,1.5L EcoBlue,Diesel,neutral,6,EcoSport I; C-Max DXA,2015,2020
+Ford,XWDB,1.5L EcoBlue,Diesel,neutral,6,Puma II,2020,2021
+Ford,XXDA,1.5L EcoBlue TDCi,Diesel,neutral,7,C-Max DXA,2015,2019
+Ford,XZGA,1.0L EcoBoost mHEV,Benzin,neutral,6,Focus DEH,2020,2024
+Ford,Y5DC,2.3L EcoBoost ST,Benzin,neutral,8,Focus DEH,2019,2024
+Ford,YLDC,2.0L EcoBlue MHEV,Diesel,neutral,7,Kuga III,2020,2022
+Ford,YZJA,1.5L EcoBoost,Benzin,neutral,7,Fiesta HJ,2018,2023
+Ford,YZJA-PUMA,1.5L EcoBoost ST,Benzin,neutral,6,Puma II,2020,2024
+Ford,ZTDB,1.5L EcoBlue,Diesel,neutral,6,Focus DEH,2018,2024
+Ford,B2KA,1.2L Ti-VCT,Benzin,recommended,8,Ka RU8; Ka+ 2016,2008,2020
+Ford,Duratec-HE-2.0-FLH,2.0L Duratec HE,Benzin,recommended,6,Focus DAW,2001,2005
+Ford,FXJA,1.4L Duratec,Benzin,recommended,6,Fusion JU2; Fiesta JH; Fiesta JA8,2001,2012
+Ford,HWDA,1.6L Duratec 16V,Benzin,recommended,6,Focus DA3,2005,2011
+Ford,HXDA,1.6L Duratec-Ti,Benzin,recommended,7,C-Max DM2,2004,2007
+Ford,QQJA,1.25L Duratec,Benzin,recommended,6,Fiesta JH,2001,2008
+Ford,SEBA,2.3L Duratec-HE,Benzin,recommended,6,Mondeo BA7,2007,2010
+Ford,SFDB,1.4L Duratec,Benzin,recommended,6,B-Max I,2012,2017
+Ford,SNJA,1.25L Duratec,Benzin,recommended,6,Fiesta JH; Fiesta JA8,2001,2017
+Ford,XMJA,1.25L Duratec,Benzin,recommended,6,Fiesta JA8,2008,2012
+Ford,XPJC,1.1L Ti-VCT,Benzin,recommended,6,Fiesta HJ,2017,2023
+Ford,XYJA,1.1L Dragon,Benzin,recommended,6,Fiesta HJ,2017,2019
+Ford,YFDA,1.5L Duratec Ti-VCT,Benzin,recommended,6,EcoSport I,2013,2017
+Ford,YSKD,1.2L Ti-VCT,Benzin,recommended,6,Ka+ 2016,2016,2019
+Honda,LDA,1.3L IMA Hybrid,Benzin,avoid,3,Jazz GE; Insight ZE2; Civic FN,2009,2014
+Honda,4EE2,1.7L CTDi,Diesel,neutral,4,Civic EP,2001,2005
+Honda,B16A2,1.6L DOHC VTEC,Benzin,neutral,5,Civic EK,1995,2000
+Honda,B16B,1.6L DOHC VTEC,Benzin,neutral,7,Civic EK,1997,2000
+Honda,D17A,1.7L 16V,Benzin,neutral,3,FR-V BE,2004,2007
+Honda,ENY1-EM,Elektro 68.8 kWh,Elektro,neutral,3,e:Ny1 I,2023,2024
+Honda,F20C,2.0L VTEC,Benzin,neutral,7,S2000 AP1,1999,2003
+Honda,F22C,2.2L VTEC,Benzin,neutral,6,S2000 AP2,2004,2009
+Honda,K20A,2.0L i-VTEC,Benzin,neutral,6,Accord CL; CR-V RD; FR-V BE,2002,2009
+Honda,K20A2,2.0L i-VTEC,Benzin,neutral,5,Civic EP,2001,2005
+Honda,K20C1,2.0L VTEC Turbo,Benzin,neutral,10,Civic FK2; Civic FK8; Civic FL5,2015,2024
+Honda,K20Z,2.0L i-VTEC,Benzin,neutral,6,Civic FN,2007,2011
+Honda,L13B,1.3L i-VTEC,Benzin,neutral,3,Jazz GK,2015,2020
+Honda,L15B,1.5L VTEC Turbo,Benzin,neutral,4,Civic FK7; Civic FL; Jazz GK; CR-V RW; HR-V RU,2015,2024
+Honda,LEA,1.5L i-VTEC + IMA,Benzin,neutral,4,CR-Z ZF1,2010,2016
+Honda,MCF5,Elektro 35.5 kWh,Elektro,neutral,2,e ZC7,2020,2024
+Honda,N22B,2.2L i-DTEC,Diesel,neutral,4,Civic FK1; Accord CU; CR-V RE; CR-V RM,2008,2015
+Honda,B20B,2.0L 16V,Benzin,recommended,3,CR-V RD1,1997,2001
+Honda,D14Z6,1.4L 16V,Benzin,recommended,3,Civic EP,2001,2005
+Honda,D16V1,1.6L 16V,Benzin,recommended,3,Civic EP,2001,2005
+Honda,D16W,1.6L 16V,Benzin,recommended,2,HR-V GH,1999,2005
+Honda,K24A,2.4L i-VTEC,Benzin,recommended,4,Accord CL; Accord CU; CR-V RE; CR-V RM,2002,2016
+Honda,L12A,1.2L i-DSI,Benzin,recommended,4,Jazz GD,2002,2008
+Honda,L12B,1.2L i-VTEC,Benzin,recommended,3,Jazz GE,2008,2015
+Honda,L13A,1.3L i-VTEC,Benzin,recommended,3,Jazz GD; Civic FN; Civic FK1,2002,2014
+Honda,L13Z,1.3L i-VTEC,Benzin,recommended,3,Jazz GE; Civic FN,2008,2015
+Honda,LEB8,1.5L i-MMD e:HEV,Benzin,recommended,3,Jazz GR,2020,2024
+Honda,LEC3,1.5L i-MMD e:HEV,Benzin,recommended,2,HR-V RZ,2021,2024
+Honda,LFC1,2.0L i-MMD e:HEV,Benzin,recommended,3,Civic FL; CR-V RW; CR-V RZ; ZR-V I,2018,2024
+Honda,N15A,1.5L i-DTEC,Diesel,recommended,3,Jazz GK,2018,2020
+Honda,N16A,1.6L i-DTEC,Diesel,recommended,3,Civic FK1; Civic FK7; CR-V RM; CR-V RW; HR-V RU,2013,2020
+Honda,N22A,2.2L i-CTDi,Diesel,recommended,4,Civic FN; Accord CL; CR-V RD; CR-V RE; FR-V BE,2003,2011
+Honda,P10A2,1.0L VTEC Turbo,Benzin,recommended,3,Civic FK7,2017,2022
+Honda,R18A,1.8L i-VTEC,Benzin,recommended,3,Civic FN; Civic FK1; FR-V BE,2006,2017
+Honda,R20A,2.0L i-VTEC,Benzin,recommended,3,Accord CU; CR-V RE; CR-V RM,2006,2016
+Hyundai,D4CB,2.5L CRDi,Diesel,avoid,6,H-1 A1; H-1 TQ; H-1 TQ-FL,2001,2026
+Hyundai,EM17,E-GMP Permanentmagnet-Motor,Elektro,avoid,7,Ioniq 5 NE; Ioniq 5 NE-FL; Ioniq 6 CE; Kona SX2,2021,2026
+Hyundai,G3LC,1.0L T-GDI (Kappa II),Benzin,avoid,6,i20 GB; i20 GB-FL; i30 PD; i30 PD-FL2; Kona OS,2016,2024
+Hyundai,G4FA,1.4L (Gamma),Benzin,avoid,7,i20 PB; i20 PB-FL; i30 FD; i30 FD-FL; i30 GD,2007,2019
+Hyundai,G4FJ,1.6L T-GDI (Gamma II),Benzin,avoid,5,Veloster FS-FL; Kona OS; Tucson TL,2015,2020
+Hyundai,G4KC,2.4L (Theta),Benzin,avoid,7,Grandeur TG,2005,2010
+Hyundai,G4KD,1.6L GDI (Nu),Benzin,avoid,6,Tucson TL; Sonata YF,2009,2020
+Hyundai,G4KF,2.0L T-GDI (Theta II),Benzin,avoid,7,Genesis Coupe BK; Genesis Coupe BK-FL,2009,2016
+Hyundai,G4KH,2.0L T-GDI (Theta II-N),Benzin,avoid,8,i30 PD; i30 PD-FL2; Kona OS-FL,2017,2024
+Hyundai,G4KJ,2.4L GDi (Theta II),Benzin,avoid,5,Sonata NF; Santa Fe CM-FL; Santa Fe DM; Santa Fe TM,2004,2020
+Hyundai,G4KN,2.5L SmartStream,Benzin,avoid,5,Santa Fe TM-FL; Tucson NX4; Santa Fe TM,2018,2024
+Hyundai,G4NA,2.0L MPI (Nu),Benzin,avoid,5,ix35 LM; ix35 LM-FL; Tucson TL; Kona OS-FL; i40 VF,2009,2026
+Hyundai,G6BA,2.7L V6 (Delta),Benzin,avoid,7,Coupe GK; Tucson JM; Santa Fe SM; Sonata EF-FL; Trajet FO,2000,2010
+Hyundai,G6CU,3.5L V6 (Sigma),Benzin,avoid,7,Terracan HP; Santa Fe SM,2001,2006
+Hyundai,Hyundai-FCEV,Brennstoffzellen-Stack,Wasserstoff,avoid,6,Nexo FE,2018,2026
+Hyundai,J3,2.9L CRDi,Diesel,avoid,7,Terracan HP,2001,2006
+Hyundai,D3EA,1.5L CRDi (3-Zyl),Diesel,neutral,5,Getz TB; Accent LC,2002,2005
+Hyundai,D3FA,1.1L CRDi (3-Zyl),Diesel,neutral,5,i10 PA; i20 PB-FL; i20 GB,2008,2018
+Hyundai,D4BH,2.5L TD,Diesel,neutral,7,Galloper II; H-1 A1; Terracan HP,1997,2007
+Hyundai,D4EA,2.0L CRDi,Diesel,neutral,5,Tucson JM; Santa Fe SM; Trajet FO; Sonata NF; Elantra XD,2000,2010
+Hyundai,D4EB,2.2L CRDi,Diesel,neutral,5,Santa Fe CM; Grandeur TG,2005,2012
+Hyundai,D4FA,1.5L CRDi,Diesel,neutral,5,Getz TB-FL; Accent MC; Matrix FC,2001,2010
+Hyundai,D4FB,1.6L CRDi,Diesel,neutral,6,i20 PB; i30 FD; i30 FD-FL; i30 GD; i30 PD,2006,2020
+Hyundai,D4FC,1.4L CRDi,Diesel,neutral,5,i20 PB; i20 PB-FL; i20 GB; i30 GD; ix20 JC,2010,2019
+Hyundai,D4FD,1.7L CRDi,Diesel,neutral,5,ix35 LM; Tucson TL; i40 VF,2009,2019
+Hyundai,D4FE,1.6L CRDi (Smartstream),Diesel,neutral,7,i30 PD-FL; i30 PD-FL2; Kona OS; Kona OS-FL; Tucson TL-FL,2018,2024
+Hyundai,D4HA,2.0L CRDi,Diesel,neutral,5,ix35 LM; Tucson TL; Santa Fe DM; Santa Fe TM,2009,2020
+Hyundai,D4HB,2.2L CRDi (Smartstream),Diesel,neutral,6,Santa Fe TM; Santa Fe TM-FL; Staria US4; Santa Fe CM-FL; Santa Fe MX5,2009,2026
+Hyundai,D6EA,3.0L V6 CRDi,Diesel,neutral,7,ix55 EN,2008,2012
+Hyundai,EM10,Permanentmagnet-Synchronmotor,Elektro,neutral,7,Ioniq AE; Ioniq AE-FL; Kona OS; Kona OS-FL,2016,2023
+Hyundai,G3LA,1.0L (Kappa),Benzin,neutral,6,i10 PA-FL; i10 IA; i10 IA-FL,2011,2019
+Hyundai,G3LE,1.0L T-GDI (Smartstream),Benzin,neutral,5,i10 AC3; i10 AC3-FL; i20 BC3; i20 BC3-FL; i30 PD-FL3,2020,2026
+Hyundai,G4EA,1.3L (Alpha),Benzin,neutral,5,Getz TB; Accent LC,1999,2006
+Hyundai,G4EC,1.5L (Alpha II),Benzin,neutral,5,Accent LC,1999,2003
+Hyundai,G4ED,1.6L (Alpha II),Benzin,neutral,5,Getz TB; Accent LC; Accent MC; Coupe GK,2001,2010
+Hyundai,G4ED-Matrix,1.6L (Alpha II),Benzin,neutral,7,Matrix FC,2001,2010
+Hyundai,G4EE,1.4L (Alpha II),Benzin,neutral,7,Getz TB-FL; Accent MC,2005,2010
+Hyundai,G4EK,1.5L (Alpha),Benzin,neutral,5,Accent X3; Accent LC,1994,2003
+Hyundai,G4FC,1.6L (Gamma),Benzin,neutral,5,i20 PB; i30 FD; i30 FD-FL; Elantra HD; Accent RB,2006,2019
+Hyundai,G4FD,1.6L GDI (Gamma),Benzin,neutral,5,i30 GD; Veloster FS; ix35 LM; i40 VF,2009,2019
+Hyundai,G4FG,1.6L MPI (Gamma II),Benzin,neutral,7,i30 GD,2012,2015
+Hyundai,G4FP,1.6L T-GDI (N Performance),Benzin,neutral,5,i20 BC3,2021,2023
+Hyundai,G4FT,1.6L T-GDI Hybrid (Smartstream),Benzin,neutral,6,Tucson NX4; Santa Fe TM-FL; Kona SX2; Staria US4; Tucson NX4-FL,2020,2026
+Hyundai,G4FT-ICE,1.6L T-GDI (Smartstream),Benzin,neutral,6,Tucson NX4; Kona OS-FL; Kona SX2; Staria US4,2020,2026
+Hyundai,G4GB,1.8L (Beta II),Benzin,neutral,5,Matrix FC; Elantra XD,2000,2010
+Hyundai,G4GC,2.0L (Beta II),Benzin,neutral,5,i30 FD; Coupe GK; Elantra HD; Tucson JM; Elantra XD,2000,2011
+Hyundai,G4GF,2.0L (Beta),Benzin,neutral,5,Coupe RD; Lantra J2,1995,2002
+Hyundai,G4GM,1.8L (Beta),Benzin,neutral,5,Lantra J2; Elantra XD,1995,2006
+Hyundai,G4GR,1.6L (Beta),Benzin,neutral,5,Coupe RD; Lantra J2,1995,2002
+Hyundai,G4HC,1.0L (Epsilon),Benzin,neutral,7,Atos MX; Atos Prime MX,1997,2005
+Hyundai,G4HG,1.1L (Epsilon),Benzin,neutral,7,Atos Prime MX; Getz TB; i10 PA; i10 PA-FL,2002,2013
+Hyundai,G4JP,2.4L (Sirius II),Benzin,neutral,5,Sonata EF; Santa Fe SM; H-1 A1,1998,2008
+Hyundai,G4JS,2.0L MPI (Sirius II),Benzin,neutral,7,Santamo HYU; Santa Fe SM; Trajet FO; Sonata EF,1998,2008
+Hyundai,G4KA,2.0L (Theta),Benzin,neutral,7,Sonata NF,2004,2008
+Hyundai,G4LA,1.2L (Kappa),Benzin,neutral,5,i10 PA; i10 PA-FL; i10 IA; i10 IA-FL; i20 PB,2008,2020
+Hyundai,G4LD,1.4L T-GDI (Kappa II),Benzin,neutral,6,i30 PD,2016,2020
+Hyundai,G4LE,1.6L GDi Hybrid (Smartstream),Benzin,neutral,6,Ioniq AE; Ioniq AE-FL; Kona OS; Kona OS-FL,2016,2023
+Hyundai,G4LH,1.5L T-GDI (Smartstream),Benzin,neutral,5,i30 PD-FL2,2020,2024
+Hyundai,G4LK,1.5L T-GDI MHEV (Smartstream),Benzin,neutral,5,i30 PD-FL3,2024,2026
+Hyundai,G4NB,1.8L (Nu),Benzin,neutral,5,i30 GD,2012,2015
+Hyundai,G6AT,3.0L V6 (Cyclone),Benzin,neutral,7,Galloper II,1998,2003
+Hyundai,G6BV-XG,2.5L V6 (Delta),Benzin,neutral,7,XG XG,1999,2005
+Hyundai,G6DB,3.3L V6 (Lambda),Benzin,neutral,7,Sonata NF; Sonata NF-FL; Sonata YF,2005,2014
+Hyundai,G6DJ,3.8L V6 (Lambda II),Benzin,neutral,6,Genesis Coupe BK; Genesis Coupe BK-FL; ix55 EN; Grandeur HG; Santa Fe DM-FL,2008,2018
+Hyundai,G6EA,2.7L V6 (Delta),Benzin,neutral,5,Santa Fe CM,2006,2009
+Hyundai,Hyundai-Inster-EM,Inster Elektromotor,Elektro,neutral,7,Inster AK3,2024,2026
+Hyundai,G3LD,1.0L (Kappa Smartstream),Benzin,recommended,6,i10 AC3; i10 AC3-FL,2019,2025
+Hyundai,G4LC,1.4L (Kappa),Benzin,recommended,5,i20 GB; i30 PD; Kona OS,2014,2020
+Hyundai,G4LF,1.2L (Smartstream),Benzin,recommended,5,i10 AC3; i10 AC3-FL; i20 BC3; i20 BC3-FL; Bayon BC3,2019,2026
+Hyundai,G4LG,1.5L MPI (Smartstream),Benzin,recommended,5,i30 PD-FL3; i30 PD-FL2,2020,2026
+Kia,D4CB,2.5L CRDi (A),Diesel,avoid,6,Sorento BL,2002,2009
+Kia,G4KE,2.4L GDi (Theta II),Benzin,avoid,4,Sorento XM; Optima TF,2009,2015
+Kia,G4KH,2.0L T-GDi (Theta II),Benzin,avoid,5,Optima TF; Sportage SL,2010,2015
+Kia,G4LE,1.6L GDi Hybrid (Smartstream),Benzin,avoid,4,Niro DE; Niro SG2; Ceed CD; XCeed CD,2016,2024
+Kia,G4NA,2.0L MPI,Benzin,avoid,7,Sportage QL,2015,2021
+Kia,KIA-EV-58,Elektro 58 kWh,Elektro,avoid,3,EV6 CV,2021,2024
+Kia,KIA-EV-77-AWD,Elektro 77.4 kWh AWD,Elektro,avoid,4,EV6 CV,2021,2024
+Kia,KIA-EV-77-RWD,Elektro 77.4 kWh RWD,Elektro,avoid,4,EV6 CV; EV9 MV,2021,2024
+Kia,KIA-EV6-GT,Elektro 77.4 kWh GT,Elektro,avoid,3,EV6 CV,2022,2024
+Kia,D4EA,2.0L CRDi (VGT),Diesel,neutral,5,Sportage KM; Sorento BL; Ceed ED; Carens UN,2004,2013
+Kia,D4FB,1.6L CRDi (U2),Diesel,neutral,6,Rio UB; Ceed ED; Ceed JD; Soul AM; Soul PS,2007,2019
+Kia,D4FD,1.7L CRDi (U2),Diesel,neutral,7,Sportage SL; Sportage QL; Optima JF; Carens RP,2010,2020
+Kia,D4FE,"1.6L CRDi (U3, Euro6)",Diesel,neutral,5,Ceed CD; Sportage QL; XCeed CD,2018,2024
+Kia,D4HA,2.0L CRDi (R),Diesel,neutral,6,Sportage SL; Sportage QL; Sorento XM; Sorento UM,2009,2021
+Kia,D4HB,2.2L CRDi (R),Diesel,neutral,6,Sorento XM; Sorento UM; Sorento MQ4; Stinger CK,2009,2024
+Kia,D4HC,2.2L CRDi (R2),Diesel,neutral,3,Sportage NQ5,2021,2024
+Kia,D4HK,"2.2L CRDi (R2, Euro6d)",Diesel,neutral,4,Stinger CK,2017,2023
+Kia,G3LC,1.0L T-GDi (Kappa II),Benzin,neutral,4,Rio YB; Stonic YB; Ceed CD,2017,2024
+Kia,G4ED,1.6L CVVT (Alpha II),Benzin,neutral,5,Rio DC; Cerato LD,2000,2008
+Kia,G4FA,1.4L (Gamma),Benzin,neutral,5,Rio JB; Rio UB; Ceed ED; Venga YN,2005,2019
+Kia,G4FC,1.6L CVVT (Gamma),Benzin,neutral,4,Rio JB; Ceed ED; Soul AM; Carens UN,2005,2014
+Kia,G4FD,1.6L GDi (Gamma),Benzin,neutral,4,Ceed JD; Sportage SL; Sportage QL; Soul PS; Carens RP,2010,2021
+Kia,G4FJ,1.6L T-GDi (Gamma II),Benzin,neutral,4,Ceed JD; ProCeed CD; Sportage QL; XCeed CD; Ceed CD,2013,2024
+Kia,G4FT,1.5L T-GDi (Smartstream),Benzin,neutral,4,Ceed CD; ProCeed CD; XCeed CD,2021,2024
+Kia,G4GC,2.0L CVVT (Beta II),Benzin,neutral,4,Ceed ED; Sportage KM; Cerato TD,2004,2013
+Kia,G4HE,1.0L (Epsilon),Benzin,neutral,3,Picanto SA,2004,2011
+Kia,G4HG,1.1L (Epsilon),Benzin,neutral,4,Picanto SA,2004,2011
+Kia,G4KL,2.0L T-GDi (Theta III),Benzin,neutral,4,Stinger CK; Optima JF,2015,2023
+Kia,G4LD,1.4L T-GDi (Kappa II),Benzin,neutral,4,Ceed JD; Ceed CD; ProCeed CD; Stonic YB,2015,2024
+Kia,G4NB,2.0L CVVT (Nu),Benzin,neutral,5,Optima TF; Optima JF; Sportage SL,2010,2020
+Kia,G4NN,1.6L T-GDi Hybrid (Smartstream NQ5),Benzin,neutral,4,Sportage NQ5; Sorento MQ4,2020,2024
+Kia,G6DP,3.3L V6 T-GDi (Lambda II),Benzin,neutral,3,Stinger CK,2017,2023
+Kia,KIA-EV-64-NIRO,Elektro 64.8 kWh,Elektro,neutral,0,Niro DE; Niro SG2,2019,2024
+Kia,KIA-EV9-99-AWD,Elektro 99.8 kWh AWD,Elektro,neutral,0,EV9 MV,2023,2024
+Kia,KIA-SOUL-EV,Elektro Soul EV,Elektro,neutral,0,Soul PS; Soul SK3,2014,2024
+Kia,G3LA,1.0L (Kappa),Benzin,recommended,3,Picanto TA; Picanto JA,2011,2024
+Kia,G4LA,1.2L (Kappa),Benzin,recommended,3,Picanto TA; Picanto JA; Rio YB,2011,2024
+Kia,G4LC,1.4L MPI (Kappa),Benzin,recommended,3,Rio YB; Ceed CD,2017,2021
+Lancia,159B9000,1.6L LE,Benzin,neutral,0,Dedra 835,1994,1999
+Lancia,169A4000-LPG,1.2L LPG,LPG,neutral,0,Ypsilon 846,2011,2024
+Lancia,175A3000,2.0L 20V Turbo,Benzin,neutral,3,Kappa 838,1998,2000
+Lancia,182A4000,1.6L 16V,Benzin,neutral,3,Lybra 839,1999,2003
+Lancia,183A1000,1.8L GT 16V,Benzin,neutral,0,Dedra 835,1996,1999
+Lancia,198A5000,2.0L MultiJet,Diesel,neutral,4,Delta 844,2008,2014
+Lancia,199A2000,1.3L MultiJet,Diesel,neutral,3,Ypsilon 843,2006,2010
+Lancia,199A3000,1.3L MultiJet,Diesel,neutral,3,Ypsilon 843; Musa 350,2004,2012
+Lancia,312A2000,0.9L TwinAir Turbo,Benzin,neutral,6,Ypsilon 846,2011,2023
+Lancia,312B1000,1.3L MultiJet2,Diesel,neutral,3,Ypsilon 846,2011,2018
+Lancia,330A1000,1.3L MultiJet2,Diesel,neutral,3,Ypsilon 846,2016,2017
+Lancia,835A4000,1.9L TDS,Diesel,neutral,0,Dedra 835,1989,1999
+Lancia,835A7046,2.0L HF Integrale,Benzin,neutral,0,Dedra 835,1990,1995
+Lancia,835A8046,2.0L i.e. Turbo,Benzin,neutral,0,Dedra 835,1991,1999
+Lancia,835C1000,1.6L i.e.,Benzin,neutral,0,Dedra 835,1993,1999
+Lancia,836A3000,2.0L 16V,Benzin,neutral,0,Dedra 835,1994,1999
+Lancia,836A5000,1.8L i.e.,Benzin,neutral,0,Dedra 835,1994,1999
+Lancia,838A6000,2.0L 20V,Benzin,neutral,5,Kappa 838,1996,2000
+Lancia,838A7000,2.4L TD,Diesel,neutral,2,Kappa 838,1994,1998
+Lancia,838A8000,2.4L JTD,Diesel,neutral,2,Kappa 838,1998,2000
+Lancia,838B000,3.0L V6 24V,Benzin,neutral,2,Kappa 838,1994,2000
+Lancia,839A5000,2.4L JTD,Diesel,neutral,2,Lybra 839,1999,2002
+Lancia,839A6000,2.4L JTD,Diesel,neutral,2,Lybra 839,2000,2006
+Lancia,841A000,3.0L V6,Benzin,neutral,3,Thesis 841,2002,2003
+Lancia,841C000,2.4L JTD,Diesel,neutral,4,Thesis 841; Lybra 839,2002,2005
+Lancia,841D000,2.4L NA,Benzin,neutral,2,Thesis 841,2002,2007
+Lancia,841E000,2.0L Turbo,Benzin,neutral,3,Thesis 841,2002,2007
+Lancia,841L000,3.2L V6,Benzin,neutral,3,Thesis 841,2003,2007
+Lancia,841P000,2.4L JTD,Diesel,neutral,2,Thesis 841,2004,2007
+Lancia,843A1000,1.4L 16V,Benzin,neutral,3,Ypsilon 843; Musa 350,2003,2010
+Lancia,843A2000,1.3L MultiJet,Diesel,neutral,3,Ypsilon 843,2007,2009
+Lancia,955A4000,1.6L MultiJet,Diesel,neutral,3,Delta 844,2008,2011
+Lancia,AR32302,1.9L JTD,Diesel,neutral,3,Lybra 839,1999,2000
+Lancia,DW10ATED4,2.0L JTD,Diesel,neutral,3,Phedra 179,2002,2006
+Lancia,EDG,2.4L 16V,Benzin,neutral,0,Flavia JS,2012,2014
+Lancia,ENS-177,2.8L CRD,Diesel,neutral,6,Voyager RT,2012,2015
+Lancia,ES9J4S,3.0L V6,Benzin,neutral,3,Phedra 179,2002,2008
+Lancia,EW10J4,2.0L 16V,Benzin,neutral,3,Phedra 179,2002,2014
+Lancia,VMA630-190,3.0L V6 CRD,Diesel,neutral,4,Thema LX,2011,2014
+Lancia,VMA630-239,3.0L V6 CRD,Diesel,neutral,3,Thema LX,2011,2014
+Lancia,169A4000,1.2L NA,Benzin,recommended,2,Ypsilon 846,2011,2023
+Lancia,169A5000,1.2L NA,Benzin,recommended,3,Ypsilon 843,2010,2011
+Lancia,176B2000,1.1L NA,Benzin,recommended,3,Y 840,1997,1999
+Lancia,176B9000,1.2L 16V,Benzin,recommended,2,Y 840,1997,2000
+Lancia,185A8000,2.0L 20V,Benzin,recommended,3,Lybra 839,2000,2004
+Lancia,188A4000,1.2L 8V,Benzin,recommended,3,Ypsilon 843,2003,2006
+Lancia,188A5000,1.2L 16V,Benzin,recommended,3,Y 840; Ypsilon 843,2000,2006
+Lancia,188A9000,1.3L MultiJet,Diesel,recommended,3,Musa 350,2004,2007
+Lancia,188B2000,1.9L MultiJet,Diesel,recommended,3,Musa 350,2004,2007
+Lancia,198A1000,1.4L T-Jet,Benzin,recommended,3,Delta 844,2008,2010
+Lancia,198A2000,1.6L MultiJet,Diesel,recommended,3,Delta 844,2008,2014
+Lancia,198A4000,1.4L T-Jet,Benzin,recommended,4,Delta 844,2008,2014
+Lancia,198A4000-LPG,1.4L T-Jet LPG,LPG,recommended,3,Delta 844,2011,2014
+Lancia,198A7000,1.4L MultiAir,Benzin,recommended,3,Delta 844,2011,2014
+Lancia,312A2000-CNG,0.9L TwinAir CNG,CNG,recommended,2,Ypsilon 846,2011,2023
+Lancia,350A1000,1.4L 8V,Benzin,recommended,6,Ypsilon 843; Musa 350,2006,2012
+Lancia,350A1000-LPG,1.4L 8V LPG,LPG,recommended,2,Ypsilon 843,2009,2011
+Lancia,350A2000,1.6L MultiJet,Diesel,recommended,3,Musa 350,2007,2012
+Lancia,4HT,2.2L MultiJet,Diesel,recommended,3,Phedra 179,2008,2010
+Lancia,838A2000,2.4L 20V,Benzin,recommended,3,Kappa 838,1994,2000
+Lancia,839A9000,1.8L 16V,Benzin,recommended,3,Lybra 839,1999,2004
+Lancia,840A2000,1.4L NA,Benzin,recommended,2,Y 840,1996,2002
+Lancia,840A3000,1.2L NA,Benzin,recommended,3,Y 840,1996,1998
+Lancia,841G000,2.4L JTD,Diesel,recommended,2,Thesis 841,2003,2006
+Lancia,841H000,2.4L MultiJet,Diesel,recommended,2,Thesis 841,2006,2009
+Lancia,844A1000,1.9L MultiJet Biturbo,Diesel,recommended,3,Delta 844,2008,2014
+Lancia,844A3000,1.6L MultiJet,Diesel,recommended,3,Delta 844,2011,2014
+Lancia,937A2000,1.9L JTD,Diesel,recommended,3,Lybra 839,2001,2005
+Lancia,939B1000,1.8L Di T-Jet,Benzin,recommended,5,Delta 844,2009,2014
+Lancia,AR37101,1.9L JTD,Diesel,recommended,3,Lybra 839,2000,2001
+Lancia,DW12ATED4,2.2L JTD,Diesel,recommended,3,Phedra 179,2002,2008
+Lancia,ENS-163,2.8L CRD,Diesel,recommended,4,Voyager RT,2011,2013
+Lancia,ERB-Thema,3.6L V6 Pentastar,Benzin,recommended,3,Thema LX,2011,2014
+Lancia,ERB-Voyager,3.6L V6 Pentastar,Benzin,recommended,3,Voyager RT,2011,2015
+Lancia,RHR,2.0L MultiJet,Diesel,recommended,3,Phedra 179,2006,2008
+Land Rover,204DT,2.0L Ingenium Diesel,Diesel,avoid,4,Defender L663,2019,2020
+Land Rover,204DTD,2.0L Ingenium Diesel,Diesel,avoid,7,Range Rover Evoque L538; Range Rover Evoque L551; Discovery Sport L550; Range Rover Velar L560; Range Rover Sport L494,2015,2026
+Land Rover,204PT,2.0L Ingenium Benzin Turbo,Benzin,avoid,5,Freelander L359; Range Rover Evoque L538; Range Rover Evoque L551; Discovery Sport L550; Range Rover Velar L560,2011,2026
+Land Rover,276DT,2.7L V6 TDV6 Diesel,Diesel,avoid,6,Discovery L319; Range Rover Sport L320,2004,2009
+Land Rover,306DT,3.0L V6 Diesel,Diesel,avoid,5,Discovery L319; Discovery L462; Range Rover Sport L320; Range Rover Sport L494; Range Rover L405,2009,2020
+Land Rover,448DT,4.4L V8 SDV8 Diesel,Diesel,avoid,5,Range Rover L322; Range Rover L405; Range Rover Sport L494,2011,2020
+Land Rover,508PS,5.0L V8 Supercharged,Benzin,avoid,5,Range Rover Sport L320; Range Rover Sport L494; Range Rover L405; Discovery L462,2009,2022
+Land Rover,AJ126,3.0L V6 Supercharged,Benzin,avoid,4,Discovery L319; Range Rover Sport L494; Range Rover L405; Range Rover Velar L560,2013,2020
+Land Rover,AJ33S,4.2L V8 Supercharged,Benzin,avoid,4,Range Rover Sport L320; Range Rover L322,2005,2009
+Land Rover,DT306,3.0L Ingenium I6 Diesel,Diesel,avoid,6,Defender L663; Range Rover Sport L494; Range Rover Sport L461; Range Rover L405; Range Rover L460,2020,2026
+Land Rover,PT204,2.0L Ingenium Benzin Turbo,Benzin,avoid,3,Defender L663,2020,2026
+Land Rover,PT204-PHEV,1.5L I3 Turbo + E-Motor,Benzin,avoid,5,Range Rover Evoque L551; Discovery Sport L550,2020,2026
+Land Rover,PT306,3.0L Ingenium I6 Benzin Turbo,Benzin,avoid,6,Range Rover Sport L494; Range Rover Sport L461; Range Rover L405; Range Rover L460; Range Rover Velar L560,2019,2026
+Land Rover,224DT,2.2L TD4/SD4,Diesel,neutral,6,Freelander L359; Range Rover Evoque L538; Discovery Sport L550,2006,2015
+Land Rover,368DT,3.6L V8 TDV8 Diesel,Diesel,neutral,5,Range Rover Sport L320; Range Rover L322,2006,2012
+Land Rover,508PN,5.0L V8 NA,Benzin,neutral,4,Range Rover Sport L320; Range Rover L322; Range Rover L405,2009,2013
+Land Rover,AJ41,4.4L V8 NA,Benzin,neutral,4,Discovery L319; Range Rover L322,2002,2009
+Land Rover,B6324S,3.2L Volvo I6,Benzin,neutral,4,Freelander L359,2006,2010
+Land Rover,PT306-PHEV,3.0L I6 Turbo + E-Motor,Benzin,neutral,5,Range Rover Sport L494; Range Rover Sport L461; Range Rover L405; Range Rover L460; Range Rover Velar L560,2017,2026
+Land Rover,S68B44B,4.4L V8 BMW BiTurbo,Benzin,neutral,5,Range Rover Sport L461; Range Rover L460; Defender L663,2021,2026
+Mazda,13B-MSP,1.3L Wankel,Benzin,avoid,5,RX-8 SE3P,2003,2012
+Mazda,CAY1,3.7L V6,Benzin,avoid,6,CX-9 TB,2007,2015
+Mazda,L3-VDT,2.3L DISI Turbo,Benzin,avoid,7,3 BK; 3 BL; 6 GG; CX-7 ER,2005,2013
+Mazda,PY-VPS,2.5L SkyActiv-G,Benzin,avoid,6,6 GJ; CX-5 KE; CX-5 KF; CX-30 DM,2012,2024
+Mazda,PY-VPS-PHEV,2.5L e-SkyActiv PHEV,Benzin,avoid,5,CX-60 KH; CX-80 KH,2022,2025
+Mazda,SH-VPTS,2.2L SkyActiv-D,Diesel,avoid,7,3 BM; 6 GJ; CX-5 KE; CX-5 KF,2012,2024
+Mazda,AJ,3.0L V6 Duratec,Benzin,neutral,6,Tribute EP,2001,2007
+Mazda,B6-ZE,1.6L 16V,Benzin,neutral,5,MX-5 NB,1998,2005
+Mazda,BP-ZE,1.8L 16V,Benzin,neutral,5,MX-5 NB,1998,2005
+Mazda,D33-DPTS,3.3L e-SkyActiv D,Diesel,neutral,6,CX-60 KH; CX-80 KH,2022,2025
+Mazda,HF-VPH,2.0L SkyActiv-X,Benzin,neutral,6,3 BP; CX-30 DM,2019,2024
+Mazda,L3C1,2.3L MZR,Benzin,neutral,6,3 BK; 5 CR; 6 GG,2002,2010
+Mazda,LF-VE,1.8L MZR,Benzin,neutral,6,MX-5 NC,2005,2015
+Mazda,MX30-EV,35.5 kWh,Elektro,neutral,3,MX-30 DR,2020,2024
+Mazda,PE-VPR,2.0L SkyActiv-G,Benzin,neutral,5,MX-5 ND,2015,2026
+Mazda,R2AA,2.2L MZR-CD,Diesel,neutral,7,3 BL; 6 GH; CX-7 ER,2007,2013
+Mazda,RF,2.0L DiTD,Diesel,neutral,7,323 BJ; 626 GF; Premacy CP; 5 CR; 6 GG,1998,2012
+Mazda,S5-DPTS,1.5L SkyActiv-D,Diesel,neutral,5,2 DJ; CX-3 DK,2014,2022
+Mazda,Y4,1.4L TDCi,Diesel,neutral,4,2 DE,2008,2010
+Mazda,Y6,1.6L CD,Diesel,neutral,5,2 DE; 3 BK; 3 BL; 5 CW,2004,2015
+Mazda,YF,2.0L Zetec,Benzin,neutral,5,Tribute EP,2001,2007
+Mazda,8C-PH-REV,0.8L Wankel REX,Benzin,recommended,3,MX-30 DR,2023,2024
+Mazda,FP,1.8L 16V,Benzin,recommended,7,323 BJ; Premacy CP,1998,2005
+Mazda,FS,2.0L 16V,Benzin,recommended,7,323 BJ; 626 GF; Premacy CP,1997,2005
+Mazda,KL-DE,2.5L V6,Benzin,recommended,7,626 GF,1997,2002
+Mazda,L5-VE,2.5L MZR,Benzin,recommended,6,3 BL; 6 GH; CX-7 ER,2007,2013
+Mazda,L8,1.8L MZR,Benzin,recommended,5,5 CR; 5 CW; 6 GG; 6 GH,2002,2015
+Mazda,LF-DE,2.0L MZR,Benzin,recommended,7,3 BK; 3 BL; 5 CR; 5 CW; 6 GG,2002,2015
+Mazda,P5-VPR,1.5L SkyActiv-G,Benzin,recommended,2,MX-5 ND,2015,2026
+Mazda,P5-VPS,1.5L SkyActiv-G,Benzin,recommended,6,2 DJ; 3 BM,2013,2024
+Mazda,P5-VPS-MH,1.5L e-SkyActiv-G,Benzin,recommended,4,2 DJ,2021,2024
+Mazda,PE-VPS,2.0L SkyActiv-G,Benzin,recommended,6,3 BM; 3 BP; 6 GJ; CX-3 DK; CX-5 KE,2012,2024
+Mazda,PE-VPS-MH,2.0L e-SkyActiv-G,Benzin,recommended,4,CX-30 DM; 3 BP,2020,2024
+Mazda,S8-DPTS,1.8L SkyActiv-D,Diesel,recommended,6,3 BP; CX-3 DK; CX-30 DM,2018,2024
+Mazda,Z6,1.6L MZR,Benzin,recommended,6,3 BK; 3 BL,2003,2013
+Mazda,ZJ-VE,1.3L,Benzin,recommended,6,2 DE,2007,2014
+Mazda,ZL-VE,1.5L 16V,Benzin,recommended,6,323 BJ,1998,2003
+Mazda,ZM,1.6L 16V,Benzin,recommended,6,323 BJ,1998,2003
+Mazda,ZY-VE,1.5L,Benzin,recommended,6,2 DE,2007,2014
+Mercedes-Benz,EQA-EM,Elektro,Elektro,avoid,5,EQA H243,2021,2026
+Mercedes-Benz,H5F,1.2L TCe,Benzin,avoid,5,Citan W415,2013,2021
+Mercedes-Benz,M137,5.8L V12,Benzin,avoid,6,S-Klasse W220; CL C215; S-Klasse V220,1999,2002
+Mercedes-Benz,M156,6.2L V8 AMG,Benzin,avoid,10,CLK C209; R-Klasse W251; C-Klasse W204; E-Klasse W211; E-Klasse W212,2006,2017
+Mercedes-Benz,M157,5.5L V8 BiTurbo,Benzin,avoid,11,S-Klasse W221; S-Klasse W222; SL R231; G-Klasse W463; GLE W166,2010,2020
+Mercedes-Benz,M166,1.4-2.1L NA,Benzin,avoid,7,A-Klasse W168,1997,2004
+Mercedes-Benz,M266,1.5-2.0L,Benzin,avoid,5,A-Klasse W169; B-Klasse W245,2004,2012
+Mercedes-Benz,M271,1.8L Kompressor,Benzin,avoid,6,CLK C209; SLK R171; SLK R172; C-Klasse W203; C-Klasse W204,2000,2015
+Mercedes-Benz,M272,3.0-3.5L V6,Benzin,avoid,6,CLK C209; SLK R171; R-Klasse W251; GLK X204; C-Klasse W203,2004,2014
+Mercedes-Benz,M273,5.0-5.5L V8,Benzin,avoid,9,CLK C209; R-Klasse W251; E-Klasse W211; E-Klasse W212; S-Klasse W221,2005,2014
+Mercedes-Benz,M275,5.5L V12 BiTurbo,Benzin,avoid,9,S-Klasse W220; S-Klasse W221; SL R230; CL C215; CL C216,2002,2019
+Mercedes-Benz,M278,4.7L V8 BiTurbo,Benzin,avoid,9,E-Klasse W212; S-Klasse W222; SL R231; GLE W166; GLS X166,2009,2019
+Mercedes-Benz,OM612,2.7L 5-Zyl Diesel,Diesel,avoid,6,CLK C209; C-Klasse W203; E-Klasse W210; ML W163,1999,2005
+Mercedes-Benz,OM613,3.2L R6 CDI,Diesel,avoid,6,E-Klasse W210; S-Klasse W220,1999,2003
+Mercedes-Benz,OM629,4.0L V8 CDI,Diesel,avoid,6,E-Klasse W211; S-Klasse W221; ML W164; GL X164,2005,2009
+Mercedes-Benz,OM642,3.0L V6 Diesel,Diesel,avoid,7,CLK C209; R-Klasse W251; GLK X204; C-Klasse W203; C-Klasse W204,2005,2019
+Mercedes-Benz,OM651DE22,2.1L Diesel,Diesel,avoid,6,A-Klasse W176; B-Klasse W246; CLA C117; GLA X156; SLK R172,2005,2020
+Mercedes-Benz,OM668,1.7L Diesel,Diesel,avoid,6,A-Klasse W168,1998,2004
+Mercedes-Benz,EQB-EM,Elektro,Elektro,neutral,5,EQB X243,2021,2026
+Mercedes-Benz,EQC-EM,Elektro,Elektro,neutral,5,EQC N293,2019,2023
+Mercedes-Benz,EQE-EM,Elektro,Elektro,neutral,6,EQE V295,2022,2026
+Mercedes-Benz,EQS-EM,Elektro,Elektro,neutral,5,EQS V297,2021,2026
+Mercedes-Benz,M104,2.8L R6,Benzin,neutral,7,C-Klasse W202; G-Klasse W463,1993,2000
+Mercedes-Benz,M111,2.0-2.3L,Benzin,neutral,6,CLK C208; SLK R170; C-Klasse W202; C-Klasse W203; E-Klasse W210,1993,2004
+Mercedes-Benz,M112,3.2L V6,Benzin,neutral,7,CLK C208; CLK C209; SLK R170; C-Klasse W202; C-Klasse W203,1996,2006
+Mercedes-Benz,M113,4.3-5.4L V8,Benzin,neutral,10,CLK C208; CLK C209; C-Klasse W202; E-Klasse W210; E-Klasse W211,1997,2012
+Mercedes-Benz,M113K,5.4L V8 Kompressor,Benzin,neutral,9,G-Klasse W463; S-Klasse W220; CL C215; SL R230; E-Klasse W211,2002,2012
+Mercedes-Benz,M133,2.0L Turbo AMG,Benzin,neutral,9,A-Klasse W176; CLA C117; GLA X156,2013,2020
+Mercedes-Benz,M139L,2.0L Turbo + E-Motor,Benzin,neutral,12,GLC X254; C-Klasse W206,2022,2026
+Mercedes-Benz,M152,5.5L V8 NA AMG,Benzin,neutral,7,SLK R172,2012,2015
+Mercedes-Benz,M159,6.2L V8,Benzin,neutral,9,SLS AMG C197,2010,2015
+Mercedes-Benz,M176,4.0L V8 BiTurbo,Benzin,neutral,9,S-Klasse W222; S-Klasse W223; SL R231; G-Klasse W463a; GLE V167,2016,2025
+Mercedes-Benz,M177,4.0L V8 BiTurbo AMG,Benzin,neutral,8,C-Klasse W205; E-Klasse W213; S-Klasse W222; SL R232; G-Klasse W463a,2015,2026
+Mercedes-Benz,M178,4.0L V8 BiTurbo AMG GT,Benzin,neutral,8,AMG GT C190; AMG GT R190,2015,2021
+Mercedes-Benz,M254,2.0L Turbo,Benzin,neutral,6,CLE C236; C-Klasse W206; E-Klasse W214; GLC X254; E-Klasse W213,2020,2026
+Mercedes-Benz,M256,3.0L I6 Turbo,Benzin,neutral,9,CLE C236; E-Klasse W213; E-Klasse W214; S-Klasse W222; S-Klasse W223,2017,2026
+Mercedes-Benz,M260,2.0L Turbo,Benzin,neutral,5,A-Klasse W177; B-Klasse W247; CLA C118; GLA H247; GLB X247,2018,2025
+Mercedes-Benz,M260-AMG35,2.0L Turbo,Benzin,neutral,5,A-Klasse W177; CLA C118; GLA H247; GLB X247,2018,2025
+Mercedes-Benz,M264,2.0L Turbo EQ Boost,Benzin,neutral,12,E-Klasse W213; CLS C257; GLE V167; C-Klasse W205,2016,2025
+Mercedes-Benz,M270DE16,1.6L Turbo,Benzin,neutral,7,A-Klasse W176; B-Klasse W246; CLA C117; GLA X156; C-Klasse W205,2011,2021
+Mercedes-Benz,M270DE20,2.0L Turbo,Benzin,neutral,7,A-Klasse W176; B-Klasse W246; CLA C117; GLA X156,2012,2020
+Mercedes-Benz,M274,1.6-2.0L Turbo,Benzin,neutral,6,SLK R172; SLC R172; GLK X204; C-Klasse W205; E-Klasse W212,2013,2025
+Mercedes-Benz,M276,3.0-3.5L V6,Benzin,neutral,10,SLK R172; SLC R172; R-Klasse W251; GLK X204; C-Klasse W205,2010,2023
+Mercedes-Benz,M277,6.0L V12 BiTurbo,Benzin,neutral,6,S-Klasse W222,2014,2020
+Mercedes-Benz,M279,6.0L V12 BiTurbo AMG,Benzin,neutral,12,S-Klasse W222; SL R231; G-Klasse W463,2012,2020
+Mercedes-Benz,OM601,2.0L Vorkammer-Diesel,Diesel,neutral,8,C-Klasse W202,1993,1997
+Mercedes-Benz,OM602,2.5L R5 Diesel,Diesel,neutral,7,G-Klasse W463,1990,1992
+Mercedes-Benz,OM603,3.0L R6 Diesel,Diesel,neutral,6,G-Klasse W463,1992,1997
+Mercedes-Benz,OM604,2.2L R4 Diesel,Diesel,neutral,6,C-Klasse W202; E-Klasse W210,1993,1999
+Mercedes-Benz,OM605,2.5L R5 Diesel,Diesel,neutral,7,C-Klasse W202; E-Klasse W210,1993,2000
+Mercedes-Benz,OM607,1.5L Diesel,Diesel,neutral,6,A-Klasse W176; B-Klasse W246; CLA C117; GLA X156; Citan W415,2012,2021
+Mercedes-Benz,OM608,1.5L Diesel,Diesel,neutral,5,A-Klasse W177; B-Klasse W247; CLA C118; GLA H247; GLB X247,2018,2025
+Mercedes-Benz,OM611,2.2L CDI,Diesel,neutral,6,C-Klasse W202; C-Klasse W203; E-Klasse W210,1997,2004
+Mercedes-Benz,OM628,4.0L V8 CDI,Diesel,neutral,6,E-Klasse W211; S-Klasse W220; ML W163; G-Klasse W463,2000,2006
+Mercedes-Benz,OM640,2.0L Diesel,Diesel,neutral,6,A-Klasse W169; B-Klasse W245; C-Klasse W204,2004,2014
+Mercedes-Benz,OM646,2.1L CDI,Diesel,neutral,6,C-Klasse W203; C-Klasse W204; E-Klasse W211,2002,2011
+Mercedes-Benz,OM647,2.7L R5 CDI,Diesel,neutral,6,E-Klasse W211,2002,2006
+Mercedes-Benz,OM648,3.2L R6 CDI,Diesel,neutral,8,E-Klasse W211; S-Klasse W220,2002,2006
+Mercedes-Benz,OM651DE18,1.8L Diesel,Diesel,neutral,5,A-Klasse W176; B-Klasse W246; CLA C117; GLA X156; C-Klasse W205,2011,2020
+Mercedes-Benz,OM654,2.0L Diesel,Diesel,neutral,11,A-Klasse W177; B-Klasse W247; CLA C118; GLA H247; GLB X247,2016,2026
+Mercedes-Benz,OM654M,2.0L Diesel,Diesel,neutral,5,CLE C236; GLC X254,2022,2026
+Mercedes-Benz,OM656,2.9L R6 Diesel,Diesel,neutral,6,E-Klasse W213; S-Klasse W222; S-Klasse W223; CLS C257; G-Klasse W463a,2017,2026
+Mercedes-Benz,M139,2.0L Turbo AMG,Benzin,recommended,6,A-Klasse W177; CLA C118; GLA H247; C-Klasse W206; SL R232,2019,2025
+Mercedes-Benz,M282,1.3L Turbo,Benzin,recommended,5,A-Klasse W177; B-Klasse W247; CLA C118; GLA H247; GLB X247,2018,2025
+Mercedes-Benz,OM606,3.0L R6 Diesel,Diesel,recommended,7,E-Klasse W210; G-Klasse W463,1995,2001
+MINI,B37C15,1.5L Diesel,Diesel,avoid,5,MINI F56; MINI F55; MINI Clubman F54,2014,2024
+MINI,B47C20,2.0L Diesel,Diesel,avoid,5,MINI F56; MINI Clubman F54; MINI Countryman F60,2014,2024
+MINI,IB1P25B,Elektromotor,Elektro,avoid,5,MINI F56,2020,2024
+MINI,N14B16,1.6L Turbo,Benzin,avoid,9,MINI R56; MINI R57; MINI Clubman R55,2006,2010
+MINI,N18B16,1.6L Turbo,Benzin,avoid,7,MINI R56; MINI R57; MINI Clubman R55; MINI Coupé R58; MINI Roadster R59,2008,2016
+MINI,N47C16,1.6L Diesel,Diesel,avoid,7,MINI R56; MINI Clubman R55; MINI Countryman R60; MINI Paceman R61,2007,2016
+MINI,N47C20,2.0L Diesel,Diesel,avoid,7,MINI R56; MINI Countryman R60; MINI Paceman R61; MINI Clubman R55; MINI R57,2010,2016
+MINI,W11B16,1.6L Kompressor,Benzin,avoid,10,MINI R53; MINI R52,2002,2008
+MINI,B38A12,1.2L Turbo,Benzin,neutral,5,MINI F56; MINI F55,2014,2018
+MINI,B38A15M1,1.5L Turbo PHEV,Benzin,neutral,5,MINI Countryman F60,2017,2024
+MINI,B38B15,1.5L Turbo,Benzin,neutral,5,MINI F56; MINI F55; MINI F57; MINI Clubman F54,2014,2024
+MINI,B48B20,2.0L Turbo,Benzin,neutral,6,MINI F56; MINI F55; MINI F57; MINI Clubman F54; MINI Countryman F60,2014,2024
+MINI,N12B16,1.6L,Benzin,neutral,7,MINI R56; MINI R57; MINI Clubman R55,2006,2010
+MINI,N16B16,1.6L,Benzin,neutral,7,MINI R56; MINI R57; MINI Clubman R55; MINI Countryman R60; MINI Paceman R61,2010,2016
+MINI,W10B16,1.6L,Benzin,neutral,7,MINI R50; MINI R52,2001,2008
+MINI,B38B15U,1.5L Turbo MHEV,Benzin,recommended,1,MINI F66; MINI Countryman U25,2024,2028
+MINI,B48B20U,2.0L Turbo MHEV,Benzin,recommended,1,MINI Countryman U25; MINI F66,2024,2028
+MINI,B48B20U-PHEV,2.0L Turbo PHEV,Benzin,recommended,1,MINI Countryman U25,2024,2028
+MINI,EM-JCW-U,Elektromotor JCW,Elektro,recommended,1,MINI F66; MINI Aceman J05,2025,2028
+MINI,EM-MINI-U,Elektromotor,Elektro,recommended,2,MINI F66; MINI Aceman J05; MINI Countryman U25,2024,2028
+Mitsubishi,4B11T,2.0L Turbo MIVEC,Benzin,avoid,11,Lancer Evolution X; Lancer X,2008,2016
+Mitsubishi,4G63T,2.0L Turbo,Benzin,avoid,14,Lancer VII-IX,2001,2007
+Mitsubishi,4G64,2.4L GDI,Benzin,avoid,3,Galant EA,1999,2004
+Mitsubishi,4G93,1.8L GDI,Benzin,avoid,3,Carisma DA; Space Star DG0,1997,2005
+Mitsubishi,4N13,1.8L DI-D,Diesel,avoid,5,ASX GA; Lancer CY,2007,2016
+Mitsubishi,i-MiEV-EM,Elektromotor,Elektro,avoid,4,i-MiEV HA,2009,2020
+Mitsubishi,4B40,1.5L Turbo MIVEC,Benzin,neutral,4,Eclipse Cross GK,2017,2021
+Mitsubishi,4D56,2.5L TD,Diesel,neutral,4,Pajero V60; L200 IV,2000,2015
+Mitsubishi,4G15,1.5L Turbo,Benzin,neutral,5,Colt Z30,2005,2010
+Mitsubishi,4G63,2.0L NA,Benzin,neutral,3,Outlander I; Galant EA,1996,2006
+Mitsubishi,4G69,2.4L MIVEC,Benzin,neutral,2,Grandis NA,2004,2011
+Mitsubishi,4M41,3.2L DI-D,Diesel,neutral,4,Pajero V60; Pajero V80,2000,2021
+Mitsubishi,4N14,2.2L DI-D,Diesel,neutral,4,Outlander III; ASX GA; Eclipse Cross GK,2012,2021
+Mitsubishi,4N15,2.4L DI-D,Diesel,neutral,3,L200 V,2015,2024
+Mitsubishi,6G74,3.5L V6 GDI,Benzin,neutral,3,Pajero V60,2000,2006
+Mitsubishi,9HD,1.6L DI-D,Diesel,neutral,4,ASX GA,2015,2017
+Mitsubishi,BSY,2.0L DI-D,Diesel,neutral,5,Outlander II; Grandis NA,2005,2011
+Mitsubishi,F9Q,1.9L DI-D,Diesel,neutral,5,Carisma DA,2000,2004
+Mitsubishi,OM639.939,1.5L DI-D,Diesel,neutral,4,Colt Z30,2005,2012
+Mitsubishi,3A91,1.0L MIVEC,Benzin,recommended,2,Space Star A05,2013,2020
+Mitsubishi,3B20,1.2L MIVEC,Benzin,recommended,2,Space Star A05,2015,2020
+Mitsubishi,4A91,1.5L MIVEC,Benzin,recommended,2,Colt Z30,2005,2009
+Mitsubishi,4A92,1.6L MIVEC,Benzin,recommended,4,ASX GA; Lancer CY,2007,2019
+Mitsubishi,4B10,1.8L MIVEC,Benzin,recommended,4,Lancer CY,2007,2017
+Mitsubishi,4B11,2.0L MIVEC,Benzin,recommended,3,ASX GA; Outlander III,2010,2018
+Mitsubishi,4B12,2.4L MIVEC,Benzin,recommended,3,Outlander II; Outlander III; Outlander IV; Eclipse Cross GK-FL,2006,2024
+Mitsubishi,4G18,1.6L NA,Benzin,recommended,3,Lancer VIII; Space Star DG0,1998,2007
+Mitsubishi,4G92,1.6L NA,Benzin,recommended,3,Carisma DA,1995,2004
+Mitsubishi,4J11,2.0L SOHC MIVEC,Benzin,recommended,3,Outlander III; ASX GA,2012,2023
+Mitsubishi,6G72,3.0L V6,Benzin,recommended,3,Pajero V80,2006,2011
+Mitsubishi,6G75,3.8L V6 MIVEC,Benzin,recommended,2,Pajero V80,2006,2011
+Mitsubishi,M134.910,1.1L NA,Benzin,recommended,3,Colt Z30,2004,2012
+Mitsubishi,M135.930,1.3L NA,Benzin,recommended,4,Colt Z30,2004,2012
+Nissan,CR10DE,1.0L,Benzin,avoid,3,Micra K12,2003,2010
+Nissan,CR12DE,1.2L,Benzin,avoid,3,Micra K12,2003,2010
+Nissan,CR14DE,1.4L,Benzin,avoid,3,Micra K12; Note E11; Note E11-FL,2003,2013
+Nissan,HRA2DDT,1.2L,Benzin,avoid,4,Qashqai J11; Pulsar C13,2013,2018
+Nissan,MR16DDT,1.6L,Benzin,avoid,4,Qashqai J11; X-Trail T32; Juke F15; Juke F15-FL; Pulsar C13,2010,2019
+Nissan,VQ35DE,3.5L,Benzin,avoid,12,350Z Z33,2002,2007
+Nissan,YD25DDTi,2.5L,Diesel,avoid,3,Navara D40; Navara D40-FL; Pathfinder R51; Pathfinder R51-FL,2004,2015
+Nissan,ZD30DDTi,3.0L Di Turbo,Diesel,avoid,4,Patrol Y61,2000,2010
+Nissan,5AQ 60,Elektro,Elektro,neutral,2,Townstar JE0,2022,2025
+Nissan,EM57,Elektro,Elektro,neutral,2,Leaf ZE0; Leaf ZE1; NV200 M20; Ariya FE0,2010,2025
+Nissan,H4Bt,0.9L,Benzin,neutral,3,Micra K14,2017,2023
+Nissan,HR10DDT,1.0L,Benzin,neutral,4,Micra K14; Juke F16,2017,2024
+Nissan,HR12DDR,1.2L,Benzin,neutral,5,Micra K13,2010,2017
+Nissan,HR12DE,1.2L,Benzin,neutral,3,Micra K13; Note E12,2010,2022
+Nissan,HR13DDT,1.3L,Benzin,neutral,7,Qashqai J11-FL; Qashqai J12,2018,2024
+Nissan,HR16DE,1.6L,Benzin,neutral,6,Qashqai J10; Qashqai J10-FL; Micra K12; Juke F15; Juke F15-FL,2005,2025
+Nissan,K9K,1.5L,Diesel,neutral,6,Qashqai J10; Qashqai J10-FL; Qashqai J11; Qashqai J11-FL; Micra K12,2003,2025
+Nissan,M9R,2.0L,Diesel,neutral,6,Qashqai J10; Qashqai J10-FL; X-Trail T31; X-Trail T31-FL; X-Trail T32,2007,2017
+Nissan,MR20DE,2.0L,Benzin,neutral,6,Qashqai J10; Qashqai J10-FL; Qashqai J11; X-Trail T31; X-Trail T31-FL,2007,2019
+Nissan,QG15DE,1.5L,Benzin,neutral,3,Almera N16; Almera N16-FL,2000,2006
+Nissan,QG16DE,1.6L,Benzin,neutral,3,Primera P12,2002,2007
+Nissan,QG18DE,1.8L,Benzin,neutral,3,Primera P12; Almera N16; Almera N16-FL,2000,2007
+Nissan,QR20DE,2.0L,Benzin,neutral,6,X-Trail T30; X-Trail T30-FL; Primera P12,2001,2007
+Nissan,QR25DD,2.5L,Benzin,neutral,2,Primera P12,2002,2007
+Nissan,QR25DE,2.5L,Benzin,neutral,7,X-Trail T30-FL; X-Trail T31,2003,2010
+Nissan,R9M,1.6L,Diesel,neutral,7,Qashqai J10-FL; Qashqai J11; Qashqai J11-FL; X-Trail T32; X-Trail T32-FL,2011,2022
+Nissan,R9N,1.7L,Diesel,neutral,3,Qashqai J11-FL; X-Trail T32-FL,2017,2022
+Nissan,V9X,3.0L,Diesel,neutral,3,Navara D40-FL; Pathfinder R51-FL,2010,2015
+Nissan,VQ35HR,3.5L,Benzin,neutral,8,350Z Z33,2007,2009
+Nissan,VQ37VHR,3.7L,Benzin,neutral,13,370Z Z34,2009,2022
+Nissan,VQ40DE,4.0L,Benzin,neutral,2,Pathfinder R51,2004,2010
+Nissan,VR38DETT,3.8L,Benzin,neutral,14,GT-R R35,2007,2023
+Nissan,YD22DDT,2.2L,Diesel,neutral,3,Almera N16,2000,2003
+Nissan,YD22DDTi,2.2L,Diesel,neutral,4,Primera P12; Almera N16-FL,2002,2007
+Nissan,YD22ETi,2.2L,Diesel,neutral,3,X-Trail T30; X-Trail T30-FL,2001,2007
+Nissan,BR10DE,1.0L,Benzin,recommended,3,Micra K14,2017,2023
+Nissan,F9Q,1.9L,Diesel,recommended,4,Primera P12,2002,2007
+Nissan,H5H E4,1.3L,Benzin,recommended,3,Townstar JE0,2022,2025
+Nissan,KR15DDT,1.5L,Benzin,recommended,4,Qashqai J12; X-Trail T33,2022,2025
+Nissan,MR20DD,2.0L,Benzin,recommended,3,X-Trail T32; X-Trail T32-FL,2014,2022
+Nissan,YS23DDT,2.3L,Diesel,recommended,3,Navara D23; Navara D23-FL,2015,2025
+Opel,A16FDL,1.6L CDTI,Diesel,avoid,8,Combo D,2012,2018
+Opel,A28NET,2.8L V6 Turbo,Benzin,avoid,4,Insignia A,2008,2017
+Opel,B12XER,1.2L ECOTEC,Benzin,avoid,8,Corsa E,2014,2019
+Opel,D16SHT,1.6L Turbo,Benzin,avoid,4,Astra K,2015,2019
+Opel,DV5RC,1.5L BlueHDi,Diesel,avoid,7,Insignia B,2020,2022
+Opel,DV5RD,1.5L BlueHDi,Diesel,avoid,5,Corsa F; Astra K; Astra L; Mokka B; Grandland X X,2018,2025
+Opel,DV6FD,1.6L BlueHDi,Diesel,avoid,8,Mokka A; Grandland X X,2017,2019
+Opel,DW10FD,2.0L BlueHDi,Diesel,avoid,8,Grandland X X; Insignia B,2017,2022
+Opel,EB2,1.2L PureTech,Benzin,avoid,4,Corsa F; Crossland X X,2017,2025
+Opel,EB2DTS,1.2L Turbo PureTech,Benzin,avoid,8,Corsa F; Astra K; Astra L; Mokka B; Grandland X X,2017,2025
+Opel,EP6,1.6L THP,Benzin,avoid,4,Grandland X X; Astra L,2018,2025
+Opel,Y17DTL,1.7L DI,Diesel,avoid,8,Corsa C; Astra G; Meriva A; Combo C,2000,2011
+Opel,Y30DT,3.0L CDTI V6,Diesel,avoid,4,Vectra C; Signum Signum,2003,2008
+Opel,Z16LER,1.6L Turbo,Benzin,avoid,7,Corsa D,2007,2014
+Opel,Z19DTH,1.9L CDTI,Diesel,avoid,5,Astra H; Vectra C; Signum Signum; Zafira B,2004,2014
+Opel,Z22YH,2.2L 16V Direct,Benzin,avoid,4,Vectra C; Signum Signum; Zafira B,2004,2014
+Opel,A12XER,1.2L,Benzin,neutral,4,Corsa D; Adam Adam,2011,2019
+Opel,A13DTE,1.3L CDTI,Diesel,neutral,4,Astra J; Meriva B; Corsa D; Corsa E,2009,2018
+Opel,A14NET,1.4L Turbo,Benzin,neutral,4,Astra J; Insignia A; Zafira Tourer; Meriva B; Mokka A,2009,2019
+Opel,A14XER,1.4L,Benzin,neutral,4,Corsa D; Astra J; Meriva B; Adam Adam; Combo D,2009,2019
+Opel,A16LET,1.6L Turbo,Benzin,neutral,4,Astra J; Insignia A; Zafira Tourer; Cascada Cascada,2008,2019
+Opel,A16XER,1.6L 16V,Benzin,neutral,4,Astra J; Insignia A; Zafira B; Mokka A,2008,2016
+Opel,A17DTS,1.7L CDTI,Diesel,neutral,5,Astra J; Meriva B; Mokka A; Zafira B,2007,2016
+Opel,A18XER,1.8L 16V,Benzin,neutral,4,Insignia A; Zafira Tourer,2008,2019
+Opel,A20DTH,2.0L CDTI,Diesel,neutral,4,Astra J; Insignia A; Insignia B; Zafira Tourer; Cascada Cascada,2008,2022
+Opel,A20NFT,2.0L Turbo,Benzin,neutral,7,Astra J,2012,2018
+Opel,A20NHT,2.0L Turbo,Benzin,neutral,5,Insignia A,2008,2017
+Opel,A22DM,2.2L CDTI,Diesel,neutral,8,Antara A,2010,2016
+Opel,A22DMH,2.2L CDTI,Diesel,neutral,8,Antara A,2010,2016
+Opel,A24XE,2.4L 16V,Benzin,neutral,8,Antara A,2010,2016
+Opel,B10XE,1.0L,Benzin,neutral,8,Karl Karl,2015,2019
+Opel,B10XFL,1.0L Turbo,Benzin,neutral,8,Corsa E; Astra K,2015,2022
+Opel,B10XFT,1.0L Turbo ECOTEC,Benzin,neutral,4,Corsa E; Astra K; Adam Adam,2013,2019
+Opel,B14NEH,1.4L Turbo ECOTEC,Benzin,neutral,4,Corsa E,2015,2019
+Opel,B14XER,1.4L ECOTEC,Benzin,neutral,4,Corsa E; Astra K,2014,2019
+Opel,B16DTH,1.6L CDTI,Diesel,neutral,4,Astra K; Insignia A; Insignia B; Mokka A; Meriva B,2013,2020
+Opel,B16LER,1.6L Turbo,Benzin,neutral,8,Corsa E,2015,2018
+Opel,EB2LTDH2,1.2L Turbo MHEV,Benzin,neutral,7,Astra L,2024,2026
+Opel,F9Q,1.9L DTI,Diesel,neutral,4,Vivaro A,2001,2006
+Opel,HN09,1.2L Turbo MHEV,Benzin,neutral,8,Corsa F-FL,2024,2026
+Opel,LTG,2.0L Turbo,Benzin,neutral,4,Insignia B,2017,2022
+Opel,Opel-EM,Elektro,Elektro,neutral,8,Corsa F; Mokka B; Astra L; Combo E; Frontera E,2020,2025
+Opel,Y20DTH,2.0L DTI,Diesel,neutral,4,Astra G; Vectra C; Zafira A,2000,2005
+Opel,Y22DTR,2.2L DTI,Diesel,neutral,8,Vectra B; Vectra C; Zafira A,2000,2005
+Opel,Z10XE,1.0L 12V,Benzin,neutral,4,Corsa C; Agila A,2000,2007
+Opel,Z10XEP,1.0L 12V Twinport,Benzin,neutral,8,Corsa C; Corsa D,2003,2009
+Opel,Z12XE,1.2L 16V,Benzin,neutral,8,Corsa C; Astra G; Agila A,2000,2007
+Opel,Z12XEP,1.2L 16V Twinport,Benzin,neutral,4,Corsa D; Agila A,2003,2011
+Opel,Z13DTH,1.3L CDTI,Diesel,neutral,4,Corsa C; Corsa D; Astra H; Meriva A; Agila A,2003,2014
+Opel,Z16SE,1.6L,Benzin,neutral,5,Astra G; Vectra B,2000,2004
+Opel,Z16XE,1.6L 16V,Benzin,neutral,5,Astra G; Vectra B; Zafira A,2000,2005
+Opel,Z16XER,1.6L 16V,Benzin,neutral,5,Astra H; Vectra C; Zafira B; Meriva A; Combo C,2002,2011
+Opel,Z17DTH,1.7L CDTI,Diesel,neutral,5,Astra H; Corsa D; Meriva A; Combo C,2003,2011
+Opel,Z18XE,1.8L 16V,Benzin,neutral,5,Astra G; Vectra B; Vectra C; Zafira A; Corsa C,2000,2010
+Opel,Z18XER,1.8L 16V,Benzin,neutral,4,Astra H; Vectra C; Signum Signum; Zafira B,2004,2014
+Opel,Z19DT,1.9L CDTI,Diesel,neutral,4,Astra H; Vectra C; Signum Signum; Zafira B,2004,2014
+Opel,Z20LEH,2.0L Turbo OPC,Benzin,neutral,4,Astra G; Astra H; Zafira A; Zafira B,2002,2014
+Opel,Z20LET,2.0L Turbo,Benzin,neutral,7,Astra H; Zafira B; Speedster A00,2003,2014
+Opel,Z20NEL,2.0L Turbo,Benzin,neutral,4,Astra H,2004,2007
+Opel,Z20NET,2.0L Turbo,Benzin,neutral,4,Vectra C; Signum Signum,2003,2008
+Opel,Z20NHH,2.0L Turbo,Benzin,neutral,6,GT GT,2007,2009
+Opel,Z22SE,2.2L 16V,Benzin,neutral,7,Astra G; Vectra B; Vectra C; Zafira A; Speedster A00,2000,2005
+Opel,Z24XE,2.4L 16V,Benzin,neutral,8,Antara A,2006,2010
+Opel,Z28NEL,2.8L V6 Turbo,Benzin,neutral,4,Vectra C; Signum Signum,2005,2008
+Opel,Z28NET,2.8L V6 Turbo VCT,Benzin,neutral,4,Vectra C; Signum Signum,2006,2008
+Opel,Z32SE,3.2L V6,Benzin,neutral,4,Vectra C; Signum Signum,2002,2005
+Opel,B14NET,1.4L Turbo,Benzin,recommended,4,Corsa E; Adam Adam; Astra K,2014,2019
+Opel,K10B,1.0L 12V,Benzin,recommended,6,Agila B,2008,2014
+Opel,K12B,1.2L 16V,Benzin,recommended,5,Agila B,2008,2014
+Opel,LFV,1.5L Turbo,Benzin,recommended,4,Insignia B,2017,2022
+Opel,Z14XEP,1.4L 16V Twinport,Benzin,recommended,4,Corsa C; Corsa D; Astra H; Meriva A; Combo C,2003,2011
+Peugeot,DT17,2.7L V6 HDi,Diesel,avoid,6,407 D2,2006,2011
+Peugeot,DV5,1.5L BlueHDi,Diesel,avoid,6,208 A9-FL; 208 P21; 308 T9-FL; 308 P51; 2008 P24,2018,2026
+Peugeot,DV6,1.6L HDi,Diesel,avoid,6,206 T1; 207 A7; 207 A7-FL; 208 A9; 208 A9-FL,2004,2019
+Peugeot,DW10,2.0L HDi,Diesel,avoid,7,206 T1; 307 T5; 308 T7; 308 T7-FL; 308 T9,1999,2026
+Peugeot,EB2DT,1.2L PureTech 110,Benzin,avoid,6,208 A9-FL; 2008 A94-FL; 308 T9; 308 T9-FL; 3008 P84,2013,2024
+Peugeot,EB2DTS,1.2L PureTech 130,Benzin,avoid,6,308 T9; 308 T9-FL; 3008 P84; 3008 P84-FL; 5008 P87,2013,2026
+Peugeot,EP6CDT,1.6L THP 155,Benzin,avoid,6,207 A7-FL; 208 A9; 308 T7-FL; 308 T9; 3008 T84,2009,2017
+Peugeot,EP6DT,1.6L THP 150,Benzin,avoid,7,207 A7; 207 A7-FL; 308 T7; 308 T7-FL; 3008 T8,2006,2018
+Peugeot,EP6DTS,1.6L THP 175/200,Benzin,avoid,7,207 A7; 308 T7; RCZ T75,2006,2015
+Peugeot,EP6FADTX,1.6L THP 225,Benzin,avoid,6,308 T9; RCZ T75; 308 T9-FL; 208 A9,2010,2021
+Peugeot,1KR-FE,1.0L 3-Zylinder Toyota,Benzin,neutral,6,107 PN; 107 PN-FL; 108 ---,2005,2021
+Peugeot,4B12,2.4L MIVEC,Benzin,neutral,6,4007 ---,2007,2013
+Peugeot,DV4,1.4L HDi,Diesel,neutral,6,206 T1; 207 A7; 207 A7-FL; 208 A9; 307 T5,2001,2019
+Peugeot,DW10-HY4,2.0L HDi Hybrid4,Diesel,neutral,7,3008 T84; 3008 T84-FL; 508 W2; 508 W2-FL,2011,2018
+Peugeot,DW12,2.2L HDi,Diesel,neutral,6,407 D2; 508 W2; 508 W2-FL; 807 ---; 4007 ---,2002,2018
+Peugeot,EB0,1.0L PureTech,Benzin,neutral,6,108 ---; 208 A9,2012,2021
+Peugeot,EB2,1.2L PureTech,Benzin,neutral,7,208 A9; 208 A9-FL; 2008 A94; 301 ---,2012,2020
+Peugeot,EB2ADTS,1.2L PureTech 130 Euro6d,Benzin,neutral,6,208 P21; 2008 P24; 308 P51; 408 ---,2019,2026
+Peugeot,EB2ADTS-MH,1.2L PureTech 130 MHEV,Benzin,neutral,6,308 P51-FL,2024,2026
+Peugeot,EM-100,Elektro 50kWh,Elektro,neutral,6,208 P21; 208 P21-FL; 2008 P24; 2008 P24-FL,2019,2026
+Peugeot,EM-115,Elektro 51kWh,Elektro,neutral,6,208 P21-FL; 2008 P24-FL,2024,2026
+Peugeot,EM-157,Elektro 54kWh,Elektro,neutral,6,308 P51; 308 P51-FL,2023,2026
+Peugeot,EP3,1.4L VTi,Benzin,neutral,6,207 A7; 207 A7-FL; 208 A9,2006,2019
+Peugeot,EP6,1.6L VTi,Benzin,neutral,6,207 A7; 207 A7-FL; 308 T7; 308 T7-FL; 3008 T8,2006,2015
+Peugeot,EP6-PHEV,1.6L Turbo PHEV,Benzin,neutral,6,308 P51; 3008 P84-FL; 508 R8; 508 R8-FL; 408 E3,2019,2026
+Peugeot,EP6CDTX,1.6L THP 165,Benzin,neutral,6,308 T9; 308 T9-FL; 3008 P84; 3008 P84-FL; 5008 P87,2013,2026
+Peugeot,EP6FDTR,1.6L THP 270,Benzin,neutral,7,308 T9,2015,2021
+Peugeot,ES9,3.0L V6 24V,Benzin,neutral,6,407 D2; 607 Z8; 807 E2,2000,2014
+Peugeot,EW10,2.0L 16V,Benzin,neutral,6,206 T1; 307 T5; 307 T5-FL; 406 ---; 407 D2,1998,2011
+Peugeot,EW12,2.2L 16V,Benzin,neutral,6,407 D2; 607 Z8,2000,2011
+Peugeot,TU3,1.4L 8V,Benzin,neutral,6,206 T1; 306 N5; 1007 ---,1997,2009
+Peugeot,EM-170,Elektro 73kWh,Elektro,recommended,6,3008 P37; 5008 P37,2024,2026
+Peugeot,EM-240,Elektro 98kWh,Elektro,recommended,6,3008 P37; 5008 P37,2024,2026
+Peugeot,EW7,1.8L 16V,Benzin,recommended,6,407 D2,2004,2011
+Peugeot,HN09,1.2L Turbo MHEV,Benzin,recommended,6,208 P21; 2008 P24; 308 P51,2023,2026
+Peugeot,TU5,1.6L 16V,Benzin,recommended,6,206 T1; 307 T5; 307 T5-FL; 406 ---,1998,2009
+Porsche,930.20,3.2L,Benzin,avoid,8,911 G-Modell,1984,1989
+Porsche,CFTB,4.8L V8 Turbo,Benzin,avoid,7,Cayenne 92A,2014,2017
+Porsche,CYXA,4.8L V8 Turbo,Benzin,avoid,11,Cayenne 92A,2015,2017
+Porsche,DLZB,3.0L V6 Turbo,Benzin,avoid,9,Macan 95B,2018,2021
+Porsche,M28.01,4.5L V8,Benzin,avoid,11,928 928,1977,1982
+Porsche,M28.11,4.7L V8,Benzin,avoid,11,928 928,1979,1983
+Porsche,M28.21,4.7L V8,Benzin,avoid,11,928 928,1983,1986
+Porsche,M30.69,3.3L Turbo,Benzin,avoid,5,911 964,1990,1993
+Porsche,M44.01,2.5L,Benzin,avoid,11,944 944,1982,1988
+Porsche,M44.12,2.7L,Benzin,avoid,11,944 944,1988,1989
+Porsche,M44.40,2.5L 16V,Benzin,avoid,5,944 944,1987,1989
+Porsche,M44.41,3.0L 16V,Benzin,avoid,5,944 944,1989,1991
+Porsche,M44.43,3.0L 16V,Benzin,avoid,5,968 968,1992,1995
+Porsche,M44.51,2.5L Turbo,Benzin,avoid,7,944 944,1985,1991
+Porsche,M44.52,2.5L Turbo S,Benzin,avoid,6,944 944,1988,1991
+Porsche,M48.20,4.8L V8,Benzin,avoid,8,Panamera 970,2009,2013
+Porsche,M48.40,4.8L V8,Benzin,avoid,7,Panamera 970,2011,2013
+Porsche,M48.52,4.8L V8 Turbo,Benzin,avoid,7,Cayenne 92A,2010,2014
+Porsche,M48.70,4.8L V8 Turbo,Benzin,avoid,7,Panamera 970,2010,2013
+Porsche,M64.01,3.6L,Benzin,avoid,8,911 964,1989,1993
+Porsche,M64.02,3.6L,Benzin,avoid,7,911 964,1989,1993
+Porsche,M64.03,3.6L,Benzin,avoid,7,911 964,1991,1993
+Porsche,M64/60R,3.6L Boxer Biturbo GT2,Benzin,avoid,5,911 993,1995,1997
+Porsche,M96.20,2.5L,Benzin,avoid,9,Boxster 986,1996,1999
+Porsche,M96.21,3.2L,Benzin,avoid,8,Boxster 986,1999,2002
+Porsche,M96.22,2.7L,Benzin,avoid,7,Boxster 986,1999,2002
+Porsche,M96.23,2.7L,Benzin,avoid,7,Boxster 986,2002,2004
+Porsche,M96.24,3.2L,Benzin,avoid,8,Boxster 986,2002,2004
+Porsche,M96.76,3.6L,Benzin,avoid,9,911 996,1999,2001
+Porsche,M96.79,3.6L,Benzin,avoid,9,911 996,2003,2005
+Porsche,MDH.NA,3.8L Turbo,Benzin,avoid,10,911 991,2017,2019
+Porsche,CGEA,3.0L V6 Hybrid,Benzin,neutral,7,Cayenne 92A; Panamera 970,2010,2017
+Porsche,CRC,3.0L V6 TDI,Diesel,neutral,7,Cayenne 92A,2011,2014
+Porsche,CRCC,3.0L V6 TDI,Diesel,neutral,8,Panamera 970,2011,2013
+Porsche,CSZB,2.9L V6 Turbo,Benzin,neutral,7,Panamera 971,2019,2024
+Porsche,CTBA,3.0L V6 TDI,Diesel,neutral,8,Macan 95B,2014,2018
+Porsche,CTLA,3.6L V6 Turbo,Benzin,neutral,8,Macan 95B,2014,2018
+Porsche,CTMA,3.0L V6 Turbo,Benzin,neutral,8,Macan 95B,2014,2018
+Porsche,CUDB,4.2L V8 TDI,Diesel,neutral,7,Cayenne 92A,2012,2014
+Porsche,CUDC,4.2L V8 TDI,Diesel,neutral,7,Cayenne 92A,2014,2017
+Porsche,CURA,3.6L V6 Turbo,Benzin,neutral,6,Cayenne 92A,2014,2017
+Porsche,CVVA,3.0L V6 TDI,Diesel,neutral,8,Cayenne 92A,2014,2017
+Porsche,CWAA,3.6L V6,Benzin,neutral,7,Panamera 970,2013,2016
+Porsche,CWBA,4.8L V8 Turbo,Benzin,neutral,7,Panamera 970,2013,2016
+Porsche,CWJA,3.0L V6 TDI,Diesel,neutral,7,Panamera 970,2013,2016
+Porsche,CXPA,4.8L V8,Benzin,neutral,7,Panamera 970,2013,2016
+Porsche,CXZA,3.6L V6 Turbo,Benzin,neutral,6,Cayenne 92A,2014,2017
+Porsche,CYPA,2.0L Turbo,Benzin,neutral,8,Macan 95B,2014,2018
+Porsche,DCAB,2.9L V6 Turbo,Benzin,neutral,7,Cayenne 9YA,2018,2024
+Porsche,DCBE,3.0L V6 Turbo,Benzin,neutral,7,Cayenne 9YA,2018,2024
+Porsche,DCNA,3.0L V6 Turbo,Benzin,neutral,8,Macan 95B,2015,2018
+Porsche,DCUA,4.0L V8 Turbo,Benzin,neutral,7,Cayenne 9YA,2018,2024
+Porsche,DDPB,2.0L Turbo,Benzin,neutral,6,718 Boxster 982; 718 Cayman 982,2020,2025
+Porsche,DGPC,2.9L V6 Turbo Hybrid,Benzin,neutral,7,Panamera 971,2020,2024
+Porsche,DGR,2.9L V6 Turbo,Benzin,neutral,8,Macan 95B,2019,2024
+Porsche,DGRC,2.9L V6 Turbo,Benzin,neutral,8,Macan 95B,2019,2021
+Porsche,DKN,2.0L Turbo,Benzin,neutral,8,Macan 95B,2018,2021
+Porsche,DMT,2.0L Turbo,Benzin,neutral,7,Macan 95B,2021,2024
+Porsche,DRM,4.0L,Benzin,neutral,10,911 992,2021,2024
+Porsche,DWN,4.0L V8 Turbo,Benzin,neutral,7,Cayenne 9YA,2021,2024
+Porsche,M02.2Y,3.2L V6,Benzin,neutral,7,Cayenne 955,2003,2006
+Porsche,M05.9D,3.0L V6 TDI,Diesel,neutral,7,Cayenne 955,2009,2010
+Porsche,M28.19,4.5L V8,Benzin,neutral,11,928 928,1983,1986
+Porsche,M28.41,5.0L V8,Benzin,neutral,5,928 928,1986,1991
+Porsche,M28.47,5.0L V8,Benzin,neutral,5,928 928,1989,1991
+Porsche,M28.49,5.4L V8,Benzin,neutral,5,928 928,1991,1995
+Porsche,M46.20,3.6L V6,Benzin,neutral,7,Panamera 970,2010,2013
+Porsche,M48.00,4.5L V8,Benzin,neutral,6,Cayenne 955,2002,2006
+Porsche,M48.01,4.8L V8,Benzin,neutral,5,Cayenne 955,2007,2010
+Porsche,M48.02,4.8L V8,Benzin,neutral,7,Cayenne 92A,2010,2014
+Porsche,M48.50,4.5L V8 Turbo,Benzin,neutral,7,Cayenne 955,2002,2006
+Porsche,M48.51,4.8L V8 Turbo,Benzin,neutral,6,Cayenne 955,2007,2010
+Porsche,M55.01,3.6L V6,Benzin,neutral,7,Cayenne 955,2007,2010
+Porsche,M55.02,3.6L V6,Benzin,neutral,8,Cayenne 92A,2010,2014
+Porsche,M64.50,3.6L Turbo,Benzin,neutral,10,911 964,1993,1994
+Porsche,M64/05,3.6L Boxer,Benzin,neutral,8,911 993,1994,1995
+Porsche,M64/20,3.8L Boxer VarioRam,Benzin,neutral,10,911 993,1995,1996
+Porsche,M64/21,3.6L Boxer VarioRam,Benzin,neutral,8,911 993,1996,1998
+Porsche,M64/22,3.6L Boxer VarioRam Tiptronic,Benzin,neutral,10,911 993,1996,1998
+Porsche,M64/60,3.6L Boxer Biturbo,Benzin,neutral,6,911 993,1995,1998
+Porsche,M64/60S,3.6L Boxer Biturbo Turbo S,Benzin,neutral,5,911 993,1997,1998
+Porsche,M96.01,3.4L,Benzin,neutral,11,911 996,1997,2001
+Porsche,M96.05,3.6L,Benzin,neutral,9,911 996; 911 997,2001,2008
+Porsche,M96.25,2.7L,Benzin,neutral,8,Boxster 987,2004,2009
+Porsche,M96.26,3.2L,Benzin,neutral,9,Boxster 987,2004,2006
+Porsche,M96.70,3.6L Turbo,Benzin,neutral,5,911 996,2000,2005
+Porsche,M97.01,3.8L,Benzin,neutral,10,911 997,2004,2008
+Porsche,M97.20,2.7L,Benzin,neutral,10,Cayman 987,2006,2009
+Porsche,M97.21,3.4L,Benzin,neutral,10,Boxster 987; Cayman 987,2005,2009
+Porsche,M97.70,3.6L Turbo,Benzin,neutral,7,911 997,2006,2009
+Porsche,M97.70S,3.6L Turbo,Benzin,neutral,6,911 997,2007,2012
+Porsche,M97.76,3.6L,Benzin,neutral,9,911 997,2006,2009
+Porsche,M97.77,3.8L,Benzin,neutral,11,911 997,2009,2012
+Porsche,MA1.01,3.8L,Benzin,neutral,6,911 997; 911 991,2008,2016
+Porsche,MA1.02,3.6L,Benzin,neutral,6,911 997,2008,2012
+Porsche,MA1.20,2.9L,Benzin,neutral,8,Boxster 987; Cayman 987,2009,2012
+Porsche,MA1.21,3.4L,Benzin,neutral,8,Boxster 987; Cayman 987,2009,2012
+Porsche,MA1.70,3.8L Turbo,Benzin,neutral,8,911 997,2009,2012
+Porsche,MA1.71,3.8L Turbo,Benzin,neutral,8,911 991,2013,2016
+Porsche,MA1.71S,3.8L Turbo,Benzin,neutral,8,911 991,2013,2016
+Porsche,MA1.75,3.8L,Benzin,neutral,5,911 991,2013,2016
+Porsche,MA2.01,3.0L Turbo,Benzin,neutral,7,911 991,2015,2019
+Porsche,MA2.03,3.0L Turbo,Benzin,neutral,7,911 991,2015,2019
+Porsche,MA2.22,2.5L Turbo,Benzin,neutral,6,718 Boxster 982; 718 Cayman 982,2017,2020
+Porsche,MCS.ZA,2.9L V6 Turbo,Benzin,neutral,7,Panamera 971,2016,2024
+Porsche,MCV.DA,4.0L V8 Turbo,Benzin,neutral,7,Panamera 971,2016,2020
+Porsche,MCX.TA,3.0L V6 Turbo,Benzin,neutral,7,Panamera 971,2016,2020
+Porsche,MDA.BA,3.8L Turbo,Benzin,neutral,10,911 991,2015,2019
+Porsche,MDB.UB,4.0L V8 TDI,Diesel,neutral,7,Panamera 971,2016,2020
+Porsche,MDD.NC,2.5L Turbo,Benzin,neutral,6,718 Boxster 982; 718 Cayman 982,2016,2025
+Porsche,MDD.PB,2.0L Turbo,Benzin,neutral,6,718 Boxster 982; 718 Cayman 982,2016,2021
+Porsche,MDG.GA,4.0L,Benzin,neutral,5,911 991; 718 Cayman 982,2017,2025
+Porsche,MDG.PA,2.9L V6 Turbo Hybrid,Benzin,neutral,7,Panamera 971,2016,2020
+Porsche,Taycan-AWD-4S,Elektro AWD 4S,Elektro,neutral,8,Taycan Y1A,2020,2024
+Porsche,Taycan-AWD-GTS,Elektro AWD GTS 93 kWh,Elektro,neutral,9,Taycan Y1A,2022,2024
+Porsche,Taycan-AWD-Turbo,Elektro AWD Turbo 93 kWh,Elektro,neutral,5,Taycan Y1A,2020,2024
+Porsche,Taycan-AWD-TurboS,Elektro AWD Turbo S 93 kWh,Elektro,neutral,9,Taycan Y1A,2020,2024
+Porsche,Taycan-FL-AWD-4S,Elektro AWD 4S Facelift,Elektro,neutral,7,Taycan Y1A,2024,2025
+Porsche,Taycan-FL-AWD-GTS,Elektro AWD GTS Facelift,Elektro,neutral,8,Taycan Y1A,2024,2025
+Porsche,Taycan-FL-AWD-Turbo,Elektro AWD Turbo Facelift,Elektro,neutral,8,Taycan Y1A,2024,2025
+Porsche,Taycan-FL-AWD-TurboS,Elektro AWD Turbo S Facelift,Elektro,neutral,8,Taycan Y1A,2024,2025
+Porsche,Taycan-FL-RWD,Elektro RWD Facelift,Elektro,neutral,7,Taycan Y1A,2024,2025
+Porsche,Taycan-RWD-79,Elektro RWD 79 kWh,Elektro,neutral,7,Taycan Y1A,2021,2024
+Porsche,Taycan-RWD-93,Elektro RWD 93 kWh,Elektro,neutral,7,Taycan Y1A,2021,2024
+Porsche,CVDD,4.0L V8 Turbo,Benzin,recommended,7,Panamera 971,2018,2020
+Porsche,CVDE,4.0L V8 Turbo,Benzin,recommended,7,Panamera 971,2020,2024
+Porsche,CWDA,3.0L V6 Turbo,Benzin,recommended,7,Panamera 970,2013,2016
+Porsche,DKCA,3.0L Turbo,Benzin,recommended,6,911 992,2019,2024
+Porsche,DKDA,4.0L,Benzin,recommended,8,718 Boxster 982; 718 Cayman 982,2019,2025
+Porsche,DKEA,3.8L Turbo,Benzin,recommended,6,911 992,2020,2024
+Porsche,DKH,3.8L Turbo,Benzin,recommended,6,911 992,2020,2024
+Porsche,DKKA,3.0L Turbo,Benzin,recommended,6,911 992,2019,2024
+Porsche,DTCA,4.0L V8 Turbo,Benzin,recommended,7,Panamera 971,2020,2024
+Porsche,MA1-981HiPerf,3.8L,Benzin,recommended,5,Boxster 981; Cayman 981,2015,2016
+Porsche,MA1.03,3.8L,Benzin,recommended,5,911 991,2011,2016
+Porsche,MA1.04,3.4L,Benzin,recommended,5,911 991,2011,2016
+Porsche,MA1.22,2.7L,Benzin,recommended,5,Boxster 981; Cayman 981,2012,2016
+Porsche,MA1.23,3.4L,Benzin,recommended,5,Boxster 981; Cayman 981,2012,2016
+Renault,Fluence-ZE,Elektro,Elektro,avoid,5,Fluence I,2011,2014
+Renault,G9T,2.2L dCi,Diesel,avoid,5,Laguna II; Espace IV,2002,2010
+Renault,H5F,1.2L TCe,Benzin,avoid,5,Clio IV; Megane III; Megane IV; Scenic III; Scenic IV,2012,2019
+Renault,K9K,1.5L dCi,Diesel,avoid,5,Clio II; Clio III; Clio IV; Clio V; Megane II,2001,2024
+Renault,P9X,3.0L V6 dCi,Diesel,avoid,5,Espace IV; Vel Satis I,2002,2010
+Renault,V9X,3.0L V6 dCi,Diesel,avoid,5,Latitude I,2010,2013
+Renault,V9X-Laguna,3.0L V6 dCi,Diesel,avoid,5,Laguna III,2008,2015
+Renault,ZOE-R110,Elektro 80kW,Elektro,avoid,5,ZOE I,2018,2024
+Renault,ZOE-R135,Elektro 100kW,Elektro,avoid,5,ZOE I-FL,2019,2024
+Renault,ZOE-R90,Elektro 65kW,Elektro,avoid,5,ZOE I,2012,2019
+Renault,D4F,1.2L 16V,Benzin,neutral,5,Twingo I; Twingo II; Clio II; Clio III; Clio IV,2001,2016
+Renault,D4Ft,1.2L TCe,Benzin,neutral,4,Twingo II; Clio III; Wind I,2007,2014
+Renault,D7F,1.2L,Benzin,neutral,4,Twingo I; Twingo II; Clio II,1998,2014
+Renault,E7J,1.4L,Benzin,neutral,4,Clio II,1998,2005
+Renault,F4R,2.0L 16V,Benzin,neutral,4,Megane II; Megane III; Scenic II; Scenic III; Laguna II,1999,2016
+Renault,F4R-RS,2.0L Turbo RS,Benzin,neutral,6,Clio III; Megane II; Megane III,2004,2016
+Renault,F4Rt,2.0L Turbo,Benzin,neutral,4,Laguna II; Laguna III; Espace IV; Megane III,2002,2015
+Renault,F8Q,1.9L D,Diesel,neutral,5,Clio II,1998,2001
+Renault,F9Q,1.9L dCi,Diesel,neutral,5,Megane II; Megane III; Scenic II; Scenic III; Laguna II,2000,2013
+Renault,H4J,1.4L TCe,Benzin,neutral,5,Megane III; Scenic III,2009,2013
+Renault,H4M-FHEV,1.6L E-Tech Hybrid,Benzin,neutral,5,Clio V; Captur II; Arkana I,2020,2025
+Renault,H4M-PHEV,1.6L E-Tech Plug-in,Benzin,neutral,6,Captur II; Megane IV,2020,2022
+Renault,H5H-1.3,1.3L TCe,Benzin,neutral,4,Megane IV; Scenic IV; Captur II; Kadjar I-FL; Arkana I,2017,2025
+Renault,HR12-FHEV,1.2L E-Tech Hybrid,Benzin,neutral,5,Austral I,2022,2025
+Renault,K4M,1.6L 16V,Benzin,neutral,8,Clio II; Clio III; Megane II; Megane III; Scenic II,1999,2020
+Renault,K7M,1.6L,Benzin,neutral,5,Clio II,1998,2005
+Renault,L7X,3.0L V6,Benzin,neutral,4,Laguna II,2001,2007
+Renault,M5M,1.6L Turbo,Benzin,neutral,4,Clio IV; Megane IV; Talisman I; Espace V,2013,2019
+Renault,M5P,1.8L Turbo,Benzin,neutral,7,Megane IV; Talisman I; Espace V,2017,2023
+Renault,M9R,2.0L dCi,Diesel,neutral,5,Megane II; Megane III; Scenic III; Laguna III; Espace IV,2006,2024
+Renault,Megane-EV-160,Elektro 160kW,Elektro,neutral,4,Megane V-EV,2022,2025
+Renault,Megane-EV-96,Elektro 96kW,Elektro,neutral,4,Megane V-EV,2022,2025
+Renault,QR25DE,2.5L,Benzin,neutral,4,Koleos I,2008,2016
+Renault,R9M,1.6L dCi,Diesel,neutral,5,Megane III; Megane IV; Scenic III; Scenic IV; Kadjar I,2011,2019
+Renault,R9N,1.7L Blue dCi,Diesel,neutral,5,Megane IV; Scenic IV; Kadjar I-FL; Koleos II-FL,2018,2023
+Renault,Twingo-ZE,Elektro,Elektro,neutral,4,Twingo III-FL,2020,2024
+Renault,V4Y,3.5L V6,Benzin,neutral,4,Espace IV,2002,2010
+Renault,V4Y-Laguna,3.5L V6,Benzin,neutral,5,Laguna III,2008,2015
+Renault,F4P,1.8L 16V,Benzin,recommended,4,Laguna II,2001,2005
+Renault,H4B,0.9L TCe,Benzin,recommended,3,Twingo III; Twingo III-FL; Clio IV; Captur I,2012,2021
+Renault,H4D,1.0L SCe,Benzin,recommended,5,Twingo III; Twingo III-FL; Clio V; Clio V-FL,2014,2025
+Renault,H5H-1.0,1.0L TCe,Benzin,recommended,5,Clio V; Clio V-FL; Captur II,2019,2025
+Renault,H5H-1.0-LPG,1.0L TCe LPG,LPG,recommended,5,Clio V; Captur II,2020,2025
+Renault,K4J,1.4L 16V,Benzin,recommended,4,Clio II; Clio III; Megane II; Scenic II; Modus I,1999,2012
+Renault,R5-EV,Elektro 78kW,Elektro,recommended,5,5 E-Tech I,2024,2026
+Seat,AUQ,1.8L T 20V,Benzin,avoid,7,Leon 1M,1999,2005
+Seat,AZQ,1.2L 12V,Benzin,avoid,4,Ibiza 6L; Cordoba 6L,2002,2008
+Seat,AZV,2.0L TDI,Diesel,avoid,4,Leon 1P,2005,2009
+Seat,BAM,1.8L T 20V,Benzin,avoid,7,Leon 1M,2003,2005
+Seat,BKD,2.0L TDI,Diesel,avoid,9,Altea 5P; Toledo 5P,2004,2015
+Seat,BRT,2.0L TDI,Diesel,avoid,4,Alhambra 7M,2005,2010
+Seat,BWE,2.0L TFSI,Benzin,avoid,7,Exeo 3R,2009,2013
+Seat,CAGA,2.0L TDI,Diesel,avoid,7,Exeo 3R,2008,2013
+Seat,CAHA,2.0L TDI,Diesel,avoid,6,Exeo 3R,2009,2013
+Seat,CAVE,1.4L TSI,Benzin,avoid,9,Ibiza 6J,2009,2015
+Seat,CAVF,1.4L TSI,Benzin,avoid,3,Ibiza 6J,2009,2015
+Seat,CAXA,1.4L TSI,Benzin,avoid,5,Toledo KG,2012,2015
+Seat,CAXC,1.4L TSI,Benzin,avoid,3,Leon 1P; Altea 5P,2007,2015
+Seat,CAYB,1.6L TDI,Diesel,avoid,7,Ibiza 6J,2009,2015
+Seat,CAYC,1.6L TDI,Diesel,avoid,12,Ibiza 6J; Leon 1P; Altea 5P; Toledo KG,2009,2015
+Seat,CBZB,1.2L TSI,Benzin,avoid,9,Ibiza 6J,2010,2015
+Seat,CCZA,2.0L TSI,Benzin,avoid,7,Alhambra 7N,2010,2015
+Seat,CCZB,2.0L TSI,Benzin,avoid,6,Leon 1P,2009,2012
+Seat,CDAA,1.8L TSI,Benzin,avoid,9,Leon 1P; Toledo 5P; Altea 5P,2007,2015
+Seat,CDHA,1.8L TSI,Benzin,avoid,6,Exeo 3R,2010,2013
+Seat,CDHB,1.8L TSI,Benzin,avoid,6,Exeo 3R,2010,2013
+Seat,CDND,2.0L TFSI,Benzin,avoid,4,Exeo 3R,2010,2013
+Seat,CFFA,2.0L TDI,Diesel,avoid,7,Alhambra 7N,2010,2015
+Seat,CFGB,2.0L TDI,Diesel,avoid,2,Alhambra 7N,2010,2015
+Seat,CRBC,2.0L TDI,Diesel,avoid,8,Leon 5F,2012,2016
+Seat,AEH,1.6L MPI,Benzin,neutral,4,Leon 1M,1999,2005
+Seat,AER,1.0L,Benzin,neutral,4,Arosa 6H,1997,2004
+Seat,AEX,1.4L,Benzin,neutral,3,Arosa 6H,1997,2004
+Seat,AGN,1.8L 20V,Benzin,neutral,6,Leon 1M,1999,2005
+Seat,ALH,1.9L TDI,Diesel,neutral,5,Leon 1M; Alhambra 7M,1996,2005
+Seat,AMF,1.4L TDI,Diesel,neutral,7,Cordoba 6L,2002,2008
+Seat,ARL,1.9L TDI,Diesel,neutral,6,Leon 1M,2000,2005
+Seat,ASY,1.9L SDI,Diesel,neutral,3,Cordoba 6L; Ibiza 6L,2002,2008
+Seat,ASZ,1.9L TDI,Diesel,neutral,4,Ibiza 6L; Cordoba 6L; Leon 1M; Alhambra 7M,2002,2008
+Seat,ATM,2.0L MPI,Benzin,neutral,3,Alhambra 7M,2000,2010
+Seat,AUY,1.9L TDI,Diesel,neutral,4,Alhambra 7M,2006,2010
+Seat,AWC,1.8L T 20V,Benzin,neutral,3,Alhambra 7M,2000,2010
+Seat,AXR,1.9L TDI,Diesel,neutral,6,Ibiza 6L; Cordoba 6L,2002,2008
+Seat,AYL,2.8L VR6,Benzin,neutral,4,Alhambra 7M,2000,2010
+Seat,BBZ,1.4L 16V,Benzin,neutral,3,Ibiza 6L; Cordoba 6L,2002,2008
+Seat,BLR,2.0L FSI,Benzin,neutral,4,Toledo 5P; Altea 5P,2004,2009
+Seat,BMN,2.0L TDI,Diesel,neutral,4,Leon 1P; Toledo 5P; Altea 5P,2004,2012
+Seat,BMS,1.4L TDI,Diesel,neutral,3,Ibiza 6J,2008,2012
+Seat,BTS,1.6L MPI,Benzin,neutral,4,Ibiza 6L; Ibiza 6J,2006,2009
+Seat,BWA,2.0L TFSI,Benzin,neutral,3,Leon 1P,2005,2009
+Seat,BWJ,2.0L TFSI,Benzin,neutral,4,Leon 1P,2006,2012
+Seat,BXE,1.9L TDI,Diesel,neutral,3,Leon 1P; Toledo 5P; Altea 5P; Ibiza 6J,2004,2010
+Seat,BXW,1.4L 16V,Benzin,neutral,4,Ibiza 6L; Ibiza 6J,2006,2015
+Seat,BZG,1.2L 12V,Benzin,neutral,3,Ibiza 6J,2008,2015
+Seat,CAGC,2.0L TDI,Diesel,neutral,2,Exeo 3R,2009,2013
+Seat,CAVA,1.4L TSI,Benzin,neutral,4,Alhambra 7N,2011,2015
+Seat,CBZA,1.2L TSI,Benzin,neutral,6,Ibiza 6J,2012,2015
+Seat,CFFB,2.0L TDI,Diesel,neutral,7,Alhambra 7N,2010,2015
+Seat,CFFE,2.0L TDI,Diesel,neutral,4,Alhambra 7N,2011,2015
+Seat,CFWA,1.2L TDI,Diesel,neutral,3,Ibiza 6J,2010,2015
+Seat,CJSA,1.8L TSI,Benzin,neutral,9,Leon 5F,2013,2018
+Seat,CJXA,2.0L TSI,Benzin,neutral,4,Leon 5F,2013,2016
+Seat,CJXC,2.0L TSI,Benzin,neutral,6,Leon 5F,2017,2020
+Seat,CJXE,2.0L TSI,Benzin,neutral,2,Leon 5F,2013,2016
+Seat,CJXH,2.0L TSI,Benzin,neutral,2,Leon 5F,2015,2020
+Seat,CJZB,1.2L TSI,Benzin,neutral,4,Leon 5F,2012,2016
+Seat,CJZC,1.2L TSI,Benzin,neutral,4,Ibiza 6J,2015,2017
+Seat,CLHA,1.6L TDI,Diesel,neutral,4,Leon 5F,2012,2015
+Seat,CPGA,1.0L CNG,CNG,neutral,4,Mii KF,2012,2019
+Seat,CPWA,1.4L TGI,CNG,neutral,9,Leon 5F,2013,2016
+Seat,CRKB,1.6L TDI,Diesel,neutral,6,Leon 5F,2013,2016
+Seat,CUPA,2.0L TDI,Diesel,neutral,2,Leon 5F,2013,2018
+Seat,CUSA,1.4L TDI,Diesel,neutral,3,Ibiza 6J,2015,2017
+Seat,CUSB,1.4L TDI,Diesel,neutral,7,Ibiza 6J,2015,2017
+Seat,CUWA,2.0L TDI,Diesel,neutral,2,Alhambra 7N,2015,2018
+Seat,CXMA,1.4L TDI,Diesel,neutral,6,Ibiza 6J,2015,2017
+Seat,CZCA,1.4L TSI,Benzin,neutral,6,Leon 5F,2013,2020
+Seat,CZDA,1.4L TSI,Benzin,neutral,9,Tarraco KN; Alhambra 7N,2015,2024
+Seat,CZPB,2.0L TSI,Benzin,neutral,4,Ateca KH,2017,2024
+Seat,DADA,1.5L TSI,Benzin,neutral,11,Ibiza KJ; Arona KJ,2017,2026
+Seat,DBYA,1.0L TGI,CNG,neutral,4,Ibiza KJ,2017,2026
+Seat,DDYA,1.6L TDI,Diesel,neutral,4,Leon 5F,2016,2020
+Seat,DFFA,2.0L TDI,Diesel,neutral,2,Ateca KH,2016,2026
+Seat,DFGA,2.0L TDI,Diesel,neutral,11,Tarraco KN,2018,2026
+Seat,DFHA,2.0L TDI 4Drive,Diesel,neutral,6,Ateca KH; Tarraco KN,2016,2024
+Seat,DFNB,1.0L MPI,Benzin,neutral,2,Ibiza KJ,2017,2026
+Seat,DFYA,1.5L eTSI,Benzin,neutral,7,Leon KL,2020,2026
+Seat,DGEA,1.4L e-Hybrid,Benzin,neutral,6,Leon KL,2020,2026
+Seat,DGEB,1.4L e-Hybrid,Benzin,neutral,6,Tarraco KN,2021,2026
+Seat,DGTE,1.6L TDI,Diesel,neutral,6,Ateca KH,2016,2024
+Seat,DKJA,1.0L TSI,Benzin,neutral,4,Ibiza KJ; Arona KJ; Leon 5F,2017,2026
+Seat,DSUD,2.0L TDI,Diesel,neutral,5,Leon KL; Ateca KH,2020,2026
+Seat,DTUA,2.0L TDI,Diesel,neutral,10,Tarraco KN,2020,2026
+Seat,Mii-ED,Elektro 36.8 kWh,Elektro,neutral,4,Mii KF,2019,2021
+Seat,AHF,1.9L TDI,Diesel,recommended,4,Leon 1M; Alhambra 7M,1997,2005
+Seat,BBM,1.2L,Benzin,recommended,2,Ibiza 6L,2006,2008
+Seat,BBY,1.4L 16V,Benzin,recommended,5,Ibiza 6L; Cordoba 6L; Leon 1M,1999,2008
+Seat,BSE,1.6L MPI,Benzin,recommended,9,Leon 1P; Toledo 5P; Altea 5P,2004,2015
+Seat,BUK,1.9L TDI,Diesel,recommended,2,Ibiza 6L,2004,2008
+Seat,BXJ,1.9L TDI,Diesel,recommended,4,Ibiza 6J,2008,2010
+Seat,CGPC,1.2L,Benzin,recommended,2,Toledo KG,2012,2015
+Seat,CHYA,1.0L MPI,Benzin,recommended,4,Mii KF,2011,2019
+Seat,CHYB,1.0L MPI,Benzin,recommended,3,Mii KF; Ibiza 6J,2011,2019
+Seat,CHZC,1.0L TSI,Benzin,recommended,4,Ibiza 6J; Toledo KG,2015,2019
+Seat,CHZJ,1.0L TSI,Benzin,recommended,8,Ateca KH,2016,2024
+Seat,CHZL,1.0L TSI,Benzin,recommended,3,Ibiza KJ; Arona KJ,2017,2026
+Seat,CNKA,1.6L,LPG,recommended,3,Ibiza 6J,2012,2015
+Seat,CUUA,2.0L TDI,Diesel,recommended,2,Leon 5F,2016,2020
+Seat,CUVC,2.0L TDI,Diesel,recommended,2,Alhambra 7N,2015,2020
+Seat,CWVA,1.6L MPI,Benzin,recommended,3,Ibiza KJ,2017,2026
+Seat,CYVB,1.2L TSI,Benzin,recommended,5,Leon 5F,2014,2016
+Seat,CZEA,1.4L TSI ACT,Benzin,recommended,7,Ibiza 6J; Leon 5F,2014,2017
+Seat,DACA,1.5L TSI,Benzin,recommended,9,Leon 5F,2018,2020
+Seat,DAJA,1.8L TSI,Benzin,recommended,2,Ibiza 6J,2015,2017
+Seat,DCYA,2.0L TDI,Diesel,recommended,2,Leon 5F,2016,2020
+Seat,DEDA,2.0L TSI,Benzin,recommended,3,Alhambra 7N,2015,2018
+Seat,DFNA,1.0L MPI,Benzin,recommended,3,Ibiza KJ,2018,2026
+Seat,DGTC,1.6L TDI,Diesel,recommended,2,Ibiza KJ,2017,2026
+Seat,DGTD,1.6L TDI,Diesel,recommended,3,Ibiza KJ; Arona KJ,2017,2026
+Seat,DKLB,1.0L TSI,Benzin,recommended,3,Leon 5F,2017,2020
+Seat,DKRA,1.0L TSI,Benzin,recommended,4,Ateca KH; Arona KJ,2020,2026
+Seat,DKZA,2.0L TSI,Benzin,recommended,5,Leon 5F; Ateca KH,2018,2026
+Seat,DLAA,1.0L TSI,Benzin,recommended,9,Leon KL,2020,2026
+Seat,DLUB,2.0L TDI,Diesel,recommended,2,Alhambra 7N,2015,2020
+Seat,DNFB,2.0L TSI,Benzin,recommended,2,Leon KL,2021,2026
+Seat,DNN,2.0L TSI,Benzin,recommended,4,Leon KL,2021,2026
+Seat,DNPA,2.0L TSI,Benzin,recommended,5,Leon KL,2021,2026
+Seat,DPBA,1.5L TSI,Benzin,recommended,2,Leon KL,2020,2026
+Seat,DPCA,1.5L TSI,Benzin,recommended,9,Leon KL; Ateca KH; Tarraco KN; Arona KJ,2020,2026
+Seat,DSTB,2.0L TDI,Diesel,recommended,5,Leon KL,2020,2026
+Skoda,BKD,2.0L TDI PD,Diesel,avoid,3,Octavia 1Z,2004,2010
+Skoda,CAVE,1.4L TSI,Benzin,avoid,3,Octavia 1Z-FL; Yeti 5L; Rapid NH; Rapid Spaceback NH,2009,2017
+Skoda,CAYC,1.6L TDI,Diesel,avoid,4,Octavia 1Z-FL; Superb 3T; Fabia 5J-FL; Roomster 5J-FL; Rapid NH,2009,2019
+Skoda,CBBB,2.0L TDI CR,Diesel,avoid,4,Octavia 1Z-FL; Superb 3T; Yeti 5L,2008,2015
+Skoda,CBZA,1.2L TSI,Benzin,avoid,3,Fabia 5J-FL; Roomster 5J-FL; Rapid NH; Rapid Spaceback NH,2010,2019
+Skoda,CBZB,1.2L TSI,Benzin,avoid,4,Fabia 5J-FL; Octavia 1Z-FL; Roomster 5J-FL; Yeti 5L; Rapid NH,2009,2017
+Skoda,CCZA,2.0L TSI,Benzin,avoid,4,Octavia 1Z-FL; Superb 3T,2008,2015
+Skoda,CDAA,1.8L TSI,Benzin,avoid,4,Superb 3T; Octavia 1Z-FL; Yeti 5L,2008,2017
+Skoda,AGU,1.8L Turbo,Benzin,neutral,4,Octavia 1U,2001,2010
+Skoda,ALH,1.9L TDI,Diesel,neutral,3,Octavia 1U; Fabia 6Y,2000,2010
+Skoda,APP310,Elektrisch,Elektro,neutral,3,Enyaq iV; Elroq iV,2021,2025
+Skoda,APP310-DM,Elektrisch AWD,Elektro,neutral,4,Enyaq iV,2021,2025
+Skoda,ASZ,1.9L TDI,Diesel,neutral,3,Fabia 6Y; Octavia 1U; Superb 3U,2002,2010
+Skoda,ATD,1.9L TDI,Diesel,neutral,3,Fabia 6Y; Octavia 1U,2000,2010
+Skoda,AWT,1.8L Turbo,Benzin,neutral,3,Superb 3U,2001,2008
+Skoda,BJB,1.9L TDI PD,Diesel,neutral,3,Octavia 1Z; Fabia 5J; Roomster 5J,2004,2010
+Skoda,BLF,2.0L FSI,Benzin,neutral,3,Octavia 1Z,2004,2008
+Skoda,BNM,1.4L TDI PD,Diesel,neutral,3,Fabia 5J; Roomster 5J,2006,2010
+Skoda,BWB,1.4L TDI PD,Diesel,neutral,3,Fabia 5J; Roomster 5J,2006,2010
+Skoda,CFWA,1.2L TDI,Diesel,neutral,3,Fabia 5J-FL; Roomster 5J-FL,2010,2015
+Skoda,CGGB,1.4L MPI,Benzin,neutral,3,Fabia 5J; Roomster 5J,2006,2015
+Skoda,CGPA,1.2L HTP,Benzin,neutral,3,Fabia 5J; Fabia 5J-FL; Roomster 5J; Rapid NH; Rapid Spaceback NH,2007,2015
+Skoda,CHHB,2.0L TSI,Benzin,neutral,4,Octavia 5E; Octavia 5E-FL; Superb 3V,2013,2020
+Skoda,CJSA,1.8L TSI,Benzin,neutral,3,Octavia 5E; Superb 3V,2013,2020
+Skoda,CJZC,1.2L TSI,Benzin,neutral,3,Fabia NJ; Rapid NH; Rapid Spaceback NH,2014,2019
+Skoda,CRKB,1.6L TDI,Diesel,neutral,4,Octavia 5E; Octavia 5E-FL; Rapid NH; Rapid Spaceback NH; Kamiq NW,2013,2024
+Skoda,DFGA,2.0L TDI,Diesel,neutral,4,Octavia 5E; Octavia 5E-FL; Superb 3V; Kodiaq NS; Karoq NU,2013,2024
+Skoda,DFHA,2.0L TDI,Diesel,neutral,4,Octavia 5E; Superb 3V; Superb 3V-FL; Kodiaq NS,2013,2024
+Skoda,DGEB,1.4L TSI PHEV,Benzin,neutral,3,Superb 3V-FL,2019,2024
+Skoda,DLBA,1.0L MPI,Benzin,neutral,3,Fabia PJ,2021,2025
+Skoda,DLCA,1.0L MPI,Benzin,neutral,3,Fabia PJ,2021,2025
+Skoda,DSUD,2.0L TDI,Diesel,neutral,4,Octavia NX,2020,2025
+Skoda,DXPA,2.0L TDI,Diesel,neutral,4,Superb IV; Kodiaq NS-II,2024,2026
+Skoda,BBY,1.4L 16V,Benzin,recommended,3,Fabia 6Y,1999,2007
+Skoda,BSE,1.6L MPI,Benzin,recommended,3,Octavia 1U; Octavia 1Z; Fabia 5J; Roomster 5J,2000,2015
+Skoda,CCXA,3.6L V6 FSI,Benzin,recommended,3,Superb 3T,2008,2013
+Skoda,CHYA,1.0L MPI,Benzin,recommended,1,Citigo AA; Fabia NJ; Fabia NJ-FL,2011,2021
+Skoda,CHYB,1.0L MPI,Benzin,recommended,1,Citigo AA; Fabia NJ; Fabia NJ-FL,2011,2021
+Skoda,CHZJ,1.0L TSI,Benzin,recommended,4,Octavia 5E-FL; Karoq NU,2017,2025
+Skoda,CJZD,1.2L TSI,Benzin,recommended,3,Fabia NJ; Rapid NH; Rapid Spaceback NH,2014,2019
+Skoda,CPWA,1.4L CNG,CNG,recommended,3,Octavia 5E,2013,2020
+Skoda,CZDA,1.4L TSI,Benzin,recommended,4,Octavia 5E; Octavia 5E-FL; Superb 3V; Yeti 5L-FL; Kodiaq NS,2013,2021
+Skoda,CZEA,1.4L TSI,Benzin,recommended,3,Yeti 5L-FL; Kodiaq NS,2013,2021
+Skoda,CZPA,2.0L TSI,Benzin,recommended,3,Kodiaq NS; Kodiaq NS-FL; Karoq NU,2016,2024
+Skoda,DADA,1.5L TSI,Benzin,recommended,4,Octavia 5E-FL; Superb 3V-FL; Karoq NU; Kodiaq NS-FL; Kamiq NW,2017,2024
+Skoda,DGEA,1.4L TSI PHEV,Benzin,recommended,3,Octavia NX,2020,2025
+Skoda,DHFA,1.5L CNG,CNG,recommended,3,Octavia NX,2020,2025
+Skoda,DKRF,1.0L TSI,Benzin,recommended,4,Fabia NJ-FL; Kamiq NW; Scala NW; Karoq NU-FL,2018,2025
+Skoda,DLAA,1.0L TSI,Benzin,recommended,3,Octavia NX,2020,2025
+Skoda,DLBA-CNG,1.0L TGI,CNG,recommended,3,Kamiq NW; Scala NW,2019,2023
+Skoda,DNPA,2.0L TSI,Benzin,recommended,3,Octavia NX,2020,2025
+Skoda,DNPB,2.0L TSI,Benzin,recommended,3,Octavia NX-FL; Kodiaq NS-II; Superb IV,2024,2026
+Skoda,DNUA,2.0L TSI,Benzin,recommended,3,Superb 3V; Superb 3V-FL,2015,2024
+Skoda,DPC,1.5L TSI MHEV,Benzin,recommended,4,Octavia NX-FL,2024,2026
+Skoda,DPCA,1.5L TSI,Benzin,recommended,3,Octavia NX; Fabia PJ; Superb IV; Karoq NU-FL; Octavia NX-FL,2020,2026
+Skoda,DPCA-MH,1.5L TSI eTEC,Benzin,recommended,4,Octavia NX; Octavia NX-FL; Superb IV,2020,2026
+Skoda,DSTB,2.0L TDI,Diesel,recommended,3,Octavia NX; Superb IV; Karoq NU-FL; Kodiaq NS-FL,2020,2025
+Skoda,DTUA,2.0L TDI,Diesel,recommended,3,Octavia NX,2020,2025
+Skoda,DUSA,1.0L TSI,Benzin,recommended,3,Fabia PJ,2021,2025
+Skoda,Skoda-EM-61,Elektrisch,Elektro,recommended,4,Citigo AA,2019,2020
+Smart,4A91,1.5L,Benzin,avoid,4,ForFour 454,2004,2006
+Smart,M160E6,0.6L Turbo,Benzin,avoid,4,ForTwo 450,1998,2006
+Smart,M160E7,0.7L Turbo,Benzin,avoid,4,ForTwo 450; Roadster 452,1998,2006
+Smart,OM660,0.8L CDI,Diesel,avoid,4,ForTwo 450; ForTwo 451,1999,2014
+Smart,3A91,1.1L,Benzin,neutral,4,ForFour 454,2004,2006
+Smart,3B21,1.0L,Benzin,neutral,9,ForTwo 451,2007,2014
+Smart,H4B,0.9L Turbo,Benzin,neutral,4,ForTwo 453; ForFour 453,2014,2019
+Smart,OM639,1.5L CDI Turbo,Diesel,neutral,0,ForFour 454,2004,2006
+Smart,SEA-200,Elektromotor,Elektro,neutral,0,#1 HX11; #3 HX31,2023,2026
+Smart,SEA-250,Elektromotor,Elektro,neutral,0,#5 HX51,2025,2026
+Smart,SEA-315,Elektromotor Dual,Elektro,neutral,0,#1 HX11; #3 HX31,2023,2026
+Smart,Smart-ED,Elektromotor,Elektro,neutral,0,ForTwo 451; ForTwo 453; ForTwo 453-FL; ForFour 453; ForFour 453-FL,2012,2024
+Smart,4A90,1.3L,Benzin,recommended,4,ForFour 454,2004,2006
+Smart,M281,1.0L,Benzin,recommended,4,ForTwo 453; ForFour 453,2014,2019
+Suzuki,A25A-FXS,2.5L PHEV,Benzin,neutral,3,Across I,2020,2025
+Suzuki,D13A,1.3L DDiS,Diesel,neutral,4,Swift V,2010,2013
+Suzuki,F9Q,1.9L DDiS,Diesel,neutral,4,Grand Vitara JT,2005,2012
+Suzuki,K12C-MH,1.2L DualJet SHVS,Benzin,neutral,3,Swift VI-FL; Ignis II-FL,2020,2025
+Suzuki,K12D-MH,1.2L Mildhybrid,Benzin,neutral,0,Swift VII,2024,2025
+Suzuki,K15B-HEV,1.5L Full Hybrid,Benzin,neutral,3,Vitara LY-FL; S-Cross II,2022,2025
+Suzuki,K9K,1.5L DDiS,Diesel,neutral,4,Jimny JB43,2004,2011
+Suzuki,Z10XE,1.0L,Benzin,neutral,3,Splash I,2008,2012
+Suzuki,Z13DT,1.3L DDiS,Diesel,neutral,4,Swift IV; Splash I,2005,2012
+Suzuki,2ZR-FXE,1.8L Full Hybrid,Benzin,recommended,4,Swace I,2020,2025
+Suzuki,D16AA,1.6L DDiS,Diesel,recommended,4,Vitara LY; S-Cross I,2013,2018
+Suzuki,D20AA,2.0L DDiS,Diesel,recommended,4,SX4 I-FL,2009,2014
+Suzuki,J20A,2.0L,Benzin,recommended,3,Grand Vitara JT,2005,2008
+Suzuki,J24B,2.4L,Benzin,recommended,3,Grand Vitara JT; Grand Vitara JT-FL,2005,2015
+Suzuki,K10B,1.0L,Benzin,recommended,2,Alto VII; Celerio II,2009,2021
+Suzuki,K10C,1.0L Boosterjet,Benzin,recommended,4,Swift VI; Baleno I; S-Cross I-FL; Vitara LY-FL,2016,2020
+Suzuki,K12B,1.2L,Benzin,recommended,3,Swift V; Splash I; Splash I-FL,2008,2017
+Suzuki,K12C,1.2L DualJet,Benzin,recommended,2,Swift VI; Baleno I; Ignis II,2016,2020
+Suzuki,K14B,1.4L,Benzin,recommended,3,Baleno I-FL,2019,2022
+Suzuki,K14C,1.4L Boosterjet,Benzin,recommended,3,Swift VI; Vitara LY; S-Cross I-FL,2015,2020
+Suzuki,K14D,1.4L Boosterjet SHVS,Benzin,recommended,1,Swift VI-FL; Vitara LY-FL; Vitara LY-FL2; S-Cross I-FL; S-Cross II,2020,2025
+Suzuki,K15B,1.5L,Benzin,recommended,2,Jimny JB74,2018,2025
+Suzuki,M13A,1.3L,Benzin,recommended,4,Swift IV; Jimny JB43,2005,2018
+Suzuki,M15A,1.5L,Benzin,recommended,3,Swift IV; SX4 I,2005,2010
+Suzuki,M16A,1.6L,Benzin,recommended,4,Swift IV; Swift V-FL; SX4 I; SX4 I-FL; S-Cross I,2006,2018
+Toyota,1AD-FTV,2.0L D-4D,Diesel,avoid,7,Avensis T250; Avensis T270; RAV4 XA30; Verso AR20; Auris E140,2004,2018
+Toyota,1AZ-FSE,2.0L D-4,Benzin,avoid,7,Avensis T250,2003,2009
+Toyota,1CD-FTV,2.0L D-4D,Diesel,avoid,11,Corolla E120,2001,2007
+Toyota,1ZZ-FE,1.8L,Benzin,avoid,6,Corolla E120; Avensis T250; Corolla Verso R10,2001,2008
+Toyota,2AD-FHV,2.2L D-4D 177PS,Diesel,avoid,6,Avensis T250; Avensis T270; RAV4 XA30,2005,2018
+Toyota,2AD-FTV,2.2L D-4D,Diesel,avoid,7,Avensis T250; Avensis T270; RAV4 XA30; Corolla Verso AR10,2004,2018
+Toyota,1AZ-FE,2.0L,Benzin,neutral,6,Avensis T250; RAV4 XA20; Corolla Verso R10,2000,2008
+Toyota,1GD-FTV,2.8L D-4D,Diesel,neutral,6,Land Cruiser J150,2015,2025
+Toyota,1GR-FE,4.0L V6,Benzin,neutral,6,Land Cruiser J120; Land Cruiser J150,2002,2017
+Toyota,1HD-FTE,4.2L TD I6,Diesel,neutral,7,Land Cruiser J100,1998,2007
+Toyota,1KD-FTV,3.0L D-4D,Diesel,neutral,6,Land Cruiser J120; Land Cruiser J150,2002,2015
+Toyota,1ND-TV,1.4L D-4D,Diesel,neutral,6,Yaris XP90; Yaris XP130; Auris E140; Auris E180; Corolla Verso AR10,2001,2020
+Toyota,1NR-FE,1.3L,Benzin,neutral,7,Yaris XP90; Yaris XP130; Auris E140,2005,2020
+Toyota,1NZ-FXE,1.5L Hybrid,Benzin,neutral,7,Prius XW20; Yaris XP130,2003,2020
+Toyota,1WW,1.6L D-4D,Diesel,neutral,7,Auris E180; Verso AR20; Avensis T270,2012,2019
+Toyota,1ZR-FE,1.6L VVT-i,Benzin,neutral,6,Auris E140; Corolla E140,2006,2012
+Toyota,2AZ-FE,2.4L,Benzin,neutral,6,Avensis T250; RAV4 XA20,2000,2008
+Toyota,2UZ-FE,4.7L V8,Benzin,neutral,7,Land Cruiser J100,1998,2007
+Toyota,2WW,2.0L D-4D,Diesel,neutral,7,Avensis T270; RAV4 XA40,2015,2018
+Toyota,2ZR-FAE,1.8L Valvematic,Benzin,neutral,6,Auris E140; Auris E180; Avensis T270; Corolla Verso AR10,2004,2019
+Toyota,3ZR-FAE,2.0L Valvematic,Benzin,neutral,7,Avensis T270; RAV4 XA30,2006,2018
+Toyota,3ZZ-FE,1.6L,Benzin,neutral,6,Corolla E120,2001,2007
+Toyota,4U-GSE,2.0L Boxer,Benzin,neutral,9,GT86 ZN6,2012,2021
+Toyota,8NR-FTS,1.2L Turbo,Benzin,neutral,6,Auris E180; C-HR AX10; Corolla E210,2015,2023
+Toyota,A25A-FXS,2.5L Hybrid,Benzin,neutral,6,Camry XV70; RAV4 XA50; Highlander XU70; RAV4 XA40,2016,2025
+Toyota,A25A-FXS-PHEV,2.5L Plug-in Hybrid,Benzin,neutral,6,RAV4 XA50,2020,2025
+Toyota,B48B20,2.0L Turbo,Benzin,neutral,6,Supra A90,2019,2025
+Toyota,bZ4X-AWD,Elektro AWD,Elektro,neutral,6,bZ4X XEAM10,2022,2025
+Toyota,bZ4X-FWD,Elektro,Elektro,neutral,6,bZ4X XEAM10,2022,2025
+Toyota,FA24,2.4L Boxer,Benzin,neutral,8,GR86 ZN8,2022,2025
+Toyota,G16E-GTS,1.6L Turbo,Benzin,neutral,8,GR Yaris GXPA16,2020,2025
+Toyota,M15A-FXE,1.5L Hybrid,Benzin,neutral,6,Yaris XP210; Yaris Cross XP210B,2020,2025
+Toyota,M20A-FKS,2.0L Dynamic Force,Benzin,neutral,6,Corolla E210; RAV4 XA50,2019,2025
+Toyota,M20A-FXS,2.0L Hybrid,Benzin,neutral,7,Corolla E210; C-HR AX10; C-HR AX50; RAV4 XA50; Corolla Cross XG10,2019,2025
+Toyota,M20A-FXS-PHEV,2.0L Plug-in Hybrid,Benzin,neutral,6,C-HR AX50,2024,2025
+Toyota,1KR-FE,1.0L,Benzin,recommended,6,Aygo AB10; Aygo AB40; Yaris XP90; Yaris XP130,2005,2022
+Toyota,1KR-FE2,1.0L,Benzin,recommended,6,Aygo X AB70,2022,2025
+Toyota,1NZ-FE,1.5L,Benzin,recommended,6,Yaris XP10; Yaris XP90,1999,2011
+Toyota,1ZR-FAE,1.6L Valvematic,Benzin,recommended,6,Auris E140; Auris E180,2007,2019
+Toyota,2AR-FXE,2.5L Hybrid,Benzin,recommended,6,RAV4 XA40,2015,2018
+Toyota,2NZ-FE,1.3L,Benzin,recommended,6,Yaris XP10,1999,2005
+Toyota,2SZ-FE,1.3L VVT-i,Benzin,recommended,6,Yaris XP90,2005,2011
+Toyota,2ZR-FXE,1.8L Hybrid,Benzin,recommended,7,Prius XW30; Prius XW50; Auris E180; Corolla E210; C-HR AX10,2009,2025
+Toyota,4ZZ-FE,1.4L VVT-i,Benzin,recommended,6,Corolla E120,2001,2007
+Toyota,B58B30,3.0L Turbo,Benzin,recommended,7,Supra A90,2019,2025
+Toyota,M15A-FKS,1.5L Dynamic Force,Benzin,recommended,6,Yaris XP210,2020,2025
+Volvo,D4204T14,2.0L D4 Drive-E,Diesel,avoid,7,S60 II; V60 I; V70 III; XC70 II; S80 II,2014,2022
+Volvo,D5244T4,2.4L D5,Diesel,avoid,5,S60 I; V70 II; XC70 I; XC90 I; S80 I,2005,2014
+Volvo,B3154T,1.5L,Benzin,neutral,4,XC40 I; V40 II,2017,2024
+Volvo,B4164S2,1.6L,Benzin,neutral,5,S40 I; V40 I,1999,2004
+Volvo,B4164T,1.6L GTDi Turbo,Benzin,neutral,4,S60 II; V60 I; V40 II; V70 III; S80 II,2010,2019
+Volvo,B4184S11,1.8L,Benzin,neutral,4,S40 II; V50 I,2004,2012
+Volvo,B4184S2,1.8L,Benzin,neutral,5,S40 I; V40 I,1999,2004
+Volvo,B4194T,1.9L Turbo,Benzin,neutral,4,S40 I; V40 I,1997,2000
+Volvo,B4204S2,2.0L,Benzin,neutral,6,S40 I; V40 I,1999,2004
+Volvo,B4204S4,2.0L,Benzin,neutral,4,S40 II; V50 I; C30 I; V70 III,2004,2016
+Volvo,B4204T19,2.0L T4 Drive-E,Benzin,neutral,6,S60 II; V60 I; V70 III; XC70 II; S80 II,2013,2024
+Volvo,B4204T23,2.0L T5 Drive-E,Benzin,neutral,6,S60 II; V60 I; V70 III; S80 II; XC90 II,2013,2024
+Volvo,B4204T27,2.0L T6 Drive-E,Benzin,neutral,4,S60 II; V60 I; XC60 I; XC90 II; S60 III,2013,2024
+Volvo,B4204T3,1.9L Turbo,Benzin,neutral,6,S40 I; V40 I,2000,2004
+Volvo,B4204T34-B3,2.0L B3 MHEV,Benzin,neutral,4,XC40 I; XC60 II; XC90 II; S60 III; V60 II,2020,2024
+Volvo,B4204T34-B4,2.0L B4 MHEV,Benzin,neutral,4,XC40 I; XC60 II; XC90 II; S60 III; V60 II,2020,2024
+Volvo,B4204T34-B5,2.0L B5 MHEV,Benzin,neutral,4,XC40 I; XC60 II; XC90 II; S60 III; V60 II,2020,2024
+Volvo,B4204T34-B6,2.0L B6 MHEV,Benzin,neutral,4,XC60 II; XC90 II; S60 III; V60 II; S90 II,2020,2024
+Volvo,B4204T35,2.0L T8 PHEV,Benzin,neutral,4,XC90 II; XC60 II; S60 III; V60 II; S90 II,2015,2024
+Volvo,B4204T48-PHEV,2.0L PHEV,Benzin,neutral,4,XC40 I,2020,2024
+Volvo,B5204T5,2.0L Turbo,Benzin,neutral,4,S60 I; V70 II; C70 I; S80 I,1999,2009
+Volvo,B5234T3,2.3L Turbo,Benzin,neutral,4,S80 I,1998,2006
+Volvo,B5244S,2.4L,Benzin,neutral,6,S60 I; V70 II; XC70 I; S80 I,1998,2009
+Volvo,B5244S2,2.4L,Benzin,neutral,4,S60 I; V70 II; XC70 I; XC90 I,2000,2014
+Volvo,B5244T,2.4L Turbo,Benzin,neutral,4,S60 I; V70 II; XC70 I; S80 I,1998,2009
+Volvo,B5244T3,2.4L Turbo,Benzin,neutral,6,S60 I; V70 II; XC70 I; S80 I,1998,2009
+Volvo,B5244T5,2.4L Turbo,Benzin,neutral,6,S60 I; V70 II,2005,2009
+Volvo,B5254T12,2.5L Turbo,Benzin,neutral,4,V70 III; S60 II; V60 I,2010,2018
+Volvo,B5254T2,2.5L Turbo,Benzin,neutral,4,S60 I; V70 II; XC70 I; XC90 I; S80 I,1998,2014
+Volvo,B5254T3,2.5L Turbo,Benzin,neutral,4,S40 II; V50 I; C30 I,2004,2008
+Volvo,B5254T4,2.5L Turbo R,Benzin,neutral,4,S60 I; V70 II,2003,2009
+Volvo,B5254T7,2.5L Turbo,Benzin,neutral,6,V70 III; XC70 II; S80 II; S60 II; V60 I,2006,2016
+Volvo,B5254T7-C70,2.5L T5,Benzin,neutral,6,C70 II,2006,2013
+Volvo,B6284T,2.8L T6,Benzin,neutral,4,S80 I,1998,2002
+Volvo,B6294T,2.9L T6,Benzin,neutral,6,S80 I; XC90 I,2002,2006
+Volvo,B6304T2,3.0L T6,Benzin,neutral,6,V70 III; XC70 II; S80 II; XC60 I,2006,2010
+Volvo,B6304T4,3.0L T6,Benzin,neutral,6,V70 III; XC70 II; S80 II; XC60 I; S60 II,2010,2018
+Volvo,B6324S,3.2L,Benzin,neutral,7,V70 III; XC70 II; S80 II; XC60 I; XC90 I,2006,2014
+Volvo,B8444S,4.4L V8,Benzin,neutral,4,XC90 I; S80 II,2005,2016
+Volvo,D4162T,1.6L DRIVe,Diesel,neutral,4,S40 II; V50 I; C30 I; S60 II; V60 I,2010,2019
+Volvo,D4192T3,1.9L TDI,Diesel,neutral,6,S40 I; V40 I,2001,2004
+Volvo,D4204T23,2.0L D5 Drive-E,Diesel,neutral,6,XC90 II; S90 II; V90 II; XC60 II,2015,2022
+Volvo,D4204T5,2.0L D2 Drive-E,Diesel,neutral,4,V40 II; S60 II; V60 I; XC40 I,2012,2024
+Volvo,D4204T9,2.0L D3 Drive-E,Diesel,neutral,7,S60 II; V60 I; V70 III; S80 II; XC60 I,2014,2022
+Volvo,D5204T5,2.0L D3/D4,Diesel,neutral,4,S40 II; V50 I; C30 I; C70 II,2007,2013
+Volvo,D5204T6,2.0L D4,Diesel,neutral,4,S40 II; V50 I; C30 I; C70 II,2007,2013
+Volvo,D5244T,2.4L D5,Diesel,neutral,4,S60 I; V70 II; XC70 I; XC90 I; S80 I,2001,2009
+Volvo,D5244T10,2.4L D5,Diesel,neutral,4,V70 III; XC70 II; S80 II; S60 II; V60 I,2009,2018
+Volvo,D5244T15,2.4L D5,Diesel,neutral,4,V70 III; XC70 II; S80 II; S60 II; V60 I,2010,2018
+Volvo,Volvo-ERAD-EX30-SM,Elektromotor,Elektro,neutral,4,EX30 I,2023,2026
+Volvo,Volvo-ERAD-EX30-TM,Elektromotor,Elektro,neutral,4,EX30 I,2023,2026
+Volvo,Volvo-ERAD-EX90-SM,Elektromotor,Elektro,neutral,4,EX90 I,2023,2026
+Volvo,Volvo-ERAD-XC40-SM,Elektromotor,Elektro,neutral,6,XC40 I,2020,2024
+Volvo,Volvo-ERAD-XC40-TM,Elektromotor,Elektro,neutral,6,XC40 I,2020,2024
+Volvo,B4164S3,1.6L,Benzin,recommended,4,S40 II; V50 I; C30 I,2004,2013
+Volvo,B6324S5,3.2L,Benzin,recommended,4,V70 III; XC70 II; S80 II; XC60 I; XC90 I,2006,2017
+VW,AKN,2.5L V6 TDI,Diesel,avoid,3,Passat B5-GP,2000,2003
+VW,ANY,1.2L TDI,Diesel,avoid,5,Lupo I,1999,2005
+VW,AQP,2.8L VR6,Benzin,avoid,5,Golf IV; Bora I,1999,2003
+VW,ASZ,1.9L TDI PD,Diesel,avoid,7,Golf IV; Bora I; Sharan I,2001,2006
+VW,AUQ,1.8L Turbo,Benzin,avoid,7,Golf IV; Bora I,2001,2005
+VW,AVB,1.9L TDI PD,Diesel,avoid,5,Passat B5-GP,2000,2005
+VW,AVF,1.9L TDI PD,Diesel,avoid,5,Passat B5-GP,2000,2005
+VW,AWM,1.8L 20V Turbo,Benzin,avoid,5,Passat B5-GP,2000,2005
+VW,AWT,1.8L 20V Turbo,Benzin,avoid,5,Passat B5-GP,2000,2005
+VW,AWU,1.8L Turbo,Benzin,avoid,5,Beetle I-FL,2005,2010
+VW,AWY,1.2L 6V,Benzin,avoid,5,Polo IV (9N),2001,2005
+VW,AXD,2.5L TDI R5,Diesel,avoid,5,T5 I,2003,2009
+VW,AXE,2.5L TDI R5,Diesel,avoid,5,T5 I,2003,2009
+VW,AYH,5.0L V10 TDI,Diesel,avoid,5,Touareg I,2002,2010
+VW,AZD,1.6L 16V,Benzin,avoid,5,Golf IV; Bora I,1999,2006
+VW,AZQ,1.2L 12V,Benzin,avoid,5,Polo IV (9N),2002,2005
+VW,BAC,2.5L R5 TDI,Diesel,avoid,5,Touareg I,2002,2006
+VW,BDG,2.5L V6 TDI,Diesel,avoid,5,Passat B5-GP,2003,2005
+VW,BDN,4.0L W8 32V,Benzin,avoid,5,Passat B5-GP,2001,2004
+VW,BGW,2.0L TDI PD,Diesel,avoid,5,Passat B5-GP,2003,2005
+VW,BJX,1.8L Turbo,Benzin,avoid,5,Polo IV (9N3),2005,2009
+VW,BKD,2.0L TDI PD,Diesel,avoid,9,Golf V; Golf Plus V; Touran I,2003,2013
+VW,BKS,3.0L V6 TDI,Diesel,avoid,5,Touareg I; Touareg I-FL,2004,2010
+VW,BLE,5.0L V10 TDI,Diesel,avoid,5,Touareg I-FL,2006,2010
+VW,BLG,1.4L TSI Twincharger,Benzin,avoid,5,Golf V; Touran I,2005,2010
+VW,BMK,3.0L V6 TDI,Diesel,avoid,5,Phaeton I,2004,2010
+VW,BMN,2.0L TDI PD,Diesel,avoid,5,Golf V; Touran I; Tiguan I,2005,2010
+VW,BMY,1.4L TSI Twincharger,Benzin,avoid,5,Golf V,2006,2008
+VW,BPD,2.5L R5 TDI,Diesel,avoid,5,Touareg I-FL,2006,2010
+VW,BPY,2.0L TFSI,Benzin,avoid,6,Passat B6; Passat CC I,2005,2012
+VW,BRT,2.0L TDI PD,Diesel,avoid,5,Sharan I,2005,2010
+VW,BSW,1.9L TDI PD,Diesel,avoid,5,Beetle I-FL,2005,2006
+VW,CAAB,2.0L BiTDI,Diesel,avoid,5,T5 II,2009,2015
+VW,CATA,3.0L V6 TDI,Diesel,avoid,5,Touareg II,2010,2012
+VW,CAVA,1.4L TSI,Benzin,avoid,5,Tiguan I; Tiguan I-FL; Sharan II,2008,2016
+VW,CAVD,1.4L TSI Twincharger,Benzin,avoid,6,Golf VI; Touran I; Scirocco III; Eos I; Eos I-FL,2008,2015
+VW,CAVE,1.4L TSI,Benzin,avoid,9,Polo V (6R),2010,2014
+VW,CAWA,2.0L TFSI,Benzin,avoid,5,Tiguan I,2008,2011
+VW,CAWB,2.0L TSI,Benzin,avoid,5,Scirocco III,2008,2014
+VW,CAXA,1.4L TSI,Benzin,avoid,5,Golf V; Golf VI; Touran I; Passat B7; Scirocco III,2007,2015
+VW,CAYB,1.6L TDI,Diesel,avoid,7,Polo V (6R); Touran I,2009,2014
+VW,CAYC,1.6L TDI,Diesel,avoid,12,Golf VI; Touran I; Passat B7,2009,2015
+VW,CBBB,2.0L TDI CR,Diesel,avoid,5,Golf VI; Scirocco III; Tiguan I-FL,2008,2016
+VW,CBDB,2.0L TDI CR,Diesel,avoid,5,Scirocco III,2008,2014
+VW,CBWA,5.0L V10 TDI R50,Diesel,avoid,5,Touareg I-FL,2007,2010
+VW,CBZB,1.2L TSI,Benzin,avoid,9,Golf VI; Touran I; Beetle II,2009,2016
+VW,CBZC,1.2L TSI,Benzin,avoid,5,Polo V (6R),2010,2014
+VW,CCTA,2.0L TSI,Benzin,avoid,8,Passat B7; Passat CC I,2008,2014
+VW,CCZA,2.0L TFSI,Benzin,avoid,5,Beetle II; Sharan II,2010,2015
+VW,CCZB,2.0L TFSI,Benzin,avoid,6,Golf VI; Scirocco III; Passat B7; Eos I; Eos I-FL,2008,2017
+VW,CDAA,1.8L TFSI,Benzin,avoid,9,Passat B7,2010,2014
+VW,CFCA,2.0L BiTDI,Diesel,avoid,5,T5 II,2011,2015
+VW,CFPA,2.0L TSI,Benzin,avoid,5,Amarok I,2010,2016
+VW,CGGA,1.4L 16V,Benzin,avoid,5,Golf VI,2008,2012
+VW,CGPA,1.2L MPI,Benzin,avoid,5,Polo V (6R); Fox I,2008,2014
+VW,CJZA,1.2L TSI,Benzin,avoid,5,Golf VII,2012,2017
+VW,CRBC,2.0L TDI,Diesel,avoid,8,Golf VII; Golf VII-FL,2012,2020
+VW,CRCA,3.0L TDI V6,Diesel,avoid,5,Touareg II,2010,2018
+VW,CUPA,2.0L TDI BiTurbo,Diesel,avoid,5,Tiguan II; Tiguan II-FL; Passat B8,2014,2024
+VW,CXEB,2.0L BiTDI,Diesel,avoid,5,T6 I,2015,2018
+VW,AAA,2.8L VR6,Benzin,neutral,5,Sharan I,1995,2000
+VW,ADY,2.0L 8V,Benzin,neutral,5,Sharan I,1995,2000
+VW,AEH,1.6L MPI,Benzin,neutral,7,Golf IV; Bora I,1997,2006
+VW,AFN,1.9L TDI,Diesel,neutral,5,Sharan I,1996,2000
+VW,AGL,2.5L TDI,Diesel,neutral,5,LT II,1996,2006
+VW,AGN,1.8L 20V,Benzin,neutral,6,Golf IV; Bora I,1997,2006
+VW,AGP,1.9L SDI,Diesel,neutral,5,Golf IV,1997,2006
+VW,AGR,1.9L TDI,Diesel,neutral,8,Golf IV; Bora I,1997,2006
+VW,AGU,1.8L Turbo,Benzin,neutral,5,Golf IV; Bora I; Beetle I,1997,2005
+VW,AGX,2.3L,Benzin,neutral,5,LT II,1996,2006
+VW,AHD,2.8L TDI,Diesel,neutral,5,LT II,2002,2006
+VW,AHF,1.9L TDI,Diesel,neutral,5,Golf IV; Bora I,1997,2001
+VW,AHU,1.9L TDI,Diesel,neutral,5,Sharan I,1995,2000
+VW,AJH,1.8L 20V Turbo,Benzin,neutral,5,Sharan I,1997,2004
+VW,AJM,1.9L TDI PD,Diesel,neutral,5,Golf IV; Bora I,1998,2006
+VW,AJS,5.0L V10 TDI,Diesel,neutral,5,Phaeton I,2003,2010
+VW,ALH,1.9L TDI,Diesel,neutral,5,Beetle I,1998,2004
+VW,ALZ,1.6L 8V,Benzin,neutral,5,Passat B5-GP,2000,2005
+VW,AMF,1.4L TDI,Diesel,neutral,7,Polo IV (9N); Polo IV (9N3),2001,2009
+VW,AMX,2.8L V6 30V,Benzin,neutral,5,Passat B5-GP,2000,2005
+VW,APK,2.0L MPI,Benzin,neutral,7,Golf IV; Bora I; Beetle I; Beetle I-FL,1998,2010
+VW,APP310,Elektrisch,Elektro,neutral,8,ID.3 I; ID.4 I; ID.5 I; ID.7 I; ID.Buzz I,2020,2026
+VW,APP550,Elektrisch GTX,Elektro,neutral,5,ID.3 I-FL; ID.Buzz I,2023,2026
+VW,APP550-DM,0.0L Elektro Dual,Elektro,neutral,5,ID.4 I; ID.5 I; ID.Buzz I,2021,2026
+VW,AQN,2.3L VR5,Benzin,neutral,5,Beetle I,1998,2005
+VW,ARL,1.9L TDI PD,Diesel,neutral,6,Golf IV,2001,2003
+VW,ASY,1.9L SDI,Diesel,neutral,5,Polo IV (9N),2001,2005
+VW,ATD,1.9L TDI PD,Diesel,neutral,7,Golf IV; Bora I; Beetle I,2000,2006
+VW,AUD,1.4L,Benzin,neutral,5,Lupo I,1999,2005
+VW,AUY,1.9L TDI PD,Diesel,neutral,5,Sharan I,2000,2004
+VW,AVY,1.6L GTI,Benzin,neutral,5,Lupo I,2001,2005
+VW,AXB,1.9L TDI,Diesel,neutral,5,T5 I,2003,2009
+VW,AXC,1.9L TDI,Diesel,neutral,5,T5 I,2003,2009
+VW,AXJ,3.2L V6,Benzin,neutral,5,Beetle I,2000,2001
+VW,AXQ,4.2L V8,Benzin,neutral,5,Touareg I,2002,2006
+VW,AXU,1.4L FSI,Benzin,neutral,5,Polo IV (9N),2002,2005
+VW,AXZ,3.2L V6 FSI,Benzin,neutral,5,Passat B6,2006,2010
+VW,AYD,1.6L MPI,Benzin,neutral,5,Beetle I; Beetle I-FL,2000,2009
+VW,AYL,2.8L V6 24V,Benzin,neutral,5,Sharan I,2000,2004
+VW,AYT,3.2L V6,Benzin,neutral,5,Phaeton I,2002,2008
+VW,AZM,2.0L 8V,Benzin,neutral,5,Passat B5-GP,2000,2005
+VW,AZX,2.3L V5 20V,Benzin,neutral,4,Passat B5-GP,2000,2003
+VW,AZZ,3.2L V6,Benzin,neutral,5,Touareg I,2002,2004
+VW,BAD,1.6L FSI,Benzin,neutral,5,Golf IV; Bora I,2001,2005
+VW,BAG,1.6L FSI,Benzin,neutral,5,Golf V; Touran I,2003,2008
+VW,BAN,6.0L W12,Benzin,neutral,5,Phaeton I,2002,2005
+VW,BAR,4.2L V8 FSI,Benzin,neutral,5,Touareg I-FL,2006,2010
+VW,BBZ,1.4L 16V,Benzin,neutral,5,Polo IV (9N),2001,2005
+VW,BCA,1.4L 16V,Benzin,neutral,5,Golf V; Beetle I; Beetle I-FL,2001,2010
+VW,BDH,2.5L V6 TDI,Diesel,neutral,5,Passat B5-GP,2002,2005
+VW,BGH,4.2L V8,Benzin,neutral,5,Phaeton I; Phaeton I-FL,2003,2016
+VW,BHK,3.6L V6 FSI,Benzin,neutral,5,Touareg I; Touareg I-FL,2005,2010
+VW,BJB,1.9L TDI PD,Diesel,neutral,5,Golf V; Touran I,2003,2010
+VW,BJN,6.0L W12,Benzin,neutral,5,Touareg I,2004,2010
+VW,BJS,3.2L VR6 24V,Benzin,neutral,5,Golf IV,2002,2003
+VW,BKG,1.4L FSI,Benzin,neutral,5,Golf V,2003,2006
+VW,BKK,3.2L V6,Benzin,neutral,5,T5 I,2003,2009
+VW,BKP,2.0L TDI PD,Diesel,neutral,5,Passat B6,2005,2010
+VW,BLF,1.6L FSI,Benzin,neutral,5,Eos I,2006,2007
+VW,BLR,2.0L FSI,Benzin,neutral,5,Golf V,2004,2008
+VW,BMD,1.2L 6V,Benzin,neutral,5,Fox I; Polo IV,2001,2008
+VW,BMM,2.0L TDI,Diesel,neutral,5,Golf Plus V; Eos I,2005,2009
+VW,BMV,3.2L V6 24V,Benzin,neutral,4,Touareg I,2004,2006
+VW,BNV,1.4L TDI,Diesel,neutral,5,Polo IV (9N3),2005,2009
+VW,BNZ,2.5L TDI,Diesel,neutral,5,T5 I,2006,2009
+VW,BPC,2.5L TDI,Diesel,neutral,5,T5 I,2006,2009
+VW,BRN,6.0L W12,Benzin,neutral,5,Phaeton I; Phaeton I-FL,2005,2015
+VW,BRR,1.9L TDI,Diesel,neutral,5,T5 I,2006,2009
+VW,BRS,1.9L TDI,Diesel,neutral,5,T5 I,2006,2009
+VW,BTB,1.9L TDI PD,Diesel,neutral,5,Sharan I,2004,2007
+VW,BTS,1.6L 16V,Benzin,neutral,5,Polo IV (9N3),2005,2009
+VW,BUB,3.2L VR6,Benzin,neutral,8,Golf V; Eos I,2005,2009
+VW,BVY,2.0L FSI,Benzin,neutral,5,Passat B6; Eos I,2005,2010
+VW,BWA,2.0L TFSI,Benzin,neutral,7,Golf V; Eos I,2004,2008
+VW,BWS,3.6L V6 FSI,Benzin,neutral,5,Passat B6,2008,2010
+VW,CAAA,2.0L TDI,Diesel,neutral,5,T5 II,2009,2015
+VW,CAAC,2.0L TDI,Diesel,neutral,5,T5 II,2009,2015
+VW,CAAD,2.0L TDI,Diesel,neutral,5,T5 II,2011,2015
+VW,CAAE,2.0L TDI,Diesel,neutral,5,T5 II,2011,2015
+VW,CASA,3.0L TDI V6,Diesel,neutral,5,Touareg II; Touareg I; Touareg I-FL,2006,2018
+VW,CBAB,2.0L TDI CR,Diesel,neutral,11,Tiguan I; Golf VI; Tiguan I-FL,2007,2016
+VW,CBZA,1.2L TSI,Benzin,neutral,6,Golf VI,2010,2012
+VW,CDLA,2.0L TSI,Benzin,neutral,5,Scirocco III,2009,2014
+VW,CDLF,2.0L TFSI,Benzin,neutral,5,Golf VI,2009,2015
+VW,CDLK,2.0L TSI,Benzin,neutral,5,Scirocco III-FL,2014,2017
+VW,CDVA,3.6L V6 FSI,Benzin,neutral,5,Eos I; Eos I-FL,2009,2015
+VW,CEXA,3.0L V6 TDI,Diesel,neutral,5,Phaeton I-FL,2010,2013
+VW,CEXB,3.0L V6 TDI,Diesel,neutral,5,Phaeton I-FL,2013,2016
+VW,CFFB,2.0L TDI CR,Diesel,neutral,7,Golf VI; Passat CC I; Touran I; Passat B7; Sharan II,2008,2015
+VW,CFFE,2.0L TDI,Diesel,neutral,5,Sharan II,2011,2015
+VW,CFGB,2.0L TDI,Diesel,neutral,5,Sharan II; Tiguan I-FL,2010,2016
+VW,CFGC,2.0L TDI,Diesel,neutral,5,Sharan II; Passat B7; Scirocco III,2010,2022
+VW,CFRA,6.0L W12,Benzin,neutral,5,Touareg I-FL,2006,2010
+VW,CFWA,1.2L TDI,Diesel,neutral,5,Polo V (6R),2010,2014
+VW,CGEA,3.0L V6 TSI Hybrid,Benzin,neutral,6,Touareg II,2010,2018
+VW,CGNA,4.2L V8 FSI,Benzin,neutral,5,Touareg II,2010,2014
+VW,CGRA,3.6L V6 FSI,Benzin,neutral,5,Touareg II,2010,2014
+VW,CHHB,2.0L TFSI,Benzin,neutral,8,Golf VII; Golf VII-FL; Scirocco III-FL,2013,2020
+VW,CHYB,1.0L MPI,Benzin,neutral,5,up! I,2011,2016
+VW,CHZA,1.0L TSI,Benzin,neutral,4,up! I-FL,2016,2018
+VW,CHZD,1.0L TSI,Benzin,neutral,5,Golf VII,2015,2017
+VW,CJKA,2.0L TSI,Benzin,neutral,5,T5 II; T6 I,2011,2019
+VW,CJKB,2.0L TSI,Benzin,neutral,5,T5 II; T6 I,2011,2019
+VW,CJMA,3.0L V6 TDI,Diesel,neutral,5,Touareg II,2014,2018
+VW,CJSA,1.8L TSI,Benzin,neutral,9,Golf VII; Touran II; Passat B8,2014,2018
+VW,CJXA,2.0L TSI,Benzin,neutral,5,Passat B8; Arteon I,2015,2020
+VW,CJXC,2.0L TFSI,Benzin,neutral,10,Golf VII; Golf VII-FL,2013,2020
+VW,CJXG,2.0L TFSI,Benzin,neutral,6,Golf VII,2016,2017
+VW,CJZB,1.2L TSI,Benzin,neutral,5,Golf VII,2012,2017
+VW,CKDA,4.2L V8 TDI,Diesel,neutral,5,Touareg II,2010,2014
+VW,CMVA,3.6L V6 FSI,Benzin,neutral,5,Phaeton I-FL,2010,2016
+VW,CNEA,2.0L BiTDI,Diesel,neutral,5,Amarok I,2011,2016
+VW,CNFB,2.0L TDI,Diesel,neutral,5,Amarok I,2010,2016
+VW,CNKA,1.6L LPG,LPG,neutral,5,Polo V (6R),2011,2014
+VW,CNRB,3.0L V6 TDI,Diesel,neutral,5,Touareg II,2010,2014
+VW,CPGA,1.0L CNG,CNG,neutral,5,up! I; up! I-FL,2012,2019
+VW,CPWA,1.4L TGI,CNG,neutral,9,Golf VII; Touran II,2013,2021
+VW,CRKB,1.6L TDI,Diesel,neutral,6,Golf VII; Golf VII-FL; Touran II; Passat B8,2013,2020
+VW,CTKA,1.4L TSI,Benzin,neutral,5,Beetle II,2011,2019
+VW,CUAA,2.0L BiTDI,Diesel,neutral,5,Arteon I,2017,2020
+VW,CUKA,1.4L TSI PHEV,Benzin,neutral,6,Passat B8; Passat B8-FL,2015,2024
+VW,CUKB,1.4L TSI PHEV,Benzin,neutral,5,Golf VII,2014,2020
+VW,CUKC,1.4L TSI eHybrid,Benzin,neutral,5,Passat B8,2015,2019
+VW,CULA,2.0L TSI,Benzin,neutral,5,Scirocco III-FL,2014,2017
+VW,CULC,2.0L TSI,Benzin,neutral,5,Scirocco III-FL; Beetle II,2014,2019
+VW,CUNA,2.0L TDI,Diesel,neutral,5,Golf VII,2013,2020
+VW,CUSB,1.4L TDI,Diesel,neutral,5,Polo V (6C),2014,2017
+VW,CUUB,2.0L TDI,Diesel,neutral,5,Scirocco III-FL; Beetle II,2014,2019
+VW,CUVA,2.0L TDI,Diesel,neutral,5,Beetle II; Sharan II-FL,2014,2019
+VW,CUVC,2.0L TDI,Diesel,neutral,5,Sharan II-FL,2015,2022
+VW,CUWA,2.0L TDI,Diesel,neutral,5,Scirocco III-FL; Sharan II-FL,2014,2022
+VW,CVVA,3.0L V6 TDI,Diesel,neutral,5,Touareg II,2014,2018
+VW,CXEC,2.0L BiTDI,Diesel,neutral,5,T6 I; T6.1 I,2019,2021
+VW,CXFA,2.0L TDI,Diesel,neutral,5,T6 I; T6.1 I,2015,2020
+VW,CXGA,2.0L TDI,Diesel,neutral,5,T6 I,2015,2019
+VW,CXGB,2.0L TDI,Diesel,neutral,5,T6 I,2015,2019
+VW,CXGC,2.0L TDI,Diesel,neutral,4,T6 I,2016,2019
+VW,CXGD,2.0L TDI,Diesel,neutral,4,T6.1 I,2019,2020
+VW,CXGE,2.0L TDI,Diesel,neutral,5,T6.1 I,2019,2020
+VW,CXHA,2.0L TDI,Diesel,neutral,5,,0,0
+VW,CXSB,1.4L TSI,Benzin,neutral,5,Scirocco III-FL,2014,2017
+VW,CYRC,2.0L TSI,Benzin,neutral,5,Touareg III,2018,2023
+VW,CYZA,1.4L TDI,Diesel,neutral,5,Polo V (6C),2014,2017
+VW,CZCA,1.4L TSI,Benzin,neutral,6,Golf VII,2014,2017
+VW,CZDA,1.4L TSI ACT,Benzin,neutral,9,Golf VII; Golf VII-FL; Touran II; Passat B8; Beetle II,2012,2022
+VW,CZPA,2.0L TSI,Benzin,neutral,5,Tiguan II; Tiguan II-FL,2016,2024
+VW,CZPB,2.0L TSI,Benzin,neutral,7,Passat B8; Passat B8-FL; Arteon I,2014,2024
+VW,DADA,1.5L TSI,Benzin,neutral,11,Polo VI (AW); Touran II; Passat B8-FL; Multivan T7; Arteon I,2017,2026
+VW,DAJA,1.8L TSI,Benzin,neutral,5,Polo V (6C),2014,2017
+VW,DBGA,2.0L TDI,Diesel,neutral,5,Arteon I,2017,2020
+VW,DCBE,3.0L TDI V6,Diesel,neutral,9,Touareg III,2018,2024
+VW,DCXA,1.6L TDI,Diesel,neutral,5,Passat B8; Touran II,2014,2019
+VW,DDMA,2.0L TDI,Diesel,neutral,5,Arteon I,2017,2020
+VW,DDXA,3.0L V6 TDI,Diesel,neutral,5,Amarok I-FL,2017,2020
+VW,DDXB,3.0L V6 TDI,Diesel,neutral,5,Amarok I-FL,2016,2020
+VW,DDXC,3.0L V6 TDI,Diesel,neutral,5,Amarok I-FL,2016,2020
+VW,DDXE,3.0L V6 TDI,Diesel,neutral,5,Amarok I-FL,2018,2020
+VW,DEDA,2.0L TSI,Benzin,neutral,5,Sharan II-FL,2015,2022
+VW,DENA,3.0L V6 TDI,Diesel,neutral,5,Touareg III,2018,2023
+VW,DEND,3.0L V6 TDI,Diesel,neutral,5,Touareg III,2018,2023
+VW,DFGA,2.0L TDI,Diesel,neutral,11,Tiguan II; Tiguan II-FL; T-Roc I; T-Roc I-FL; Touran II,2014,2026
+VW,DFHA,2.0L TDI,Diesel,neutral,6,T-Roc I; Touran II; Passat B8; Passat B8-FL; Arteon I,2014,2026
+VW,DFSC,2.0L TDI,Diesel,neutral,5,Caddy V,2020,2026
+VW,DFSD,2.0L TDI,Diesel,neutral,5,T6.1 I,2019,2024
+VW,DFSE,2.0L BiTDI,Diesel,neutral,5,T6.1 I,2019,2024
+VW,DFYA,1.5L eTSI,Benzin,neutral,7,Golf VIII,2020,2024
+VW,DGEA,1.4L TSI PHEV,Benzin,neutral,6,Golf VIII; Passat B8-FL; Multivan T7,2019,2026
+VW,DGEB,1.4L TSI eHybrid,Benzin,neutral,5,Arteon I-FL,2020,2026
+VW,DGTA,1.4L TSI PHEV,Benzin,neutral,5,Multivan T7,2021,2024
+VW,DGTC,1.6L TDI,Diesel,neutral,5,Polo VI (AW),2017,2019
+VW,DGTD,1.6L TDI,Diesel,neutral,5,T-Cross I,2019,2020
+VW,DJHC,2.0L TSI,Benzin,neutral,5,Arteon I,2017,2020
+VW,DKFA,2.0L TSI,Benzin,neutral,10,Polo VI (AW),2018,2021
+VW,DKLA,1.0L MPI,Benzin,neutral,5,Polo VI (AW),2017,2024
+VW,DKRA,1.0L TSI,Benzin,neutral,5,T-Cross I; Taigo I; Touran II; Multivan T7,2019,2026
+VW,DKRF,1.0L TSI,Benzin,neutral,5,Polo VI (AW); T-Roc I; T-Roc I-FL; up! I-FL,2017,2024
+VW,DLAB,1.0L TSI,Benzin,neutral,5,Golf VIII,2020,2024
+VW,DLRA,1.5L eTSI,Benzin,neutral,5,Golf VIII,2020,2024
+VW,DLUB,2.0L TDI,Diesel,neutral,5,Sharan II-FL,2018,2022
+VW,DMZA,2.0L BiTDI,Diesel,neutral,5,T6.1 I,2021,2024
+VW,DNFC,2.0L TFSI,Benzin,neutral,5,Golf VIII; T-Roc I; T-Roc I-FL,2019,2024
+VW,DNFE,2.0L TSI,Benzin,neutral,5,Arteon I-FL,2020,2026
+VW,DNFG,2.0L TFSI,Benzin,neutral,6,Golf VIII; Arteon I-FL,2020,2026
+VW,DNPA,2.0L TFSI,Benzin,neutral,7,Golf VIII,2020,2024
+VW,DNPE,2.0L TSI,Benzin,neutral,5,Tayron I,2024,2026
+VW,DNUA,2.0L TSI,Benzin,neutral,5,Passat B8-FL,2019,2023
+VW,DNYE,2.0L TSI,Benzin,neutral,5,Polo VI (AW),2021,2024
+VW,DSFB,2.0L TSI,Benzin,neutral,5,Arteon I-FL,2020,2026
+VW,DSGC,1.0L MPI,Benzin,neutral,5,up! I-FL,2020,2023
+VW,DSSA,2.0L TDI,Diesel,neutral,5,Multivan T7,2021,2024
+VW,DTRD,2.0L TDI,Diesel,neutral,5,Golf VIII,2020,2024
+VW,DTSB,2.0L TDI,Diesel,neutral,5,Golf VIII,2020,2024
+VW,DTUA,2.0L TDI,Diesel,neutral,10,Golf VIII; Passat B8-FL; Arteon I-FL,2020,2026
+VW,DXDC,1.5L eTSI,Benzin,neutral,5,Tiguan III,2024,2026
+VW,DXNB,2.0L TDI,Diesel,neutral,5,Tiguan III,2024,2026
+VW,DXPA,2.0L TDI,Diesel,neutral,5,Tiguan III,2024,2026
+VW,EUP-ED,0.0L Elektro,Elektro,neutral,5,up! I,2013,2019
+VW,EUP-ED2,0.0L Elektro,Elektro,neutral,5,up! I,2019,2024
+VW,AHW,1.4L 16V,Benzin,recommended,5,Golf IV,1997,2006
+VW,AKU,1.7L SDI,Diesel,recommended,5,Lupo I,1998,2005
+VW,ALL,1.0L,Benzin,recommended,5,Lupo I,1998,2005
+VW,ALT,2.0L 20V,Benzin,recommended,5,Passat B5-GP,2000,2005
+VW,APP550-ID7,0.0L Elektro Dual,Elektro,recommended,5,ID.7 I,2024,2026
+VW,AXA,2.0L,Benzin,recommended,5,T5 I; T5 II,2003,2013
+VW,BBY,1.4L 16V,Benzin,recommended,5,Polo IV (9N),2001,2005
+VW,BGU,1.6L MPI,Benzin,recommended,5,Golf V,2003,2009
+VW,BNM,1.4L TDI,Diesel,recommended,4,Fox I,2005,2010
+VW,BSE,1.6L MPI,Benzin,recommended,9,Touran I,2003,2010
+VW,BUD,1.4L 16V,Benzin,recommended,5,Golf V,2006,2009
+VW,CHYA,1.0L MPI,Benzin,recommended,5,up! I; up! I-FL,2011,2023
+VW,CJXE,2.0L TFSI,Benzin,recommended,6,Golf VII,2016,2018
+VW,CYVB,1.2L TSI,Benzin,recommended,5,Golf VII; Touran II,2014,2018
+VW,CZEA,1.4L TSI,Benzin,recommended,7,Polo V (6C),2014,2017
+VW,DACA,1.5L TSI,Benzin,recommended,9,Golf VII-FL,2017,2020
+VW,DLAA,1.0L TSI,Benzin,recommended,9,Golf VIII,2020,2024
+VW,DMV,4.0L V8 TDI,Diesel,recommended,5,Touareg III,2019,2021
+VW,DNAA,2.0L TDI,Diesel,recommended,5,T6.1 I; Multivan T7,2021,2026
+VW,DNAB,2.0L TDI,Diesel,recommended,5,T6.1 I,2021,2024
+VW,DNAC,2.0L TDI,Diesel,recommended,4,T6.1 I,2021,2024
+VW,DNNA,2.0L TSI,Benzin,recommended,5,Passat B8-FL; Arteon I-FL,2019,2026
+VW,DPBA,1.5L TSI,Benzin,recommended,5,Golf VIII,2020,2024
+VW,DPCA,1.5L TSI,Benzin,recommended,9,Golf VIII; Touran II; Passat B8-FL; Tayron I,2020,2026
+VW,DXDB,1.5L eTSI,Benzin,recommended,5,Tiguan III,2024,2026
